@@ -1,0 +1,1089 @@
+statement by dr.y.venugopal reddy,
+governor, reserve bank of india on the
+first quarter review of annual monetary policy
+for the year 2006-07
+this review consists of three sections: i. assessment of
+macroeconomic and monetary developments; ii. stance of
+monetary policy; and iii. monetary measures. an analytical review
+of macroeconomic and monetary developments was issued a
+day in advance as a supplement to this review, providing the
+necessary information and technical analysis with the help of
+charts and tables.
+
+i. assessment of macroeconomic and
+monetary developments
+domestic developments
+2.
+real gdp growth during january-march 2006 is placed at
+9.3 per cent as against 8.6 per cent in the corresponding quarter
+a year ago. accordingly, the central statistical organisation
+(cso) in its end-may 2006 release, revised the estimates of real
+gdp growth for 2005-06 to 8.4 per cent - up from the advance
+estimates of 8.1 per cent released in february 2006. real gdp
+originating in agriculture, industry and services sectors rose in
+the revised estimates by 3.9 per cent, 7.6 per cent and 10.3
+per cent, respectively, during 2005-06 as against 0.7 per cent,
+7.4 per cent and 10.2 per cent in 2004-05.
+3.
+while the onset of the south-west monsoon occurred nearly
+a week in advance, its progress stalled in the subsequent fortnight
+which resulted in delay in sowing in some parts of the country.
+the revival of monsoon activity from the last week of june and
+1
+
+its spread across various parts of the country should, however,
+mitigate the impact of these early adversities on the kharif output.
+of the normal area of 101.1 million hectares under kharif crops,
+27.2 million hectares were covered by sowing by july 10, up
+from 24.3 million hectares in the corresponding period of the
+preceding year. significant increases in sown area have been
+recorded under rice (13.7 per cent), pulses (32.4 per cent),
+cotton (29.6 per cent), coarse cereals (7.7 per cent) and
+sugarcane (4.1 per cent). there has been a moderate rise
+so far in the area sown under oilseeds. soil moisture conditions
+have improved in regions covered by these crops. during the
+season so far (june 1 to july 19), rainfall has been excess/
+normal in 24 of the 36 meteorological subdivisions and
+86 per cent of the long-period average (lpa). the india
+meteorological department (imd) has updated its initial forecast
+and has placed the rainfall for the south-west monsoon season
+at 92 per cent of the lpa for the country as a whole.
+4.
+led by manufacturing which returned to double-digit growth
+in april-may, 2006 (10.9 per cent) after a gap of five months and
+supported by mining (3.2 per cent) and electricity (5.3 per cent),
+the index of industrial production (iip) rose by 9.8 per cent, the
+highest increase since july 2005 and up from 9.5 per cent in
+april-may, 2005. within manufacturing, growth was driven by
+basic metals, machinery and transport equipment, with some
+slowdown in textiles. in terms of the use-based classification,
+the key feature in april-may 2006 was the growth of 21.1
+per cent in capital goods (13.9 per cent a year ago), reflecting
+the strength of investment activity. the production of basic goods
+rose by 9.0 per cent (7.5 per cent) and intermediate goods by
+7.6 per cent (3.4 per cent) drawing from the underlying buoyancy
+in industrial activity. on the other hand, there was some
+2
+
+deceleration in the growth of consumer goods to 9.0 per cent
+(15.9 per cent), mainly on account of consumer non-durables.
+the six infrastructure industries, comprising nearly 27 per cent
+of the iip, posted a growth of 5.9 per cent during april-may,
+2006 as against 7.1 per cent a year ago. improvement in
+performance was recorded in petroleum products, whereas the
+growth of coal production, cement, finished steel and electricity
+decelerated and crude petroleum production registered a decline.
+5.
+the performance of the private corporate sector has been
+moderating through 2005-06 from a high growth phase in the
+preceding three years. a deceleration in sales growth, higher
+input costs, increase in borrowings, especially from banks, and
+the consequent increase in interest payments imposed pressures
+on margins, leading to a distinct slowdown in profit growth from
+51.2 per cent in 2004-05 to 24.1 per cent in 2005-06. early
+results for the first quarter of 2006-07, however, indicate that
+both sales growth and profits after tax improved vis-à-vis the
+trends in 2005-06.
+6.
+the reserve bank’s industrial outlook survey indicates
+sustained business confidence in april-june, 2006 in relation to
+the previous quarter and also its level a year ago. companies
+reported improvement in the overall financial situation as
+availability of finance kept pace with the increasing working capital
+and other requirements. performance indicators for order books,
+output, employment, capacity utilisation, exports and imports
+are expected to be above their levels in the preceding quarter.
+over four-fifths of the respondents reported raw material and
+finished goods inventories to be around the average level and a
+majority indicated increase in raw material prices. expectations
+regarding the overall business situation and other major indicators
+3
+
+for july-september, 2006 are significantly higher than for
+april-june, 2006. business expectation surveys conducted by
+most other agencies also indicate an optimistic outlook in terms
+of overall economic conditions and investment climate, though
+there are indications of some tempering of such optimism in one
+survey. seasonally adjusted purchasing managers’ indices signal
+an ongoing improvement in operating conditions in june, driven
+by output and new orders growth, including for exports.
+7.
+lead indicators of services sector activity suggest that the
+robust growth recorded in 2005-06 has been sustained in the
+initial months of 2006-07. railway revenue earnings from freight
+traffic increased year-on-year by 11.0 per cent in april 2006,
+while total cell phone connections and net addition in switching
+capacity in the telecom sector jumped by 167.0 per cent and
+572.1 per cent, respectively. the import and export cargo handled
+by the civil aviation sector posted growth rates of 19.9 per cent
+and 10.1 per cent, respectively. foreign tourist arrivals in
+april-may 2006 rose by 20.0 per cent over the corresponding
+period last year. the passengers handled at international and
+domestic terminals also registered growth of 16.2 per cent and
+54.0 per cent, respectively, in april 2006.
+8.
+banking sector activity is closely reflecting the impulses
+from the real economy. in the interpretation of movements in
+banking aggregates, however, a caveat is in order. the annual
+policy statement of april 2006 had indicated that march 31,
+2006 being the last reporting friday of 2005-06 lent an upward
+bias to data for that year (since 2005-06 covered 27 fortnights of
+reported data instead of the usual 26 fortnights). per contra, the
+same phenomenon has imposed a downward bias on data for
+2006-07. illustratively, variations in banking aggregates up to
+4
+
+july 7, 2006 are measured from march 31, 2006 i.e., seven
+reporting fortnights. conventionally, they would have been
+compared with corresponding variations in 2005-06 which are
+measured from march 18, 2005 – the last reporting friday for
+that year – i.e., covering eight reporting fortnights. on the other
+hand, if similar comparisons are made, i.e., variations in the
+corresponding period of 2005-06 are measured from april 1,
+2005 so as to cover seven reporting fortnights, the co-movement
+between banking and real sector activity becomes clearer. all
+comparison of such aggregates is made on this basis in this
+statement.
+9.
+on this basis, non-food credit of scheduled commercial
+banks (scbs) increased by rs.37,749 crore (2.6 per cent) up to
+july 7, 2006 as compared with an increase of rs.19,948 crore
+(1.8 per cent) in the corresponding period a year ago. this
+increase is contra-seasonal and is the highest first quarter
+expansion in the past five years. in view of the march 31, 2006
+phenomenon, year-on-year changes in monetary, credit and other
+banking aggregates are more appropriate for analytical purposes
+than financial year variations. on a year-on-year basis, the
+increase in non-food bank credit was 32.9 per cent (rs.3,71,993
+crore) on top of an increase of 31.0 per cent (rs.2,60,164 crore),
+net of conversion of a non-bank into a bank, a year ago.
+provisional information available for april and may, 2006 indicates
+that within the services sector, which currently absorbs about
+50 per cent of non-food bank credit, retail lending rose by 74
+per cent on a year-on-year basis with growth in housing loans
+being 115.5 per cent. loans to commercial real estate rose by
+101.3 per cent. the year-on-year growth in credit to industry
+was of the order of 26.0 per cent by may 2006. substantial
+increases were observed in credit flow to industries like
+5
+
+infrastructure (34.7 per cent), metals (37.6 per cent), vehicles
+(37.9 per cent), gems and jewellery (43.5 per cent) and
+construction (52.6 per cent). the growth in bank credit to
+agriculture was of the order of 35 per cent in may 2006 on a
+year-on-year basis.
+10. commercial banks’ investments in shares, bonds/
+debentures and commercial paper (cp) increased by
+rs.1,075 crore (1.3 per cent) during 2006-07 so far, as against
+a decline of rs.2,683 crore (-2.9 per cent) in the corresponding
+period of 2005-06. by contrast, on a year-on-year basis, there
+was a decline in such investments by banks of the order of
+rs.9,508 crore (-10.5 per cent) in contrast to an increase of
+rs.4,066 crore (4.7 per cent) a year ago. banks appear to be
+undertaking portfolio shifts away from investments in order to
+accommodate the sustained demand for credit. accordingly, the
+year-on-year growth in total flow of resources from scbs to the
+commercial sector was 29.6 per cent (rs.3,62,485 crore) over
+and above 27.7 per cent (rs.2,57,062 crore), net of conversion,
+a year ago.
+11. aggregate deposits of scbs increased by rs.68,499 crore
+(3.2 per cent) up to july 7, 2006 as against an increase of
+rs.19,435 crore (1.1 per cent) in the corresponding period of
+the previous year. the accretion to bank deposits during
+2006-07 so far is the highest for any comparable period since
+1993-94 (excluding the impact of conversion of non-banks into
+banks). the year-on-year increase in aggregate deposits at
+20.7 per cent (rs.3,72,977 crore) was significantly higher than
+14.9 per cent (rs.2,34,020 crore), net of conversion, a year
+ago. with the year-on-year growth in credit still outpacing deposit
+growth, the incremental non-food credit-deposit ratio continued
+6
+
+to remain high at 99.7 per cent as compared with 111.2
+per cent, net of conversion, a year ago.
+12. investments in government and other approved securities
+by scbs increased by rs.49,697 crore during the current year
+so far (up to july 7, 2006) as against a decline of rs.1,133 crore
+in the corresponding period of 2005-06. these investments mainly
+reflect large magnitudes of reverse repos with the reserve bank
+and the consequent acquisition of government securities.
+exclusive of liquidity adjustment facility (laf) operations,
+however, banks’ investments in government and other approved
+securities declined by rs.1,328 crore during 2006-07 up to july 7,
+as compared with an increase of rs.12,397 crore a year ago.
+the subdued appetite of banks for investments in general and a
+preference for funding advances by shedding incremental gilt
+holdings was reflected in commercial banks’ holdings of
+government and other approved securities declining from 36.4
+per cent of the banking system’s net demand and time liabilities
+(ndtl) on july 8, 2005 to 31.5 per cent as on july 7, 2006.
+such investments remain at rs.1,57,548 crore above the statutory
+requirement. excluding laf holdings, however, investments of
+banks in approved securities in excess of the prescribed statutory
+liquidity ratio (slr) amounted to rs.99,273 crore or 4.1 per cent
+of the system’s ndtl. this is indicative of the limits to which
+slr disinvestment can potentially fund credit demand.
+13. on a year-on-year basis, money supply (m3) growth at
+18.8 per cent by july 7, 2006 was higher than 13.8 per cent, net
+of conversion, a year ago and above the projected trajectory of
+15.0 per cent indicated in the annual policy statement for
+2006-07. on a financial year basis, m3 increased by rs.91,114
+crore (3.3 per cent) during 2006-07 up to july 7, 2006 as
+7
+
+compared with the increase of rs.40,730 crore (1.7 per cent) in
+the corresponding period of the previous year.
+14. on a year-on-year basis, the expansion in reserve money
+as on july 14 was of the order of 16.0 per cent, lower than
+18.0 per cent a year ago. on a financial year basis (july 14 over
+march 31, 2006), reserve money increased by rs.15,165 crore
+(2.6 per cent) up to july 14, 2006 as compared with the increase
+of rs.17,806 crore (3.6 per cent) in the corresponding period of
+the previous year. as regards the components of reserve money,
+currency in circulation increased by rs.23,646 crore
+(5.5 per cent) as compared with rs.19,536 crore (5.3 per cent).
+among the sources of reserve money, foreign currency assets
+of the reserve bank increased by rs.75,663 crore as against a
+decline of rs.20,630 crore in the corresponding period last year.
+net reserve bank credit to the central government declined
+by rs.1,736 crore as against an increase of rs.25,530 crore.
+15. the movements in reserve money during 2006-07 so far
+reflect the significant turnaround in liquidity conditions that has
+occurred between the last quarter of 2005-06 and the current
+financial year so far. the overhang of liquidity in the system, as
+reflected in the laf, the market stabilisation scheme (mss)
+and the central government’s cash balances with the reserve
+bank which, put together, averaged rs.65,174 crore during
+january-march, 2006 increased to rs.92,664 crore in april 2006
+and settled at rs.85,287 crore and rs.86,730 crore in may and
+june 2006, respectively. on a review of the liquidity conditions,
+the reserve bank resumed auctions under the mss with effect
+from may 3, 2006 in accordance with the annual ceiling for
+2006-07 fixed at rs.70,000 crore. it may be mentioned that the
+reserve bank had refrained from fresh auctions under the mss
+8
+
+since the second half of november 2005. the reserve bank
+absorbed an average daily amount of rs.46,088 crore during
+april, rs.59,505 crore in may, rs.48,611 crore in june and
+rs.50,162 crore in july (up to july 20) under the laf. the
+liquidity overhang in the system was placed at rs.91,231 crore
+as on july 20, 2006.
+16. inflation, measured by variations in the wholesale price
+index (wpi) on a year-on-year basis, rose from 4.1 per cent at
+end-march 2006 to 4.7 per cent as on july 8, 2006. prices
+of primary articles, manufactured products and ‘fuel, power,
+light and lubricants’ registered increases of 4.7 per cent,
+3.6 per cent and 7.3 per cent, respectively, as against
+2.3 per cent, 3.0 per cent and 10.5 per cent a year ago.
+inflationary pressures are mainly reflecting the pass-through of
+the hike in administered prices of petrol and diesel effected on
+june 6, 2006 and increases in prices of food items, including
+the seasonal spike in prices of fruits and vegetables.
+17. the increase of 4.2 per cent in prices of food articles
+accounted for nearly 14 per cent of the year-on-year headline
+inflation. the main drivers of inflation in the food articles segment
+were milk, pulses and wheat. a number of measures have been
+recently undertaken with a view to heading off these supply side
+pressures on inflation. import duty on wheat was reduced from
+50 per cent to 5 per cent to moderate the landed import costs.
+in june, private entities were allowed to import wheat, pulses
+and sugar under easier terms to contain inflation. furthermore,
+a general ban has been applied on the export of refined sugar
+and pulses until the end of march 2007. during 2005-06, total
+stock of foodgrains with the food corporation of india (fci) and
+other government agencies declined by 1.4 million tonnes.
+9
+
+as on may 1, 2006 total foodgrains stock at around 22.8 million
+tonnes was above the buffer stock norm of 16.2 million tonnes.
+procurement of wheat during 2006-07 at 9.2 million tonnes up
+to july 11, 2006 was lower by 37.6 per cent than in the
+corresponding period last year.
+18. the average international price of the indian crude basket
+increased from us $ 60.1 per barrel in january-march, 2006
+to us $ 67.3 per barrel in april-june, 2006 and further to
+us $ 71.4 per barrel in july 2006 (up to july 21). excluding
+mineral oils, however, the wpi inflation works out to 3.0
+per cent on july 8, 2006. fuel prices, which account for about
+35 per cent of the increase in wpi, constitute a major risk to
+headline inflation. domestic prices of petrol and diesel (average
+of four metros) were increased by nearly 9.0 per cent and
+6.5 per cent, respectively, in early june; however, international
+crude oil prices continue to be volatile and rising.
+19. on an annual average basis, wpi inflation was 4.3
+per cent as against 6.3 per cent a year ago. during 2006-07
+so far, there has been a reversal of the phenomenon of consumer
+prices lagging wholesale prices, indicative of the sharp increase
+in food prices which constitute a relatively larger share in the
+consumer price basket. on a year-on-year basis, inflation based
+on the consumer price index (cpi) for agricultural labourers and
+rural labourers increased to 7.2 per cent each in june 2006
+from 2.7 per cent each a year ago. the year-on-year cpi inflation
+for industrial workers and urban non-manual employees was
+placed at 6.3 per cent and 5.8 per cent in may 2006 as against
+3.7 per cent and 4.2 per cent, respectively, a year ago.
+20. revenue receipts of the union government improved from
+3.4 per cent as a proportion to the budget estimates (be) in
+10
+
+april-may, 2005 to 4.8 per cent of the be in april-may, 2006
+reflecting both higher tax and non-tax revenue receipts. total
+expenditure at 16.3 per cent of the be was higher than 11.6
+per cent of the be in april-may, 2005. there was a substantial
+increase in plan expenditures on account of front-loading of
+transfers to the public account under the central road fund
+(crf) and the national rural employment guarantee fund
+(nregf). there was also a sharp rise in non-plan revenue
+expenditure under grants to states, economic services and
+subsidies and, in particular, interest payments. accordingly, as
+a proportion to the be, the gross fiscal deficit (gfd) and revenue
+deficit increased to 48.5 per cent and 81.0 per cent, respectively,
+during april-may, 2006 as compared with 31.5 per cent and
+46.3 per cent in the corresponding period last year.
+21. gross market borrowings of the central government at
+rs.69,533 crore (rs.60,282 crore a year ago) during 2006-07
+so far (up to july 17, 2006) constituted 38.2 per cent of the be
+while net market borrowings at rs.34,572 crore (rs.39,234 crore
+a year ago) constituted 30.4 per cent of the be. the weighted
+average yield and weighted average maturity of central
+government securities issued during 2006-07 so far were 7.86
+per cent and 14.95 years, as compared with 7.34 per cent and
+16.90 years, respectively, for those issued during 2005-06.
+22. reflecting the easy conditions at the short end of the
+market spectrum, interest rates in the call, market repo and
+collateralised borrowing and lending obligations (cblo) segments
+of the money market eased to an average of 5.81 per cent,
+5.64 per cent and 5.56 per cent, respectively, in july (up to
+july 21, 2006) from 6.58 per cent, 6.17 per cent and 6.19
+per cent in march 2006.
+11
+
+23. the primary yields on 91-day treasury bills increased to
+6.44 per cent on july 21, 2006 from 6.11 per cent at end-march,
+2006. yields on 364-day treasury bills recorded a sharper rise
+from 6.42 per cent at end-march, 2006 to 7.02 per cent in
+july 2006. activity in the cp market picked up with an increase
+in the outstanding amount by 53.2 per cent to rs.19,490 crore
+by end-june, 2006 from rs.12,718 crore at end-march, 2006.
+the weighted average discount rate on cp declined from 8.59
+per cent to 7.10 per cent over this period. in the market for
+certificates of deposit (cds), the weighted average discount rate
+declined from 8.62 per cent at the end of march 2006 to 7.19
+per cent by end-june, accompanied by an increase of 29.4 per
+cent in the outstanding amount (i.e., from rs.43,568 crore to
+rs.56,390 crore).
+24. gilt prices declined in the secondary market for government
+securities. the yield on government securities with one-year
+residual maturity moved up from 6.52 per cent at end-march,
+2006 to 6.95 per cent as on july 21, 2006. the yield on
+government securities with 10-year residual maturity also firmed
+up from 7.52 per cent at end-march 2006 to 8.27 per cent as on
+july 21, 2006. the yield on government securities with 20-year
+residual maturity rose from 7.72 per cent to 8.69 per cent during
+the same period. consequently, the yield spread between
+10-year and one-year government securities widened from
+100 basis points to 132 basis points as on july 21, 2006. the
+yield spread between 20-year and one-year government
+securities widened from 120 basis points to 174 basis points
+during the same period. secondary market yields have generally
+hardened since june 2006 with the 10-year yield increasing
+sharply from 7.67 per cent on june 8 to 8.24 per cent on july
+21, 2006. the underlying factors in this regard could be unsettled
+12
+
+inflation expectations in the wake of soaring international crude
+prices feeding into interest rate uncertainty; sustained credit
+growth and competing demand for funds between public and
+private sectors; some spillover from global markets; and
+apprehensions of additional pressures on market resources from
+perceptions of possible higher borrowings by the centre in the
+second half of the year coupled with announcement of issuances
+of bonds to oil companies.
+25. banks increased their deposit rates by about 25-100 basis
+points across various maturities between march 2006 and july
+2006. a majority of psbs adjusted their deposit rates up to
+three year maturity upwards by 25 to 50 basis points, while
+keeping the range of 6.00-7.25 per cent unchanged for deposits
+of over three years over the same period. the adjustments in
+deposit rates made by some private sector and foreign banks
+were somewhat higher, up to 100 basis points, particularly for
+deposit rates of over one year maturity. the benchmark prime
+lending rates (bplrs) of psbs and private sector banks moved
+to a range of 10.75-11.50 per cent and 11.00-14.50 per cent
+from 10.25-11.25 per cent and 11.00-14.00 per cent, respectively,
+in the same period. the range of bplrs for foreign banks
+remained unchanged at 10.00-14.50 per cent during the period.
+26. in the foreign exchange market, some indications of
+pressure from mid-may, 2006 due to the sharp decline in stock
+indices and currencies worldwide were observed. market
+sentiment corrected by june and orderly conditions have
+prevailed thereafter. in contrast to the movements in the spot
+segment, the forward rates appreciated after april 2006. the
+average six-month forward premia eased from around
+1.3 per cent to about 1.0 per cent during may-july, 2006. market
+activity as measured by the overall daily turnover in various
+foreign exchange market segments increased from about
+us $ 27 billion in april 3, 2006 to around us $ 36 billion by
+may 15, 2006 before moderating to about us $ 26 billion by
+june 30, 2006.
+13
+
+27. the equity markets witnessed significant swings during
+the first quarter of 2006-07. the bse sensex (1978-79=100)
+increased from 11,280 at end-march 2006 to reach the all-time
+high of 12,612 on may 10, 2006 and a decline set in during the
+second half of may. the sensex reached a trough of 8,929 on
+june 14, 2006 but firmed up thereafter to reach 10,086 on
+july 21, 2006.
+developments in the external sector
+28. balance of payments data for 2005-06 released at
+end-june 2006 continue to indicate strength and resilience in
+the external sector. merchandise exports maintained a high
+growth trajectory, rising by 27.5 per cent during the year. exports
+of manufactures and, in particular, transport equipments,
+machinery and instruments, woollen yarn, fabrics and readymade
+garments, basic chemicals and pharmaceuticals and petroleum
+products underpinned the momentum of overall export growth.
+merchandise import payments also rose sharply by 31.6 per
+cent, largely reflecting a growth of 47.3 per cent in petroleum, oil
+and lubricants (pol) imports on the back of a rise in the average
+price of the indian basket of international crude by 42.4 per cent
+from us $ 38.9 per barrel in 2004-05 to us $ 55.4 per barrel in
+2005-06. non-oil import payments increased by 20.5 per cent
+with capital goods as key components, signifying the underlying
+strength of domestic industrial activity. accordingly, on a
+payments basis, the merchandise trade deficit widened to
+us $ 51.6 billion (6.5 per cent of gdp) from us $ 36.6 billion
+(5.3 per cent) in the previous year.
+29. during 2005-06, gross invisible receipts increased by 27.3
+per cent, apace with merchandise exports. at us $ 91.5 billion,
+invisible receipts amounted to about 87 per cent of merchandise
+14
+
+exports. the major components driving this expansion were
+software exports, remittances from indians working overseas
+and a host of professional and business services. during
+2005-06, invisible payments increased by 24.4 per cent, mainly
+on account of higher interest payments and imports of
+transportation, business and technology-related services.
+nevertheless, the net invisible surplus rose to us $ 40.9 billion
+in 2005-06 from us $ 31.2 billion in the previous year.
+accordingly, the current account deficit (cad) amounted to
+us $ 10.6 billion during 2005-06 or 1.3 per cent of gdp, up
+from us $ 5.4 billion or 0.8 per cent of gdp in 2004-05.
+30. in the capital account, net inflows under foreign direct
+investment (fdi), portfolio investment and non-resident indian
+(nri) deposits recorded increases in 2005-06 while other capital
+flows including external assistance and external commercial
+borrowings moderated in relation to their levels in the preceding
+year. net fdi inflows to india picked up to us $ 5.7 billion in
+2005-06 from us $ 3.2 billion in 2004-05 on sustained interest
+in india as an attractive investment destination, strong
+macroeconomic performance and corporate profitability.
+fdi inflows were mainly channelled into manufacturing, business
+and computer services. net inflows under portfolio investment
+remained buoyant at us $ 12.5 billion in 2005-06, up from
+us $ 8.9 billion in 2004-05, extending an expansionary phase
+that began two years ago. american depository receipts/global
+depository receipts (adrs/gdrs) issuances also remained
+buoyant as corporates took advantage of external market
+conditions to issue equities abroad. nri deposits showed a
+significant turnaround from net outflows of us $ 1.0 billion in the
+previous year to net inflows of us $ 2.8 billion in 2005-06. there
+was a one-off principal repayment of india millennium deposits
+15
+
+(imd) (us $ 5.5 billion) in the capital account and interest
+payments (us $ 1.6 billion) under the current account.
+31. reflecting the movements in current and capital accounts
+of the balance of payments, the accretion to foreign exchange
+reserves (excluding valuation) amounted to us $ 15.1 billion
+during 2005-06 on top of us $ 26.2 billion in 2004-05. at the
+end of march 2006, the foreign exchange reserves stood at
+us $ 151.6 billion.
+32. india’s external debt increased marginally by us $ 2.0
+billion during 2005-06 to us $ 125.2 billion at end-march, 2006.
+among the various components of debt, nri deposits, trade
+credit and multilateral debt registered increases which were
+moderated by the redemption of imd in december 2005. the
+us dollar had a dominant share of 45.1 per cent in india’s
+external debt by currency whereas rupee-denominated debt had
+a share of 19.9 per cent in the external debt at end-march, 2006.
+the ratio of short-term debt to total debt increased marginally to
+7.0 per cent at end-march, 2006 from 6.1 per cent a year ago.
+33. according to the directorate general of commercial
+intelligence and statistics (dgci&s), export growth in us dollar
+terms moderated to 16.9 per cent during april-june, 2006 from
+35.4 per cent a year ago. merchandise import also decelerated
+to 17.7 per cent from 45.4 per cent. while pol import growth
+rose sharply to 39.0 per cent from 31.0 per cent reflecting the
+steep rise in international crude oil prices, non-oil imports posted
+a relatively modest growth of 9.6 per cent as compared with
+51.7 per cent a year ago. accordingly, the trade deficit at
+us $ 12.6 billion during april-june, 2006 was higher than that of
+us $ 10.5 billion in the corresponding period last year. net
+invisible earnings and capital flows have remained reasonably
+16
+
+strong despite outflows by foreign institutional investors (fiis) in
+may-june. accordingly, india’s foreign exchange reserves
+increased by us $ 11.0 billion over their end-march, 2006 level
+to us $ 162.7 billion as on july 14, 2006.
+34. the exchange rate of the rupee depreciated by
+4.7 per cent against the us dollar, by 8.4 per cent against euro,
+by 10.2 per cent against pound sterling and by 5.1 per cent
+against japanese yen during 2006-07 so far (up to july 21,
+2006). orderly conditions have prevailed in the domestic foreign
+exchange market during the period.
+35. the exchange rate policy in recent years has been guided
+by the broad principles of careful monitoring and management
+of exchange rates with flexibility, without a fixed target or a
+pre-announced target or a band, coupled with the ability to
+intervene if and when necessary. the overall approach to the
+management of india’s foreign exchange reserves takes into
+account the changing composition of the balance of payments
+and endeavours to reflect the ‘liquidity risks’ associated with
+different types of flows and other requirements.
+developments in the global economy
+36. global expansion appears to be proceeding at a strong
+pace in 2006 and is getting diffused across the main economic
+regions. according to the world economic outlook of the
+international monetary fund (imf) released in april 2006, global
+growth is expected to pick up from 4.8 per cent in 2005 to
+4.9 per cent in 2006 before easing to 4.7 per cent in 2007.
+37. global growth accelerated in the first half of 2006. in the
+us, real gdp increased by 5.6 per cent in the first quarter, led
+17
+
+by personal consumption expenditure, exports and federal
+government spending. the us economy is expected to grow at
+3.4 per cent in 2006 and remains the main engine of global
+growth. in the euro area, a recovery is underway with first quarter
+real gdp growth at 1.9 per cent and projected to rise to
+2.0 per cent in 2006. in japan, the recovery is gathering
+momentum, and there are encouraging signs that the economy
+has emerged from the debt-deflation spiral of the past decade.
+in china (11.3 per cent in the second quarter), hong kong
+(8.2 per cent in the first half) and india (9.3 per cent in the first
+quarter), the rapid pace of growth appears to have picked up
+further. in russia and latin america, too, growth has been
+buoyant.
+38. substantial increases have occurred in a wide range of
+commodity prices. while prices of oil and metals continue to be
+the main drivers, food prices have started edging up. crude oil
+prices surged since april and almost doubled over the levels
+recorded in the last two years, touching a high of us $ 76.7
+per barrel on july 13, 2006. the international pass-through of oil
+prices to domestic retail prices has been varied across countries,
+with implications for future inflation. world cereal production, in
+particular, wheat and coarse grains, is expected to decrease in
+2006, leading to a drawdown of stocks for the second consecutive
+year. prices of rice and wheat, in particular, are expected to
+harden on strong demand growth, high input prices and low
+global stocks. non-energy prices have been increasing through
+2005 and the first half of 2006. in fact, the recent turmoil in
+global markets appears to have been triggered by key commodity
+prices. global metal prices rose by 48.4 per cent on an annual
+basis during the first six months of 2006 on top of an increase
+of 26.4 per cent in 2005. metal price movements in recent
+18
+
+months have been characterised by a heightened degree of
+volatility.
+39. consumer price inflation in the advanced economies
+accelerated in the second quarter of 2006. in the us, consumer
+prices rose to 4.3 per cent in june from 3.5 per cent in april,
+primarily on account of energy prices. in the euro area too,
+inflation rose to 2.5 per cent in may and june from 2.4 per cent
+in april. consumer prices continue to increase moderately in
+japan, i.e., by 0.6 per cent in may on account of higher oil
+prices. in the uk, inflation breached the bank of england’s target
+of 2.0 per cent in april and rose to 2.5 per cent in june. in major
+industrial countries, inflation appears to be on the upswing mainly
+on account of oil price increases. in addition, risks loom large in
+the form of lagged second order effects of oil price increases,
+geopolitical tensions, the probability of disruptive adjustment of
+current account imbalances and the cooling global housing
+market. inflation expectations have also been reflected in the
+gap between nominal and inflation-indexed bonds which hovered
+in the range of 2.2-2.7 per cent in the us in may-july.
+40. global imbalances, emanating mainly from the twin deficits
+of the us and reflected in misalignment of major currencies,
+have continued to widen during 2006 in an environment of rising
+interest rates worldwide and prospects of contraction of liquidity
+in the global financial markets. the current account deficit of the
+us surpassed us $ 800 billion in 2005, matched by increased
+surpluses elsewhere, particularly in japan, europe, china and
+other parts of emerging asia and oil-exporting countries. the
+imf projects that the u.s. current account deficit will remain at
+about 6 per cent of gdp into the medium term, with some
+improvement in the u.s. fiscal position offset by low private
+19
+
+savings and rising interest payments. the sharp rise in the net
+foreign liability position of the us raises the risks of abrupt and
+disorderly adjustment of major currencies as the global
+imbalances unwind.
+41. financial markets are becoming increasingly apprehensive
+about the risks of a disorderly adjustment of the widening global
+imbalances. adverse expectations of markets were recently
+evident in the large declines in stock exchanges across the
+globe and a visibly increased preference for debt. long-term
+sovereign bond yields, which had moved up briefly, have again
+fallen well below their long-run averages and yield curves have
+either flattened or inverted in major industrial economies.
+ten-year bond yields in japan, the euro area and the us currently
+stand at 1.79 per cent, 3.95 per cent and 5.05 per cent,
+respectively.
+42. against the background of these global developments,
+a large number of central banks have raised their official interest
+rates from the unusually low levels that they had reached earlier
+in the decade. they include the us federal reserve
+(by 25 basis points each on seventeen occasions from june
+2004 to 5.25 per cent by june 2006); the european central
+bank (ecb) (three times since december 2005 by 25 basis
+points each to 2.75 per cent); the bank of japan (uncollateralised
+overnight rate to 0.25 per cent in july after maintaining a zero
+interest rate policy since 2001); the bank of canada
+(by 50 basis points in april-may, 2006 to 4.25 per cent); the
+reserve bank of australia (by 25 basis points in may 2006 to
+5.75 per cent); the people’s bank of china (lending rate raised
+by 0.27 percentage points to 5.85 per cent on april 28, 2006;
+required reserve ratio by 50 basis points on july 5 to 8.0 per cent
+20
+
+and a further increase of 50 basis points to become effective
+from august 15, 2006); the bank of korea (by 25 basis points
+to 4.25 per cent in june); and the banco central de
+chile (benchmark lending rate raised to 5.25 per cent on
+july 13, 2006).
+43. some central banks have kept their policy rates steady as
+for instance, the bank of england (repo rate at 4.50 per cent
+since august 2005); bank negara malaysia (policy rate at
+3.5 per cent since april 2006); the bank of thailand (the 14-day
+repurchase rate at 5.00 per cent since june 2006); and the
+monetary authority of singapore.
+44. a few central banks have eased monetary policy in the
+recent period such as the banco de mexico (cut the benchmark
+overnight lending rate from 7.50 per cent to 7.25 per cent in
+march 2006 and further to 7.0 per cent in april 2006); bank
+indonesia (reduced its policy rate from 12.50 per cent to
+12.25 per cent on july 6, 2006); and the banco central do
+brasil (cut selic rate target gradually from september 2005 to
+14.75 per cent by july 2006).
+overall assessment
+45. there are several positive factors in domestic
+developments during 2006-07 so far which support an optimistic
+near-term outlook for the indian economy. first, corporate
+performance remains reasonably robust, despite some
+deceleration. second, investment activity is picking up in an
+environment of rising capital expenditures of corporates, a surge
+in capital goods production in april and may, continuing expansion
+of investment intentions and strong demand for bank credit.
+third, most business confidence surveys report growth in new
+21
+
+order books, increase in capacity utilisation and improvement in
+financing conditions notwithstanding some hardening of interest
+rates. fourth, even as non-food bank credit has continued to
+expand at the high rates recorded over the last couple of years,
+deposit growth has picked up and overall liquidity in the system
+has been ample. banks continue to hold over rs.1,50,000 crore
+of excess slr investments which could, to some extent,
+accommodate the demand for bank credit. fifth, financial markets
+have responded to these shifts in financing conditions, on the
+whole, in an orderly fashion. sixth, inflation has stabilised since
+mid-june, despite increases in administered prices of petroleum
+products and the spike in food prices. price stability has created
+conducive conditions for growth to continue undisrupted.
+46. on the external front, export growth remains strong.
+although early indications suggest that non-oil import growth
+appears to have slackened somewhat, the continuing sharp
+growth of pol imports, driven by soaring international crude
+prices, has resulted in a higher trade deficit. invisible earnings
+and capital flows have, however, enabled the financing of the
+rising trade deficit while adding to the reserves during the year
+so far.
+47. some developments in the first quarter of 2006-07 do
+suggest the need to remain on guard against the emerging
+risks. the changes in administered prices of petrol and diesel in
+june 2006 imparted a direct effect of 45 basis points on headline
+inflation. given that catch-up of domestic pol product prices
+with the possible permanent component of international prices
+remains incomplete, the upside risks to inflation are evident. in
+the recent period, these risks have become amplified by the
+renewed hardening of international crude prices to new highs,
+22
+
+due to escalating geopolitical tensions. the recent increases in
+domestic food prices occurring in an environment in which
+international food prices are also hardening is a relevant factor
+in this regard, though some seasonal elements in movements in
+domestic prices of food items are possible. these risks to inflation
+are being carefully monitored with appropriate supply-side policy
+responses of the government.
+48. non-food bank credit growth on a year-on-year basis
+remains high and comparable to the elevated rates recorded
+since 2004-05. the growth of monetary aggregates is also higher
+on a year-on-year basis. interest rates in various segments of
+the financial markets have hardened with the exception of the
+money markets which reflect contrasting conditions of excess
+liquidity. accordingly, call, market repo and cblo rates have
+eased with absorption of liquidity of about rs 60,000 crore, and
+even beyond, on a daily basis in the laf during mid-may to
+early june and again in the first week of july. by contrast, the
+tightening of yields in the government securities market needs
+to be noted. these developments would warrant closer policy
+attention in response to evolving circumstances. on the whole,
+financial markets in india, despite the noticeable volatility in equity
+markets, have exhibited resilience relative to most other emerging
+market economies.
+49. the annual policy statement of april 2006 warned of three
+key risks from global developments for emerging economies
+including india: potential escalation and volatility in international
+crude prices; a disorderly unwinding of the global imbalances;
+and a hardening of international interest rates along with the
+direction of movement in setting monetary policy. since then,
+the evolution of the global economy seems to indicate that each
+23
+
+of these risks is materialising; in fact, these risks appear to have
+heightened in recent months. first, international crude prices
+have risen from an average level of us $ 57 per barrel at
+end-2005 to above us $ 73 per barrel currently. by all indications,
+crude oil prices are expected to remain at elevated levels until
+the end of 2007 with no respite in sight. second, global
+imbalances are likely to persist in 2006. large misalignment
+among major currencies is now in evidence with sharp
+cross-currency movements characterising recent months. third,
+while core inflation appears contained, headline inflation has
+hardened across countries in the second quarter of 2006, driven
+up mainly by crude prices and some pressure from non-energy
+prices. fourth, since the announcement of the annual policy
+statement, monetary policy has been tightened further with
+increases in key policy rates in some advanced economies such
+as the us, the euro area, canada, japan and australia as well
+as in some emerging economies like china, korea and chile,
+with some of them even acting simultaneously in early june.
+market expectations seem to reflect apprehensions of further
+tightening in the coming months. fifth, along with the recent
+shifts in portfolios away from the emerging markets and
+commodity exchanges, financial markets are currently re-pricing
+risks in an environment of uncertainty and, in particular, in
+emerging market economies.
+50. the prospects for growth in the world economy in 2006
+are considered bright and indicators of business confidence and
+unemployment in major economies lend credence to this optimism
+for the near-term. however, it is widely recognised that several
+features of the current global upswing are causes for concern:
+large fiscal deficits, low household savings and low investment
+in some large economies; unprecedented and growing current
+24
+
+account imbalances; narrowing or closing in of output gaps in
+many economies; record highs in oil prices accompanied by
+uncertainties about their future evolution; and the outlook for
+inflation firming up.
+51. in the global financial markets, the period since the annual
+policy statement has been characterised by significant re-pricing
+of risks. the first four months of 2006 saw a continuation of the
+shift by investors towards higher-risk asset classes, with marked
+increase in equity, commodity and high-yield debt prices. there
+were, however, some initial signs of discomfort in financial
+markets in february 2006 attributed to unwinding of carry trades
+and the steep fall in select equity markets. there was also some
+evidence of increased uncertainty in foreign exchange markets,
+globally. a clear reversal of direction in many markets came to
+the fore in mid-may. the prices of highly rated government bonds
+rose, while those of riskier assets fell. the mid-may correction
+was felt acutely by emerging market economies – especially in
+equity markets - including india. currencies of some emerging
+market economies depreciated significantly against the us dollar.
+it is clear that fundamentals could not have changed in such a
+dramatic fashion in a short time and, hence, it is reasonable to
+suggest that those economies that had gained most from lower
+pricing of risks in recent years felt the impact of reversal in
+direction since mid-may the most. the two important questions
+in assessing the outlook are: whether the process of re-pricing
+of risks, in general, is complete; and whether corrections
+are incomplete in the economies which benefited from
+lower-priced risks in the past. the overall macroeconomic and
+geopolitical global environment is admittedly indicative of
+marked downside risks.
+
+25
+
+ii. stance of monetary policy for the
+remaining period of 2006-07
+52. the annual policy statement for 2006-07 had stated that
+in the context of macroeconomic developments and the global
+scenario, it is necessary to be in readiness to act as warranted
+to meet the challenges posed by the evolving situation, given
+the unfolding of the risks. it had also indicated that the balance
+of risks was tilted towards the global factors and that in a situation
+of generalised tightening of monetary policy, india cannot afford
+to stay out of step. while keeping in view the dominance of
+domestic factors as in the past, the annual policy statement
+assigned more weight to global factors than before while
+formulating the policy stance. the overall stance of monetary
+policy for the year as a whole was expressed in terms of ensuring
+a monetary and interest rate environment that enables
+continuation of the growth momentum consistent with price
+stability while being in readiness to act in a timely and prompt
+manner on any signs of evolving circumstances impinging on
+inflation expectations. a key element of the stance was the
+focus on credit quality and financial market conditions to support
+export and investment demand in the economy for maintaining
+macroeconomic, and in particular, financial stability. emphasis
+was laid on responding swiftly to evolving global developments.
+53. since the announcement of the annual policy statement
+in april 2006, there was definitive evidence of widespread and
+simultaneous monetary policy tightening among several countries
+in early june. this had to be viewed against the backdrop of
+marked and heightened volatility in the financial markets. though
+not entirely unanticipated, the virtual global coverage, nature
+and timing of these developments posed a serious threat to
+26
+
+the domestic economy which, thus far, had been spared of
+turbulence in the debt and foreign exchange markets. these
+developments, viewed in the light of the prevailing monetary
+and credit environment underscored compulsions of swift action,
+as indicated in the annual policy statement. accordingly, on
+june 8, 2006 the laf reverse repo/repo rates were increased
+by 25 basis points. the spread between repo and reverse repo
+rate under the laf was retained at 100 basis points.
+54. in india, the prospects of sustaining the high growth
+momentum of recent years appear favourable at the current
+juncture with the outlook on agriculture somewhat positive and
+industrial and services sector activity remaining robust in the
+early months of 2006-07. inflationary pressures have, by and
+large, been contained so far by appropriate monetary policy
+action and supply-side policy measures that have been put in
+place to head off the cost-push effects of the recent hardening
+of food prices. business confidence continues to be healthy on
+the acceleration of growth in industrial production, particularly
+capital goods and exports. the economy can also be expected to
+benefit from the brightened growth prospects of the global
+economy. as regards the balance of payments, despite the growing
+oil import bill, the anticipated current account deficit in 2006-07 is
+manageable, as in the past, due to the continuing underlying
+strength of merchandise exports, invisibles and capital flows.
+55. there is also a need to note that within the domestic
+economy, demand pressures continue to be in evidence. first,
+the year-on-year money supply and credit growth indicates that
+aggregate demand conditions continue to be strong. second,
+there has been a significant turnaround in the liquidity conditions
+from considerable tightness in the last quarter of 2005-06 to
+27
+
+a large overhang of surplus liquidity. third, factors like increased
+prices of primary food articles and industrial raw materials are
+new forces impinging on domestic inflation expectations. this is
+in addition to the incomplete pass-through of global oil price
+increases which is largely being regarded now as containing
+a significant permanent component. against this background,
+it is critical that underlying inflationary pressures are contained
+and that inflationary expectations are anchored for supporting
+economic growth and financial stability.
+56. the annual policy statement had alluded to the liquidity
+risks embedded in a system which was significantly overdrawn
+in terms of credit portfolios. banks need to recognise the reality
+of business and credit cycles and the worldwide concern that
+is currently surrounding their evolution. analytical assessment
+of these realities could justify counter-cyclical switches in
+portfolios between loans and investments. ensuring credit quality
+remains a priority in the context of financial stability. banks would
+need to focus on mobilisation of retail deposits which have
+durability, stricter credit appraisals on a sectoral basis, monitor
+loan-to-value ratios and generally ensure the health of credit
+portfolios on an enduring basis.
+57. the outlook for the global economy presents, in some
+sense, a complex combination of strong growth and heightened
+uncertainties, especially the volatility in equity, and to some
+extent, in currency and bond markets, particularly in emerging
+economies, in addition to the concerns relating to oil prices. the
+responses of monetary authorities to developments in financial
+markets in the second quarter of the calendar year 2006 indicate
+greater resilience among most economies, developed as well as
+emerging, as financial markets re-price their risks aggressively,
+28
+
+although some nervous sentiments on the way forward are
+evident. in the circumstances, the response of our monetary
+policy to global developments should be pre-emptive at signs of
+heightened uncertainties but should also be willing to discern
+possible trends towards normalcy. thus, monetary policy may
+not be unidirectional for a prolonged period, recognising that the
+pace of changes in the global economic and financial environment
+is far more rapid now than ever before.
+58. some uncertainty continues to surround the progress of
+the monsoon. as of now, it is reasonable to assume that real
+gdp originating in agriculture would maintain its trend growth of
+3.0 per cent. the overall industrial outlook continues to be positive
+and services sector growth is expected to sustain its momentum.
+overall, for policy purposes, the forecast for gdp growth is
+retained in the range of 7.5-8.0 per cent during 2006-07 as
+projected in the annual policy statement, barring domestic or
+external shocks.
+59. there is some evidence that while increased competition
+and productivity gains in several sectors have contributed to
+some moderation in inflation, commodity prices and input costs
+are currently rising with producers increasingly prone to passing
+on the squeeze on margins to consumers. the pass-through of
+international oil price increases is expected to be higher in the
+future than before and policy authorities have to be on guard
+against second round effects. taking into account the real,
+monetary and global factors, containing the year-on-year inflation
+rate for 2006-07 in the range of 5.0-5.5 per cent warrants
+appropriate priority in policy responses.
+60. for the purpose of monetary policy formulation, the
+expansion in m3 was projected at around 15.0 per cent for
+29
+
+2006-07 in the annual policy statement. the growth in aggregate
+deposits was projected at around rs.3,30,000 crore in 2006-07.
+non-food bank credit including investments in bonds/debentures/
+shares of public sector undertakings and private corporate sector
+and cp was expected to increase by around 20 per cent.
+developments during the first quarter of 2006-07 indicate that
+money supply, deposit and credit growth are running well above
+the indicative projections, warranting caution by all concerned in
+this regard.
+61. central bankers all over the world revel over the dream
+run of low inflation coupled with high growth in recent years.
+they are confronted with the confusing realities presented by
+financial markets, oil markets and inflation uncertainties. they
+face the uncertainties of the future more acutely than ever before,
+since an increasingly globalised world is making assessments
+as well as policy options in the domestic arena very constrained.
+india is no exception to this, but a greater complexity is imparted
+since structural transformation of the economy and its gradual
+integration with the global economy add to the uncertainties.
+yet, the trade-offs and judgments have to be made, keeping in
+view the criticality of timeliness in actions and flexibility to respond
+appropriately. for our economy, the domestic considerations
+continue to dominate and maintaining growth momentum is of
+the highest importance, but if, contextually, priority has to be
+accorded to demand management, price stability, inflation
+expectations and financial stability, there should be no hesitation
+to do so. the current situation calls for some stabilising influences
+while keeping all the options open for the future to maintain a
+successful and dynamic balance between growth and stability
+that has been the hallmark of our macroeconomic policies during
+the reform period.
+30
+
+62. our current assessment points to the domestic economy
+exhibiting strong fundamentals and displaying considerable
+resilience. at the same time, there are disturbing signs of demand
+pressures, especially continuing high credit growth, that could
+exert upward pressure on prices when associated with supply
+shocks such as from oil. these pressures have the potential for
+impacting stability and inflation expectations. against this
+background, as usual, judgments are necessary as to the relative
+weights to be accorded to growth and price stability, recognising
+lags in monetary policy. while domestic developments continue
+to dominate our economy, global factors tend to gain more
+attention now than before. the global outlook for growth is
+positive but downside risks in regard to inflation and re-pricing
+of risks in financial markets need to be recognised. hence, it is
+necessary to strike a balance between reinforcing the resilience
+of our economy against global risks and taking advantage of
+global expansion. both domestic and global factors are delicately
+balanced in terms of growth vis-à-vis price stability with a tilt
+towards the possibility of identified downside risks materialising
+in the near-term being more likely than before. the unfolding
+path of the identified risks, however, is naturally unclear at this
+stage. on balance, a modest pre-emptive action in monetary
+policy is appropriate at this juncture while being ready to respond
+flexibly and promptly by closely monitoring the related
+developments.
+63. the reserve bank will continue to ensure that appropriate
+liquidity is maintained in the system so that all legitimate
+requirements of credit are met, particularly for productive
+purposes, consistent with the objective of price and financial
+stability. towards this end, the reserve bank will continue with
+its policy of active demand management of liquidity through
+31
+
+open market operations (omo) including mss, laf and crr,
+and using all the policy instruments at its disposal flexibly, as
+and when the situation warrants.
+64. in sum, barring the emergence of any adverse and
+unexpected developments in various sectors of the economy
+and keeping in view the current assessment of the economy
+including the outlook for inflation, the overall stance of monetary
+policy in the period ahead will be:
+•
+
+to ensure a monetary and interest rate environment
+that enables continuation of the growth momentum
+while emphasising price stability with a view to
+anchoring inflation expectations.
+
+•
+
+to reinforce the focus on credit quality and financial
+market conditions to support export and investment
+demand in the economy for maintaining
+macroeconomic and, in particular, financial stability.
+
+•
+
+to consider measures as appropriate to the evolving
+global and domestic circumstances impinging on
+inflation expectations and the growth momentum.
+
+32
+
+iii. monetary measures
+(a) bank rate
+65.
+
+the bank rate has been kept unchanged at 6.0 per cent.
+
+(b) reverse repo rate
+66.
+in view of the current macroeconomic and overall monetary
+conditions, it has been decided:
+•
+
+to increase the fixed reverse repo rate under the
+liquidity adjustment facility (laf) of the reserve bank
+by 25 basis points from 5.75 per cent to 6.00 per
+cent, with immediate effect.
+
+67.
+the repo rate will continue to be linked to the reverse
+repo rate. the spread between the reverse repo rate and the
+repo rate has been retained at 100 basis points, as at present.
+accordingly, the fixed repo rate under the laf will be 7.00
+per cent, with immediate effect.
+
+(c) cash reserve ratio
+68.
+the cash reserve ratio (crr) of scheduled banks is
+currently at 5.0 per cent. on a review of the current liquidity
+situation, it is felt desirable to keep the present level of crr at
+5.0 per cent unchanged.
+mid-term review
+69.
+the mid-term review of the annual policy statement will
+be undertaken on october 31, 2006 instead of october 17, 2006
+and the third quarter review on january 30, 2007 instead
+of january 23, 2007 as indicated in the annual policy statement
+of april 2006.
+mumbai
+july 25, 2006
+33
+
+first quarter review of
+annual statement on monetary policy
+for the year 2006-07
+
+reserve bank of india
+mumbai
+
+

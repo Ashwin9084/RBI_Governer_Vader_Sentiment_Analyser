@@ -1,0 +1,446 @@
+reserve bank of india
+second quarter review of monetary policy 2013-14
+
+by
+dr. raghuram g. rajan
+governor
+part a. monetary policy
+monetary and liquidity measures
+following an assessment of the evolving macroeconomic situation, the reserve bank has
+decided to:
+
+
+reduce the marginal standing facility (msf) rate by 25 basis points from 9.0 per cent to 8.75
+per cent with immediate effect;
+
+
+
+increase the policy repo rate under the liquidity adjustment facility (laf) by 25 basis points
+from 7.5 per cent to 7.75 per cent with immediate effect
+
+
+
+keep cash reserve ratio (crr) unchanged at 4.0 per cent of net demand and time liability
+(ndtl); and
+
+
+
+increase the liquidity provided through term repos of 7-day and 14-day tenor from 0.25 per
+cent of ndtl of the banking system to 0.5 per cent with immediate effect.
+
+consequently, the reverse repo rate under the laf stands adjusted to 6.75 per cent and the bank
+rate stands reduced to 8.75 per cent with immediate effect. with these changes, the msf rate
+and the bank rate are recalibrated to 100 basis points above the repo rate.
+assessment
+2.
+since the mid-quarter review in september, the outlook for global growth has improved
+modestly, with fiscal concerns abating in the us and lead indicators of activity firming up in the
+euro area and the uk.
+3.
+in emerging and developing economies, the prospect of delay in the taper of the federal
+reserve’s bond purchases has brought calm to financial markets, and capital flows have
+resumed. nevertheless, headwinds to growth from domestic constraints continue to pose
+downside risks, and vulnerabilities to sudden shifts in the external environment remain.
+
+4.
+in india, industrial activity has weakened, with a contraction in consumer durables and
+tepid growth in capital goods reflecting the ongoing downturn in both consumption and
+investment demand. strengthening export growth and signs of revival in some services, along
+with the expected pick-up in agriculture, could support an increase in growth in the second half
+of 2013-14 relative to the first half, raising real gdp growth from 4.4 per cent in q1 to a central
+estimate of 5.0 per cent for the year as a whole (chart 1). the revival of large stalled projects and
+the pipeline cleared by the cabinet committee on investment may buoy investment and overall
+activity towards the close of the year.
+
+5.
+in the meantime, with many large entities holding back on payments, liquidity pressures
+are building up on small and medium enterprises. a number are facing conditions of financial
+distress. remedies partly lie in the speed-up of government and public sector payments, and on
+measures to channel credit to small and medium enterprises.
+6.
+inflation measured by the wholesale price index (wpi) rose in september for the fourth
+month in succession. the pass-through of rupee depreciation into prices of manufactured
+products is acting, along with elevated food and fuel inflation, to offset possible disinflationary
+effects of low growth. while food price pressures may ease with the arrival of the kharif harvest
+and the usual seasonal moderation, overall wpi inflation is expected to remain higher than
+current levels through most of the remaining part of the year (chart 2), warranting an appropriate
+policy response.
+
+7.
+retail inflation measured by the consumer price index (cpi) has also risen sharply across
+food and non-food constituents, including services, keeping inflation expectations high.
+notwithstanding the expected edging down of food inflation, retail inflation is likely to remain
+around or even above 9 per cent (chart 3) in the months ahead, absent policy action.
+
+8.
+liquidity management has been calibrated to the system’s requirements arising from the
+sharp pick-up in credit relative to deposit growth and festival-related demand for currency.
+liquidity up to 0.5 per cent of bank-wise ndtl is available through overnight laf repos.
+furthermore, export credit refinance of up to 50 per cent of eligible export credit outstanding
+amounts to approximately 0.5 per cent of system-level ndtl. to provide market participants
+with additional access to primary liquidity, as well as greater flexibility in managing reserve
+
+requirements, term repos of 7-day and 14-day tenor have been introduced to provide liquidity
+equivalent to 0.25 per cent of ndtl. as a result of the measures taken by the reserve bank to
+ease liquidity, the average drawal on the msf has declined significantly from about `1.4 trillion
+in mid-september to `0.4 trillion by mid-october, and money market rates have fallen by 125
+basis points. going forward, however, the more durable strategy for mitigating mismatches
+between the supply of, and demand for, funds is for banks to step up efforts to mobilise deposits.
+9.
+as regards the external sector, the improvement in export performance over the last two
+months, coupled with the contraction in non-oil import demand, has enabled a perceptible
+narrowing of the trade deficit with favourable implications for the current account deficit (cad)
+going forward. policy interventions have bridged the external financing gap. these factors have
+brought some calm to the foreign exchange market. however, normalcy will be restored to the
+exchange market only when the demand for dollars from public sector oil marketing companies
+is fully returned to the market.
+policy stance and rationale
+10.
+from september, as steps to contain the cad started taking effect in an improving
+external environment, volatility in the foreign exchange market ebbed and it became possible to
+unwind the exceptional liquidity tightening measures. keeping in view the need to infuse
+liquidity into the system to normalise liquidity conditions, term repos will now be conducted for
+a total notified amount equivalent to 0.5 per cent of ndtl of the banking system. in addition,
+the msf rate will be reduced by 25 basis points.
+11.
+with the more recent upturn of inflation, and with inflation expectations remaining
+elevated anticipating the pass-through of exchange rate depreciation and ongoing adjustment in
+administered fuel prices, it is important to break the spiral of rising price pressures in order to
+curb the erosion of financial saving and strengthen the foundations of growth. it is in this context
+that the laf repo rate has been increased by 25 basis points.
+12.
+with the reduction of the msf rate and the increase in the repo rate in this review, the
+process of re-aligning the interest rate corridor to normal monetary policy operations is now
+complete.
+13.
+the policy stance and measures in this review are intended to curb mounting inflationary
+pressures and manage inflation expectations in a situation of weak growth. these will help
+strengthen the environment for growth by fostering macroeconomic and financial stability. the
+reserve bank will closely monitor inflation risk while being mindful of the evolving growth
+dynamics.
+
+mid-quarter review of monetary policy 2013-14
+14.
+the next mid-quarter review of monetary policy for 2013-14 will be announced through
+a press release on wednesday, december 18, 2013.
+third quarter review of monetary policy 2013-14
+15.
+the third quarter review of monetary policy for 2013-14 is scheduled on tuesday,
+january 28, 2014.
+
+part b. developmental and regulatory policies
+16.
+this part of the statement reviews the progress on various developmental and regulatory
+policy measures announced by the reserve bank in recent policy statements and also sets out
+new measures.
+17.
+the reserve bank’s developmental measures over the next few quarters will be built on
+five pillars. these are:
+a.
+
+clarifying and strengthening the monetary policy framework.
+
+b.
+
+strengthening banking structure through new entry, branch expansion, encouraging new
+varieties of banks, and moving foreign banks into better regulated organisational forms.
+
+c.
+
+broadening and deepening financial markets and increasing their liquidity and resilience
+so that they can help absorb the risks entailed in financing india’s growth.
+
+d.
+
+expanding access to finance to small and medium enterprises, the unorganised sector, the
+poor, and remote and underserved areas of the country through measures to foster financial
+inclusion.
+
+e.
+
+improving the system’s ability to deal with corporate distress and financial institution
+distress by strengthening real and financial restructuring as well as debt recovery.
+
+18.
+action on the monetary policy framework will follow the submission of the dr. urjit
+patel committee report. a number of measures to strengthen bank structures and financial
+markets have already been announced, and more will follow as they are worked out. the
+strategy to expand financial inclusion will be informed by the dr. nachiket mor committee
+report, though significant efforts to explore the use of technology are already underway.
+finally, some steps to improve restructuring and recovery will be announced soon.
+
+i. developments and policies: banking structure
+basel iii regulation on countercyclical capital buffer
+19.
+as part of the basel iii capital framework, an internal working group (chairman: shri b.
+mahapatra) was constituted to operationalise the countercyclical capital buffer framework in
+india. it is proposed to:
+
+
+place the draft report of the group on the reserve bank’s website by end-november 2013
+for inviting comments/suggestions from various stakeholders.
+
+framework for dealing with domestic systemically important banks
+20.
+the basel committee on banking supervision (bcbs) provided a framework for dealing
+with domestic systemically important banks (d-sibs) in october 2012. the d-sibs framework
+is principle-based and provides broad guidance to national authorities on assessment of the
+systemic importance of banks and additional capital requirements of d-sibs. it is proposed to:
+
+
+place a draft of the proposed framework for d-sibs on the reserve bank’s website by endnovember 2013.
+
+guidelines on stress testing
+21.
+the reserve bank had issued guidelines on stress testing in june 2007. these guidelines
+required banks to have a sound stress testing policy which will determine liquidity risk, interest
+rate risk, credit risk and foreign exchange risk under stressed scenarios. drawing from the bcbs
+principles on the subject and subsequent global developments, it is proposed to:
+
+
+issue updated guidelines on stress testing by end-november 2013.
+
+unhedged foreign currency exposures of corporates
+22.
+unhedged foreign currency exposures of corporates are a cause for concern as they pose a
+risk to individual corporates as also to the entire financial system. based on feedback received
+from industry participants, it is proposed to:
+
+
+issue final guidelines on unhedged foreign currency exposures by end-december 2013.
+
+periodicity of payment of interest on rupee savings/term deposits
+23.
+as per extant instructions, banks are required to pay interest on savings deposits and term
+deposits at quarterly or longer intervals. as all commercial banks are now on core banking
+platforms, it has been decided to:
+
+
+give banks the option to pay interest on savings deposits and term deposits at intervals
+shorter than quarterly intervals.
+
+licensing of new banks in the private sector - constitution of high level advisory
+committee
+24.
+in terms of the guidelines for licensing of new banks in the private sector released on
+february 22, 2013 applications will be screened by the reserve bank to ensure prima facie
+eligibility, and thereafter, the applications will be referred to a high level advisory committee
+(hlac). the hlac will devise its own procedures for screening the applications and submit its
+recommendations to the reserve bank for consideration. the decision to issue an in-principle
+approval for setting up of a bank will be taken by the reserve bank whose decision in this regard
+will be final.
+25.
+the hlac has been set up under the chairmanship of dr. bimal jalan, former governor
+of the reserve bank with smt. usha thorat, former deputy governor of the reserve bank, shri
+c.b. bhave, former chairman, securities and exchange board of india (sebi) and dr. nachiket
+m. mor, director, central board of directors of the reserve bank as members. the committee
+will hold its first meeting on november 1, 2013.
+mode of presence of foreign banks in india – scheme of subsidiarisation
+26.
+as a sequel to the roadmap for presence of foreign banks in india released by the reserve
+bank in 2005 and pursuant to the announcement made in the monetary policy statement of april
+2010, the reserve bank released a discussion paper on the presence of foreign banks in india on
+january 21, 2011 factoring in the lessons from the crisis which favoured a subsidiary mode of
+presence from a financial stability perspective. taking into account the feedback received from
+stakeholders, a scheme of subsidiarisation of foreign banks in india, guided by the two cardinal
+principles of reciprocity and single mode of presence, is being finalised. the wholly owned
+subsidiaries (woss) would be given near-national treatment, including in the opening of
+branches.
+27.
+while it will not be mandatory for existing foreign banks (i.e., banks set up before august
+2010) to convert into woss, they will be incentivised to convert into woss by the attractiveness
+of the near-national treatment afforded to woss. the initial minimum paid-up voting equity
+capital or net worth for a wos shall be `5 billion. it is proposed:
+
+
+to issue the scheme by mid-november 2013.
+
+ii. developments and policies: financial markets
+retail inflation indexed securities
+28.
+the union budget, 2013-14 proposed to introduce instruments that will protect savings
+from inflation and provide an alternative to gold as an investment avenue for individuals.
+
+inflation indexed securities for retail investors of 10-year tenor would be linked to the new
+(combined) consumer price index. eligible investors would consist of individuals, hindu
+undivided families (hufs), trusts and charitable institutions. the rate of interest on these
+securities would comprise of a fixed rate plus inflation. interest would be compounded halfyearly and paid cumulatively at redemption. these securities will be distributed through banks to
+reach out to the masses. accordingly, it is proposed to:
+
+
+launch inflation indexed national saving securities (iinsss) for retail investors in
+november/december 2013 in consultation with the government of india.
+
+cash settled 10-year interest rate futures contracts
+29.
+in order to develop the money and government securities markets, it has been decided to
+introduce cash settled 10-year interest rate futures (irf) contracts. product design and
+operational modalities are being discussed with all stakeholders, including market bodies and
+stock exchanges, and after taking into account their feedback, the reserve bank, in consultation
+with the sebi, would:
+
+
+issue guidelines by mid-november 2013 and the product is expected to be launched by the
+exchanges by end-december 2013.
+
+credit enhancements in corporate bonds
+30.
+the corporate bond market in india currently lacks sufficient depth and liquidity. as a
+result, corporates have significant dependence on bank financing. therefore, it is proposed to:
+
+
+allow banks to offer partial credit enhancements to corporate bonds by way of providing
+credit facilities and liquidity facilities to the corporates, and not by way of guarantee.
+detailed guidelines in this regard will be issued separately.
+
+revision in the timing of marginal standing facility
+31.
+with a view to facilitating settlement of electronic funds transfers as well as to reduce
+unnecessary volatility in reserve maintenance, it has been decided to:
+
+
+revise the timing of msf operations. with effect from november 5, 2013 they will be
+conducted between 7.00 pm and 7.30 pm instead of between 4.45 pm and 5.15 pm.
+
+repo facility for mutual funds
+32.
+on july 17, 2013 the reserve bank had opened a special repo window for mutual funds
+with a view to enabling banks to meet the liquidity requirements of mutual funds. with the
+normalisation of exceptional measures and taking into consideration the improvement in
+liquidity conditions since then, it has been decided to close this window with immediate effect.
+technical committee on services / facilities for exporters
+
+33.
+some recommendations of the technical committee on services/facilities to exporters
+(chairman:
+shri g. padmanabhan) such as an increase in the limit of e-commerce transactions and extending
+the time period for submission of documents under project exports, simplification of reporting
+requirement of forward contracts booked over-the-counter (otc) and extending the limit for
+exporters to cancel and rebook the forward contracts have been accepted and necessary
+guidelines have been issued. other recommendations are being analysed in coordination with
+government agencies/other stakeholders for implementation.
+
+iii. developments and policies: financial inclusion and
+payment and settlement systems
+general credit card scheme
+34.
+the coverage of the general credit card (gcc) scheme is being revised to enhance
+credit linkage of individuals to all non-farm entrepreneurial activities within the rubric of the
+overall priority sector. it is expected that the revised scheme will give a fillip to flow of credit to
+small businesses and low income households. detailed guidelines in this regard will be issued
+before mid-november 2013.
+roadmap for provision of banking services in unbanked villages
+35.
+state level bankers’ committees are mandated to prepare a roadmap covering all
+unbanked villages of population less than 2000 and to notionally allot these villages to banks for
+providing banking services. accordingly, about 4,90,000 unbanked villages have been identified
+and allotted to various banks to be covered by march 2016.
+rural co-operatives: streamlining of short-term co-operative credit structure
+36.
+in january 2013, the reserve bank constituted an expert committee (chairman: dr.
+prakash bakshi) on the short-term co-operative credit structure. the recommendations taken up
+for implementation include, inter alia, improvement of governance and management of rural cooperatives, moving to core banking solutions (cbss) and setting up of a working group to
+examine human resources requirement of rural co-operative banks following the transition of
+state co-operative banks and district central co-operative banks to cbs.
+customer service - charges levied by banks for sending sms alerts
+37.
+with a view to ensuring reasonableness and equity in the charges levied by banks for
+sending sms alerts to customers, banks are advised to leverage the technology available with
+them and the telecom service providers to ensure that such charges are levied on all customers
+on actual usage basis.
+
+payment and settlement systems electronic bill payments system - giro advisory group
+38.
+following the report of the committee for implementation of giro based payment
+system highlighting the need for an electronic bill payment system based on a giro model for
+payment of dues of essential services, insurance premia, utility payments, taxes, university fees,
+examination fees and the like, a giro advisory group (chairman: prof. umesh bellur) has
+been constituted with representation from banks and other stakeholders. the group is expected
+to submit its report by end-december 2013.
+technical committee on expansion of access to mobile banking
+39.
+a technical committee (chairman: shri b. sambamurthy) has been constituted to
+examine various options/alternatives, including the feasibility of encrypted sms-based funds
+transfer using an application which can run on any type of handset, for expansion of mobile
+banking in the country. the committee is expected to submit its report by end-december 2013.
+security and risk mitigation measures for card present and electronic payment
+transactions
+40.
+the reserve bank has advised banks to put in place by end-june 2013 security features in
+order to secure card transactions and the electronic banking infrastructure. a review of banks’
+preparedness in this regard indicates that technical glitches are hampering the transition to the
+desired environment. accordingly, a one-time extension has been granted to stakeholders.
+cash pay-out from prepaid payment instruments issued by non-bank entities
+41.
+in order to further popularise prepaid payment instruments (ppis) and facilitate remittance
+of funds by people not having bank accounts, a pilot is being planned with select non-bank ppi
+issuers to study the technological and operational feasibility of allowing cash pay-out
+(remittance) from ppis issued by non-bank entities using aadhaar based bio-metric
+authentication. the broad technical, operational and functional parameters of the pilot are being
+finalised in consultation with participants and the pilot is expected to go live before end-march
+2014.
+
+iv. restructuring
+non-banking financial companies (nbfcs): restructuring guidelines
+42.
+the reserve bank’s working group (chairman: shri b. mahapatra) reviewed
+prudential guidelines on restructuring of advances by banks and financial institutions and
+relevant guidelines to banks have been issued. as nbfcs are also part of the financial
+
+institutions that lend to the sectors where restructuring benefits are now available, either as
+part of a consortium or otherwise, it has been decided to:
+
+
+review the extant instructions on restructuring for nbfcs and issue guidelines in the matter
+by end-november 2013.
+
+v. institutional and other developments
+recommendations of the financial sector legislative reforms commission (fslrc)
+43.
+it is proposed to implement the following recommendations of the fslrc pertaining to
+consumer protection and capacity building:
+
+
+all instructions relating to consumer services/consumer protection would be consolidated
+and will be placed on the reserve bank’s website as a single group of instructions by endmarch 2014 and they will be examined for gaps, if any.
+
+
+
+a committee will be set up by the reserve bank to examine capacity building, including
+basic and job specific knowledge requirements and examine whether a system of formal
+certification is warranted for certain job descriptions within the reserve bank and in the
+financial entities and market segments regulated by it.
+
+
+
+the reserve bank will examine its own public facing services and institute time-bound
+response guidelines where feasible and not already in place. such guidelines will be placed
+on the reserve bank’s website by january 2014.
+
+currency management: distribution of banknotes and coins
+44.
+banks were advised to explore the possibility of meeting the growing demand for
+banknotes and coins in the country through business correspondents (bcs) and consider
+engaging the services of cash in transit (cit) entities to address last mile connectivity issues.
+instructions have been issued on september 10 and october 10, 2013, permitting banks to
+include distribution of banknotes and coins in the scope of activities which may be undertaken
+by bcs/cits.
+45.
+banks have also enhanced their capacity to take over the retail function of distribution of
+notes and coins and adjudication of mutilated notes. they have so far identified
+805 bank branches for the purpose. correspondingly, the distribution level across the reserve
+bank’s counters has decreased by 61 per cent and 64 per cent for notes and coins, respectively,
+and the adjudication of notes by 51 per cent.
+
+detection and reporting of counterfeit banknotes
+46.
+in view of the recommendation of the department-related parliament standing
+committee (dpsc) to introduce a scheme of incentives in order to encourage banks to report
+counterfeit notes detected by them, instructions were issued to banks on june 27, 2013 on the
+procedure to be followed and compensation to banks for detection of counterfeit notes and
+penalty for non-detection/reporting thereof.
+
+mumbai
+october 29, 2013
+
+

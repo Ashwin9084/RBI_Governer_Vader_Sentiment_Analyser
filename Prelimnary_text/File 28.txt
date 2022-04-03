@@ -1,0 +1,2024 @@
+reserve bank of india
+third quarter review of monetary policy 2008-09
+statement by
+dr. d. subbarao
+governor
+this quarterly review is set in the context of a deteriorating global
+economic outlook and heightened uncertainty about the global financial sector. in
+fact, there has been a rapid and marked downturn in the global economic outlook
+since the reserve bank’s mid-term review in october 2008. the continued bad
+news from large international financial institutions on a regular basis renews
+concerns as to when the global financial sector might attain a semblance of
+stability.
+2.
+
+the initial hope that the crisis could be contained in the financial sector
+
+has been belied. with all the advanced economies – the us, europe and japan
+– firmly in recession, the crisis has fully transmitted from the financial sector to
+the real economy. the loss of confidence in the global financial markets has set
+off a chain of deleveraging, declining asset values, falling income, contracting
+demand and rising unemployment. governments and central banks around the
+world are responding to the crisis with bold and unconventional initiatives. even
+so, there is a contentious debate on whether these measures are adequate and
+appropriate, and when, if at all, they will begin to have an impact. there is also
+considerable uncertainty about when we might see the bottom of the asset and
+business cycle. there is emerging consensus though that there may be no
+recovery till late 2009; indeed, some analysts believe that recovery may be
+delayed beyond 2009. contrary to the expectation of decoupling, which was a
+commonly held view even till recently, the crisis has spread to the emerging
+economies too through all the channels – the financial channel, the real channel,
+and importantly as happens in all financial crises, through the confidence
+channel.
+3.
+
+the indian economy experienced a cyclical moderation in growth
+
+accompanied by high inflation in the first half of 2008-09. there is now distinct
+evidence of further slowdown as a consequence of the global downturn. the
+
+knock-on effects of the global financial crisis, economic slowdown, and falling
+commodity prices are affecting the indian economy in several ways. capital flow
+reversals intensified in september and october 2008 though they have stabilised
+since then; international credit channels continue to be constrained; capital
+market valuations remain low; industrial production growth has slackened; export
+growth has turned negative during october-november 2008; and overall
+business sentiment has deteriorated. on the positive side, the headline inflation
+has decelerated, though consumer price inflation is yet to show moderation; and
+the domestic financial markets are functioning in an orderly manner. although
+bank credit growth has been higher than in the previous year, rough calculation
+shows that flow of overall financial resources to the commercial sector in the
+current financial year has declined marginally as compared with the previous
+year. this was on account of decline in other sources of funding such as
+resource mobilisation from the capital market and external commercial
+borrowings (ecbs).
+4.
+
+to manage the impact of the crisis, since mid-september 2008, the
+
+reserve bank has taken a number of monetary easing and liquidity enhancing
+measures. the government has also launched two fiscal stimulus packages to
+boost aggregate demand. against this background, this statement provides an
+assessment of macroeconomic and monetary developments (section i), followed
+by the stance of monetary policy (section ii), and monetary measures (section
+iii). yesterday, the reserve bank issued an analytical review of macroeconomic
+and monetary developments providing information and technical analyses in
+greater detail. this statement should be read and understood in conjunction with
+the yesterday’s review.
+
+i. macroeconomic and monetary developments
+global outlook
+5.
+
+the global economic environment continues to be uncertain. the world
+
+economy, which was passing through unprecedented financial turmoil since
+august 2007, experienced a jolt in september 2008 when the failure of lehman
+brothers led to widespread panic across global financial markets. the liquidity
+crisis that ensued not only engulfed developed markets but also quickly
+
+transmitted to emerging markets, including india. the us federal reserve
+responded by infusing dollar liquidity into large financial centres through currency
+swap arrangements with major foreign central banks in addition to massive
+injection of liquidity in the domestic market through several innovative schemes.
+6.
+
+many systemically important commercial banks, investment banks,
+
+insurance companies and other financial institutions in the us and europe have
+suffered large losses that undermined their capital bases. the credit spreads for
+corporate paper went up sharply. the us federal reserve and other central
+banks/governments have rescued financial institutions through large bailout
+packages, but financial markets continue to suffer from a crisis of confidence.
+the unfolding developments have broader ramifications for both growth and
+stability in an integrated world where cross-exposures, particularly among
+banks/financial institutions, and trade links are inextricably large and complex.
+there is yet no sign of any early resolution as damage to collaterals continues
+unabated with house prices tumbling in the us and also in parts of europe.
+7.
+
+according to the november 2008 update of the world economic outlook
+
+(weo) issued by the international monetary fund (imf), global real gdp growth,
+on a purchasing power parity basis, is projected to decelerate from 3.7 per cent
+in 2008 to 2.2 per cent in 2009. in market exchange rate terms, the projected
+deceleration is even sharper from 2.6 per cent in 2008 to 1.1 per cent in 2009.
+furthermore, the imf has cautioned that the downside risks to these global
+growth projections have further intensified.
+8.
+
+the us, the uk, the euro area and japan, which together accounted for
+
+nearly half of world gdp in 2007, are officially in recession. all evidence
+suggests that contractionary forces are strong: demand has slumped, consumer
+confidence is at a historic low, production has declined, job losses are on the rise
+and asset prices continue to fall. reflecting the slowdown of international
+demand, crude oil prices declined sharply in the last quarter of 2008. prices of
+many other key commodities such as metals, cement, cotton and wheat too have
+dropped
+
+sharply.
+
+consequently,
+
+consumer
+
+price
+
+inflation
+
+has
+
+declined
+
+significantly in many countries including the us, the euro area, japan and the
+uk. the international financial system continues to remain dysfunctional amidst
+extreme risk aversion, freezing of money and credit markets, and disruption of
+international capital flows. in response, central banks in advanced countries have
+
+reduced their policy interest rates to historically low levels. the major global
+concern now is to forestall the worst ever recession since the 1930s. while
+monetary ammunition has been nearly exhausted in many countries, at least in
+terms of setting nominal interest rates, measures such as quantitative easing,
+credit easing and fiscal stimulus are on the policy agenda.
+emerging market economies
+9.
+
+the emerging market economies (emes), which showed considerable
+
+resilience in weathering the crisis up to september 2008 on the strength of
+domestic demand supported by sustained export growth, came under strain in
+the last quarter of 2008 through contagion from trade and financial channels. the
+slowdown of world trade was deeper than anticipated causing reduction in
+aggregate demand in the emes. in a sign of flight to safety, capital flows from
+developed countries to the emes declined sharply in 2008. reflecting lower flows
+through both current and capital accounts, currencies of the emes depreciated
+against the us dollar. eme equity markets suffered large losses in the wake of
+reversal of portfolio flows. bank lending to the emes declined and credit spreads
+increased sharply due to the prevailing credit crunch in advanced economies.
+eme exports declined because of tighter trade credit coming on top of slumping
+export demand. going forward, exports to advanced economies are expected to
+decline further posing a major risk to growth in the emes.
+10.
+
+in evaluating the current and potential problems arising from the crisis, it is
+
+important to note some broad differences between the advanced economies of
+europe and north america and the emes. the crisis originated in the financial
+sector in the us, which led to the near collapse of their largest financial
+institutions and banks. because of linkages across the financial system, the crisis
+spread almost immediately to europe with european banks reporting very large
+losses. both the us and european governments responded through large scale
+infusion of funds into the banking systems. furthermore, with the erosion of
+banks’ balance sheets, mistrust among banks intensified, as a result of which
+money markets dried up, and inter-bank markets choked. this engendered a
+credit squeeze which transmitted to the real economy. the first line of defence in
+fighting the crisis was aggressive monetary policy action, including rate cuts
+followed by quantitative monetary and credit easing. these measures were also
+
+accompanied by a significant expansion of central banks’ direct participation in
+money markets in several ways.
+11.
+
+the situation in the emes has been quite different. by and large, their
+
+financial institutions have not exhibited fragility, inter-bank confidence has been
+relatively normal and inter-bank money markets have continued to function.
+nevertheless, the crisis has affected the emes in mainly three ways. the first
+was the exit of foreign equity which resulted in decline in stock markets, capital
+flow reversals and pressures on the exchange rate. the second source of impact
+was the drying up of overseas lines of credit for banks and corporates which
+shifted demand to the domestic credit market. the third source of impact is the
+significant deceleration in global trade growth reducing the demand for eme
+exports. monetary policy actions by the emes have, therefore, been more in
+response to emerging real economy problems rather than financial sector
+problems. it is important to keep this distinction in view in designing and
+evaluating responses to the crisis.
+domestic outlook
+12.
+
+like other emes, india too has been affected by the global financial crisis.
+
+real gdp growth moderated to 7.8 per cent in the first half of 2008-09 as against
+9.3 per cent in the first half of 2007-08 (table 1). the third quarter of 2008-09
+witnessed signs of further moderation in growth, especially in the industrial sector
+and some segments of the services sector.
+agriculture and industry
+13.
+
+good sowing and favourable weather conditions suggest that agricultural
+
+production during 2008-09 may be close to or better than last year’s record
+production. during april-november 2008, the index of industrial production (iip)
+growth decelerated to 3.9 per cent from 9.2 per cent a year ago. episodes of
+large inventory build-up, production cuts and temporary closure in some sectors
+such as automobiles at the beginning of the second half of 2008-09 indicate a
+period of stress on account of lack of demand.
+corporate performance
+14.
+
+during the first two quarters of 2008-09, despite high top-line growth,
+
+operating margins of the private corporate sector were eroded by higher input
+
+costs and significant drop in ‘other’ income. in light of the subsequent slowdown,
+industrial investment plans are slowing down, although ongoing investment
+projects appear to be continuing. the erosion in pricing power of corporates was
+reflected in rising inventories as a proportion to sales. while the downside risk to
+corporate profitability has increased, this may at least be partly offset by falling
+input prices and a gradual reduction in borrowing costs.
+
+table 1: real gdp growth (%)
+sector
+
+first half year
+(april-september)
+2007-08
+
+2008-09
+
+agriculture
+industry
+services
+
+4.5
+9.1
+10.6
+
+2.9
+5.0
+9.9
+
+overall
+
+9.3
+
+7.8
+
+business confidence
+15.
+
+the reserve bank’s latest round of quarterly industrial outlook survey
+
+shows weak and deteriorating business sentiment among private manufacturing
+companies for the last quarter of 2008-09. the survey indicates weak demand
+conditions and decline in sentiment for production, order books, capacity
+utilisation and exports. corporates also reported a significant decline in
+employment expectations for january-march 2009. this picture is consistent with
+business confidence surveys conducted by other agencies.
+lead indicators
+16.
+
+in terms of lead indicators, service sector activity appears to be
+
+moderating in several sub-sectors, barring communications and freight
+movement. on the positive side, sustained performance of the agricultural sector,
+fiscal stimulus, falling global crude oil prices and softening of domestic input
+prices such as energy, cement and steel would have a positive impact on
+industrial production in the coming months.
+
+inflation
+17.
+
+headline inflation, as measured by year-on-year variations in the
+
+wholesale price index (wpi), fell by more than half from its intra-year peak of
+12.91 per cent on august 2, 2008 to 5.60 per cent by january 10, 2009. while
+prices of primary articles and manufactured products increased, fuel prices
+declined (table 2). in terms of relative contribution to decelerating headline
+inflation between august 2, 2008 and january 10, 2009, petroleum and basic
+metals (combined weight of 13.2 per cent in wpi) together accounted for 79.4
+per cent, followed by ‘oilseeds, edible oils & oil cakes’ (16.4 per cent). clearly,
+the fall in commodity prices reflecting global trends has been the key driver of the
+sharp fall in wpi inflation although effective management of domestic demand
+too has contributed to this moderation.
+table 2: annual inflation rate (%)
+wholesale price index (wpi)
+wpi - all commodities
+wpi - primary articles
+wpi - fuel group
+wpi - manufactured products
+wpi - excluding fuel
+wpi - excluding food and fuel
+consumer price index (cpi)
+1.
+2.
+3.
+4.
+
+cpi for industrial workers*
+cpi for agricultural labourers
+cpi for rural labourers
+cpi for urban non-manual employees*
+
+january 12, 2008
+(y-o-y)
+4.36
+4.49
+3.69
+4.57
+4.55
+5.21
+december 2007
+(y-o-y)
+5.51
+5.90
+5.63
+5.06
+
+january 10, 2009
+(y-o-y)
+5.60
+11.64
+-1.32
+5.90
+7.53
+6.52
+december 2008
+(y-o-y)
+10.45
+11.14
+11.14
+10.79
+
+* pertains to november.
+
+18.
+
+on the other hand, inflation based on various consumer price indices
+
+(cpis) is still in double digits due to the firm trend in prices of food articles and
+the higher weight of food articles in measures of consumer price inflation (table
+2). as the decline in input prices percolates over time to the prices of
+manufactured and other products, consumer price inflation too is expected to
+soften in the months ahead. for its overall assessment of inflation outlook for
+policy purposes, the reserve bank continues to monitor the full array of price
+indicators.
+
+fiscal scenario
+19.
+
+as a proportion of the budget estimates (be), both tax and non-tax
+
+revenue receipts of the central government for the period april-november 2008
+were lower than those in the corresponding period of the previous year. on the
+other hand, both revenue expenditure and total expenditure, as a proportion to
+the be, were higher than a year ago. consequently, the revenue deficit and the
+gross fiscal deficit (gfd) were significantly higher during april-november 2008
+as compared with the corresponding period of the previous year (table 3).
+table 3: fiscal position of the central government
+item
+
+april-november
+percentage to budget
+estimates
+2007-08
+
+growth (%)
+
+2008-09
+
+2007-08
+
+2008-09
+
+1. revenue receipts
+
+56.5
+
+52.2
+
+24.2
+
+14.7
+
+2. gross tax revenue
+
+55.5
+
+52.0
+
+25.2
+
+17.5
+
+3. tax revenue (net)
+
+54.6
+
+50.0
+
+24.5
+
+15.1
+
+4. non-tax revenue
+
+65.7
+
+64.1
+
+22.7
+
+13.2
+
+5. total expenditure
+
+60.5
+(58.7)
+
+65.8
+
+22.2
+(11.7)
+
+20.1
+(31.5)
+
+61.8
+
+69.3
+
+12.7
+
+32.4
+
+54.5
+(37.8)
+
+40.7
+
+116.3
+(1.2)
+
+-43.4
+(21.0)
+
+97.9
+
+256.2
+
+-17.2
+
+102.0
+
+63.8
+(63.0)
+
+132.4
+
+-11.0
+(-12.2)
+
+83.3
+(85.7)
+
+6. revenue expenditure
+7. capital expenditure
+8. revenue deficit
+9. fiscal deficit
+
+note :figures in parentheses are net of transactions relating to transfer of the reserve bank’s
+stake in state bank of india to the government.
+
+20.
+
+for 2008-09, the central government had budgeted gross market
+
+borrowing of rs.1,78,575 crore and net market borrowing of rs.99,000 crore.
+subsequently, the government presented two supplementary demands, as a
+result of which the market borrowing programme of the central government was
+raised to rs.2,52,154 crore (gross) and rs.1,75,374 crore (net). against this
+enhanced borrowing programme, market borrowing of the central government
+
+was rs.2,22,154 crore (gross) and rs.1,51,697 crore (net) during 2008-09 so far
+(up to january 23, 2009). the weighted average yield and weighted average
+maturity of central government dated securities issued during 2008-09 (up to
+january 23, 2009) were at 8.03 per cent and 14.59 years respectively as
+compared with 8.10 per cent and 14.38 years in 2007-08. the state
+governments have borrowed a net amount of rs.46,327 crore up to january 23,
+2009.
+21. the evolving scenario raises some concerns on the extent of stress on the
+fisc in the current year emanating from several factors. first, the centre is
+expected to suffer revenue losses from lower direct tax collection on account of
+the economic slowdown. second, the centre is likely to lose further revenues
+worth about 0.6 per cent of gdp due to cuts in excise and customs duties. third,
+there has been a disproportionate growth in expenditure of the central
+government during april-november 2008, particularly in respect of revenue
+expenditure arising out of increase in subsidies, disbursements as well as
+implementation of the recommendations of the sixth pay commission and the
+farm debt waiver scheme. the net cash outgo indicated in supplementary
+demands for grants would be of the order of 2.8 per cent of gdp (rs.1,50,310
+crore). thus, additional expenditure coupled with foregone revenue would raise
+the fiscal deficit from the budget estimate of 2.5 per cent to at least 5.9 per cent
+of gdp. in addition, special bonds for rs.44,000 crore and rs.14,000 crore,
+amounting to 1.1 per cent of gdp, have been issued to oil marketing companies
+and fertiliser companies respectively during 2008-09 (up to january 23, 2009). in
+its latest review of the economy (january 2009), the economic advisory council
+to the prime minister has placed the consolidated fiscal deficit of the central
+government, including full issuances of oil and fertiliser bonds, at 8.0 per cent of
+gdp for 2008-09.
+22. the consolidated budgeted revenue surplus of the states in 2008-09 may
+not, in fact, materialise. consequently, the consolidated fiscal deficit of the states
+is expected to rise to 2.6 per cent of gdp. while some of the increase in the
+revenue and fiscal deficits is on account of post-budget expenditure
+commitments such as payment of arrears resulting from the sixth pay
+commission award, a substantial increase is also due to the economic downturn
+arising from the impact of the global financial crisis. although the fiscal stimulus
+packages have meant deviation from the roadmap laid out by the fiscal
+
+responsibility and budget management (frbm) act, reversing the consolidation
+process of the last several years, they were warranted under the prevailing
+circumstances. it is critically important, however, that the centre and states reanchor to a revised frbm mandate once the immediacy of the crisis is behind
+us.
+monetary conditions
+23. growth in key monetary aggregates – reserve money and money supply
+(m3) – in 2008-09 so far has reflected the changing liquidity positions arising from
+domestic and global financial conditions and the monetary policy response to the
+evolving macroeconomic developments. reserve money variations during 200809 have largely reflected increase in currency in circulation and reduction in the
+cash reserve ratio (crr) of banks.
+24. reduction in the crr has three inter-related effects on reserve money.
+first, it reduces reserve money as bankers’ required cash deposits with the
+reserve bank fall. second, the money multiplier rises. third, with the increase in
+the money multiplier, m3 expands with a lag. while the initial expansionary effect
+is strong, the full effect is felt in 4-6 months. reflecting these changes, while the
+year-on-year increase in reserve money as on january 2, 2009 was lower, it was
+significantly higher when adjusted for the first round effect of crr reduction. the
+annual m3 growth as on january 2, 2009 though lower compared with last year,
+was higher than the trajectory projected in the annual policy statement (table 4).
+table 4: annual variations in monetary aggregates (%)
+item
+
+annual variations
+(y-o-y)
+january 4, 2008
+
+reserve money
+reserve money (adjusted for crr changes)
+currency in circulation
+money supply (m3)
+m3 (policy projection)*
+money multiplier
+*
+
+january 2, 2009
+
+28.8
+18.1
+15.6
+22.6
+
+7.4
+19.4
+16.6
+19.6
+
+17.0-17.5
+4.66
+
+16.5-17.0
+5.20
+
+policy projections are for the financial year as indicated in the annual policy statements
+
+of the respective financial years.
+
+25. since september 2008, monetary conditions have been evolving following
+changes in monetary policy in response to global developments and also due to
+slackening of domestic demand conditions. as the reserve bank had to provide
+dollar liquidity, its net foreign exchange assets (nfea) contracted. the reserve
+bank sought to compensate the fall in nfea by expanding its net domestic
+assets (nda) through: (i) buy-back of securities held under the market
+stabilisation scheme (mss); (ii) purchase of oil bonds; (iii) enlargement of the
+refinance window; and (iv) repo operations under the liquidity adjustment facility
+(laf). thus, a notable feature of monetary operations during the third quarter of
+2008-09 was the substitution of foreign assets by domestic assets to keep the
+overall liquidity conditions comfortable. liquidity conditions have indeed improved
+since mid-november 2008 as reflected in daily absorption under the laf reverse
+repo and moderation in market interest rates.
+credit conditions
+26. the year-on-year (y-o-y) growth in non-food bank credit at 23.9 per cent as
+on january 2, 2009 was higher than that of 22.0 per cent as on january 4, 2008
+(table 5). increase in total flow of resources from the banking sector to the
+commercial sector (i.e., non-food bank credit together with investments in
+shares/bonds/debentures and commercial papers issued by public sector/private
+sector companies) was also higher at 23.4 per cent as compared with 21.7 per
+cent a year ago. despite the expansion in bank credit, there was a perception of
+lack of credit availability. this could be attributed to reduced flow of funds from
+non-bank sources, notably the capital market and external commercial
+borrowings.
+table 5: annual variations in banking indicators (%)
+item
+
+january 4, 2008
+(y-o-y)
+
+january 2, 2009
+(y-o-y)
+
+aggregate deposits
+
+25.1
+
+21.2
+
+bank credit
+
+21.4
+
+24.0
+
+non-food bank credit
+
+22.0
+
+23.9
+
+total flow of resources from banks to the
+commercial sector
+
+21.7
+
+23.4
+
+slr investments
+incremental credit-deposit ratio
+
+25.8
+63.1
+
+19.2
+81.4
+
+27.
+
+during 2008-09 so far, the total flow of resources to the commercial
+sector from banks and other sources was marginally lower than in the
+previous year reflecting contraction of funds from other sources (table
+6).
+table 6: flow of financial resources to the commercial sector
+(rs. crore)
+
+item
+
+2007-08
+(up to january 4, 2008)
+
+2008-09
+(up to january 2, 2009)
+
+from banks
+from other sources*
+
+2,24,921
+2,74,563
+
+2,93,243
+1,91,470
+
+total resources
+
+4,99,484
+
+4,84,713
+
+*
+
+includes borrowings from financial institutions and nbfcs as well as resources mobilised
+
+from the capital market and by way of ecbs, fccbs, adrs/gdrs, fdi and short-term credit as
+per the latest available data, adjusted for double counting.
+
+28.
+
+at a disaggregated level, the year-on-year increase in bank credit to
+
+industry as of december 2008 was sharply higher than that in the previous year
+reflecting the substitution effect of other sources of funding by bank credit (table
+7).
+table 7: annual sectoral flow of credit
+sector
+
+agriculture
+industry
+real estate
+housing
+nbfcs
+
+as on december 21, 2007
+(y-o-y)
+
+as on december 19, 2008
+(y-o-y)
+
+amount
+(rs. crore)
+
+variations
+(%)
+
+amount
+(rs. crore)
+
+variations
+(%)
+
+38,139
+1,56,192
+13,621
+31,780
+22,953
+
+19.3
+24.9
+35.8
+14.6
+59.6
+
+53,612
+2,36,064
+24,827
+21,989
+24,668
+
+22.7
+30.2
+48.1
+8.8
+40.1
+
+overall credit 3,54,802
+
+21.8
+
+4,90,199
+
+24.8
+
+29. there has been a noticeable variation in credit expansion across bank
+groups. expansion of credit by public sector banks was much higher this year
+than in the previous year, while credit expansion by foreign and private sector
+banks was significantly lower. the relatively slower pace of credit expansion
+by foreign and private sector banks has also added to the perception of
+inadequate credit flow in the system. there has also been perceptible
+deceleration in growth of deposits with private and foreign banks (table 8).
+table 8: bank group-wise deposits and credit
+bank group
+
+annual growth (y-o-y) (%)
+as on january 4, 2008
+
+as on january 2, 2009
+
+deposits
+public sector banks
+foreign banks
+private sector banks
+scheduled commercial banks *
+
+24.2
+34.1
+26.9
+25.1
+
+24.2
+12.1
+13.4
+21.2
+credit
+
+public sector banks
+
+19.8
+
+28.6
+
+foreign banks
+
+30.7
+
+16.9
+
+private sector banks
+
+24.2
+
+11.8
+
+scheduled commercial banks *
+
+21.4
+
+24.0
+
+* including regional rural banks (rrbs).
+
+30.
+
+commercial banks’ holdings of slr securities became more liquid on
+
+account of two factors. first, banks were permitted to use slr securities to the
+tune of 1.5 per cent of their net demand and time liabilities (ndtl) under the laf
+to meet the funding requirements of mutual funds, non-banking finance
+companies (nbfcs) and housing finance companies (hfcs). second, the
+reduction in slr by one percentage point to 24.0 per cent of ndtl in november
+2008 released funds for credit deployment. commercial banks’ slr holdings
+declined from 27.8 per cent (28.4 per cent adjusted for laf) of ndtl in march
+2008 to 25.8 per cent (28.1 per cent adjusted for laf) in mid-october 2008
+reflecting the banks’ reliance on the repo facility under the laf as liquidity
+conditions tightened. reversing this trend by early january 2009, banks’ slr
+holdings increased to 28.9 per cent of ndtl (27.1 per cent adjusted for laf)
+
+reflecting improved liquidity conditions and increased government market
+borrowings.
+31.
+
+bank deposit and lending rates, which had firmed up during the current
+
+financial year up to october 2008, started easing from november 2008. between
+november 2008 and january 2009, all public sector banks, several private sector
+banks and some foreign banks reduced their deposit and lending rates. the
+magnitude of reduction by public sector banks was larger than that by foreign
+and private sector banks (table 9).
+table 9: deposit and lending rates of banks (%)
+bank group/maturity
+
+october 2008
+
+january 2009
+
+61-90 days
+180 days – 1 year
+1-3 years
+> 3 years
+private sector banks
+
+5.25-6.00
+8.00-8.75
+9.50-10.50
+8.75-9.75
+
+5.25-6.00
+7.25-8.00
+8.00-9.00
+8.25-8.50
+
+61-90 days
+180 days – 1 year
+1-3 years
+> 3 years
+foreign banks
+
+4.00-6.25
+8.00-9.00
+9.00-10.10
+8.50-9.75
+
+4.00-5.50
+7.75-8.00
+8.00-9.00
+8.00-8.75
+
+61-90 days
+180 days – 1 year
+1-3 years
+> 3 years
+benchmark prime lending rate (bplr)
+
+6.00-8.50
+7.00-9.50
+7.50-9.00
+7.50-10.00
+
+5.25-7.00
+7.50-9.00
+7.50-8.50
+7.50-7.75
+
+13.75-14.00
+15.25-17.25
+14.25-15.50
+
+12.00-12.50
+14.75-16.75
+14.25-15.50
+
+domestic deposit rate
+public sector banks
+
+public sector banks
+private sector banks
+foreign banks
+note:
+banks.
+
+data relate to five major public sector banks, four private sector banks and three foreign
+
+32.
+
+the interest rate response to monetary policy easing has been faster in
+
+the money and bond markets as compared to the credit market because of
+several structural factors. first, the administered interest rate structure on small
+savings could potentially constrain the reduction in deposit rates below some
+threshold. second, a substantial portion of bank deposits is mobilised at fixed
+interest rates with an asymmetric contractual relationship. during the upturn of
+the interest rate cycle, depositors have the flexibility to prematurely terminate the
+existing deposits and re-deposit the funds at higher interest rates. however, in
+the downturn of the interest rate cycle, banks have to necessarily carry these
+deposits at higher rates of interest till their maturity. third, competition among
+banks for wholesale deposits for meeting the higher credit demand in the
+upswing leads to an increase in the cost of funds. fourth, linkage of concessional
+lending rates to banks’ bplrs makes overall lending rates less flexible. fifth,
+persistence of the large market borrowing programme of the government
+hardens interest rate expectations. sixth, with increase in risk aversion, lending
+rates tend to be high even during a period with falling credit demand. from the
+real economy perspective, however, for monetary policy to have demand
+inducing effects, lending rates will have to come down.
+33.
+
+notwithstanding the various factors that impede monetary transmission,
+
+market interest rates do respond to changes in policy interest rates. as such,
+current deposit and lending rates have significant room for further reduction.
+interest rates in the money and bond markets have already declined perceptibly
+since their peaks in october 2008 (table 10). major public sector banks have
+also reduced their term deposit rates in the range of 50-150 basis points.
+benchmark prime lending rates (bplrs) of major public sector banks have come
+down by 150-175 basis points. major private sector banks have reduced their
+bplrs by 50 basis points, while major foreign banks are yet to do so. as a result
+of several measures initiated by the reserve bank since mid-september 2008,
+banks’ cost of funds would come down. this should encourage banks to reduce
+their lending rates in the coming months.
+financial markets
+34.
+
+the overnight interest rates generally ruled above the ceiling of the laf
+
+rate corridor at the beginning of october 2008 when the domestic money and
+
+foreign exchange markets came under pressure. the overnight interest rates
+eased in mid-october 2008 in response to the successive monetary easing
+measures by the reserve bank which alleviated the liquidity pressures. the
+overnight interest rates have remained below the upper bound of the laf
+corridor since november 3, 2008. interest rates on various other segments of the
+money market and government securities market have also softened markedly
+(table 10).
+table 10: interest rates (%)
+segment/instrument
+
+october 2008
+
+january 23, 2009
+
+9.90
+7.73
+8.40
+14.17
+10.00
+7.44
+7.45
+
+4.21
+3.85
+4.24
+10.98*
+8.85*
+4.67
+5.87
+
+call money
+cblo
+market repo
+commercial paper
+certificates of deposit
+91-day treasury bills
+10-year government securities
+* pertains to december 2008.
+
+35.
+
+the rupee had appreciated against major currencies in 2007-08 due to
+
+large capital inflows. it depreciated during 2008-09 so far reflecting extraordinary
+developments in international financial markets and portfolio outflows by foreign
+institutional investors (fiis). it has remained range-bound since november 2008
+(table 11).
+table 11: rupee exchange rate
+rupee per unit of
+us dollar
+euro
+pound sterling
+100 japanese yen
+
+* up to january 23, 2009.
+
+range
+
+april
+2008
+
+november
+2008
+
+january*
+2009
+
+maximum
+minimum
+maximum
+minimum
+maximum
+minimum
+maximum
+minimum
+
+40.46
+39.89
+63.80
+62.25
+79.94
+78.66
+39.58
+38.36
+
+50.52
+47.18
+64.68
+60.57
+80.26
+72.14
+53.12
+47.31
+
+49.19
+48.37
+68.09
+63.60
+74.42
+67.61
+55.58
+51.90
+
+36. equity markets weakened sharply till end-october 2008 in tandem with
+global stock markets, particularly asian markets, reflecting further deterioration in
+the global financial market sentiment, fii outflows, slowdown in industrial growth
+and lower corporate profits. the bse sensex declined from an all-time high of
+20873 on january 8, 2008 to a low of 8451 on november 20, 2008. the equity
+market has since remained generally range-bound; the bse sensex was at 8674
+on january 23, 2009.
+37.
+
+the outlook for the domestic financial markets will be determined largely
+
+by the developments in global financial markets and domestic liquidity conditions.
+the banking system has been in surplus liquidity mode since mid-november
+2008. the pressure on the exchange rate of the rupee has eased due to
+moderation in capital outflows. in addition, the decline in global commodity
+prices, particularly crude oil, is expected to further ease the pressure on foreign
+currency on account of oil imports.
+external sector
+38.
+
+india’s current account deficit (cad) of the balance of payments (bop)
+widened in the first half of 2008-09 in comparison with the
+corresponding period of the previous year due to a large trade deficit,
+reflecting high oil prices even as private transfers and software export
+earnings were sustained. as net capital flows declined sharply, the
+overall balance of payments position turned marginally negative during
+the first half of 2008-09 as against a large surplus in the corresponding
+period of the previous year (table 12). import growth had moderated
+during october-november 2008 reflecting the fall in international oil
+prices and slowing domestic demand. during the same period, export
+growth turned negative reflecting slowing global demand. going
+forward, it is expected that imports may slow down faster than exports.
+
+table 12: india’s balance of payments
+(us $ billion)
+april-september
+2007-08
+
+2008-09
+
+exports
+
+72.6
+
+96.7
+
+imports
+
+115.9
+
+165.9
+
+trade balance
+
+- 43.2
+
+- 69.2
+
+32.3
+
+46.8
+
+- 11.0
+
+- 22.3
+
+51.4
+
+19.8
+
+(-) 40.4
+
+(+) 2.5
+
+invisibles, net
+current account balance
+capital account*
+change in reserves#
+
+# on a bop basis (excluding valuation): (-) indicates increase; (+) indicates decrease.
+*
+
+including errors and omissions.
+
+39.
+
+the reversal of capital flows has raised concerns about management of
+
+the bop, particularly with reference to outstanding external debt with residual
+maturity of less than one year. these concerns are somewhat misplaced as the
+following analysis will show.
+40.
+
+india’s external debt with residual maturity of less than one year as at end-
+
+march 2008 was estimated at around us $ 85 billion (as per revised data), which
+would mature during the financial year 2008-09. sovereign debt and commercial
+borrowings are most likely to be rolled over during 2008-09. indeed, the bop data
+for the first half of the year (april-september 2008) indicate net positive
+accretions beyond roll-over under both these heads. current trends indicate that
+under nri deposits, not only will the maturing debt be rolled over but there will be
+net accretions as a result of the upward adjustment in interest rate ceilings on
+such deposits. here again, available data up to december 2008 show net
+accretions. that leaves trade credit of the order of us $ 43.2 billion to be repaid
+during 2008-09. of this, as much as us $ 28.1 billion has already been disbursed
+during april-november 2008 leaving a balance of us $ 15.1 billion. there are
+reports that large inflows are in the pipeline on account of commitments of
+buyers’ credit by the importers and oil companies. even conservatively projecting
+that only a small portion of this balance would be rolled over, india’s external
+payment situation remains stable.
+
+41.
+
+the overall approach to the management of india’s foreign exchange
+
+reserves takes into account the changing composition of the balance of
+payments and endeavours to reflect the ‘liquidity risks’ associated with different
+types of flows and other requirements. as capital inflows during 2007-08 were far
+in excess of the normal absorptive capacity of the economy, there was
+substantial accretion to foreign exchange reserves by us $ 110.5 billion. the
+foreign exchange reserves declined by us $ 23.4 billion from us $ 309.7 billion
+as at end-march 2008 to us $ 286.3 billion by end-september 2008 largely
+reflecting valuation effects. excluding valuation effects, the decline was us $ 2.5
+billion. between october 2008 and january 16, 2009 foreign exchange reserves
+declined by us $ 34.1 billion to us $ 252.2 billion, including valuation effects.
+india’s current level of foreign exchange reserves remains comfortable.
+overall outlook
+42.
+
+at the heart of the global financial crisis lie the non-functional and frozen
+
+financial markets. in sharp contrast to their international counterparts, the
+financial system in india has been resilient and stable. barring some tightness in
+liquidity during mid-september to early october, the money, foreign exchange
+and government securities markets have been orderly as reflected in market
+rates, spreads and transaction volumes relative to those observed during normal
+times. india’s banking system remains healthy, well-capitalised, resilient and
+profitable. credit markets have been functioning well and banks have been
+expanding credit, notwithstanding the perceptions in some quarters of lack of
+adequate credit from the banks to the commercial sector.
+43.
+
+over the last five years, india clocked 8.8 per cent average annual growth,
+
+driven largely by domestic consumption and investment even as the share of net
+exports rose. while the benign global environment, easy liquidity and low interest
+rates helped, at the heart of india’s growth have been its growing entrepreneurial
+spirit and rise in productivity. these fundamental strengths continue to be in
+place. nevertheless, the global crisis will dent india’s growth trajectory as
+investments and exports slow. clearly, there is a period of painful adjustment
+ahead of us. however, once the global economy begins to recover, india’s
+turnaround will be sharper and swifter, backed by our strong fundamentals and
+
+the untapped growth potential. meanwhile, the challenge for the government and
+the reserve bank is to manage the adjustment with as little pain as possible.
+
+ii. stance of monetary policy
+44.
+
+since
+
+september
+
+2008,
+
+international
+
+developments
+
+have
+
+largely
+
+circumscribed domestic policy responses. there have been severe disruptions in
+the international money and foreign exchange markets since september 2008.
+policymakers in governments, central banks and in other regulating agencies of
+financial institutions around the world responded to the crisis with aggressive,
+radical and unconventional measures to restore calm and confidence in financial
+markets and bring them back to normalcy. the immediate challenge was to
+maintain financial stability, which moved up in the hierarchy of objectives.
+earlier policy measures
+september 2008
+45.
+
+global financial crisis also had spillover effects on financial markets in
+
+india causing an unusual tightening of liquidity in mid-september, which was
+compounded by transient local factors such as advance tax payments. the
+domestic equity market was severely affected by the global meltdown of asset
+prices. the foreign exchange market also came under pressure. access to
+external financing was constrained following re-pricing of risks and higher credit
+spreads. responding to the evolving situation, the reserve bank announced the
+following measures on september 16, 2008:
+•
+
+a firm assurance to meet any demand-supply gaps of foreign
+exchange in the domestic foreign exchange market.
+
+•
+
+a second laf was re-introduced on a daily basis.
+
+•
+
+interest rate ceilings on fcnr(b) and nr(e)ra deposits were
+increased by 50 basis points each to libor/swap rates minus 25
+basis points and libor/swap rates plus 50 basis points respectively.
+
+•
+
+as a temporary measure, scheduled banks were allowed to avail of
+additional liquidity support under the laf to the extent of up to one per
+
+cent of their net demand and time liabilities from their slr portfolio
+and seek waiver of penal interest.
+october 2008
+46.
+
+liquidity conditions tightened further in october 2008 as contagion from
+
+the us financial crisis spread to europe and asia. many central banks took cordinated actions to infuse liquidity in their jurisdictions. in addition, in order to
+enhance dollar liquidity, the us fed provided currency swap lines to select
+central banks. financial markets in asia and australia were also severely
+affected. the call money rate in the domestic market touched a peak of 19.8 per
+cent on october 10, 2008 with laf repo volume crossing rs.90,000 crore during
+the early part of october 2008. in view of persisting uncertainty in global financial
+markets and its impact on india and continuing shortage of liquidity reflected in
+repo volume, the following measures were taken by the reserve bank in october
+2008:
+•
+
+the crr was reduced by 250 basis points from 9.0 per cent to 6.5
+per cent effective from the fortnight beginning october 11, 2008.
+
+•
+
+a 14-day special repo facility for a notified amount of rs.20,000 crore
+was instituted to alleviate liquidity stress faced by mutual funds, and
+banks were allowed temporary use of slr securities for collateral
+purposes by an additional 0.5 per cent of ndtl exclusively for this
+purpose.
+
+•
+
+commercial banks and all-india term lending and refinancing
+institutions were allowed to lend against and buy back certificates of
+deposit (cds) held by mutual funds.
+
+•
+
+the reserve bank temporarily provided a sum of rs.25,000 crore as
+the first instalment under the agricultural debt waiver and debt relief
+scheme to scheduled banks and nabard immediately, pending
+parliamentary sanction and consequent release of funds by the
+central government.
+
+•
+
+interest rate ceilings on fcnr(b) and nr(e)ra deposits were
+increased further by 50 basis points each to libor/swap rates plus 25
+basis points and libor/swap rates plus 100 basis points respectively.
+
+47.
+
+•
+
+banks were permitted to borrow funds from their overseas branches
+and correspondent banks to the extent of 50 per cent of their
+unimpaired tier-i capital or us $ 10 million, whichever is higher.
+
+•
+
+the reserve bank announced that it would institute special market
+operations to meet the foreign exchange requirements of public sector
+oil marketing companies against oil bonds when they become
+available.
+
+•
+
+on october 20, 2008 the repo rate under the laf was reduced by 100
+basis points to 8.0 per cent.
+
+•
+
+the systemically important non-deposit taking non-banking financial
+companies (nbfcs-nd-si) were permitted to raise short-term foreign
+currency borrowings.
+
+on the eve of announcement of the mid-term review, external
+
+commercial borrowings (ecbs) up to us $ 500 million per borrower per financial
+year were permitted for rupee expenditure and/or foreign currency expenditure
+for permissible end-uses under the automatic route. further, the all-in-cost ceiling
+for ecbs of average maturity period of three years and up to five years was
+raised to 300 basis points, and over five years, to 500 basis points above 6month libor.
+november 2008
+48.
+
+global financial conditions continued to remain uncertain and unsettled.
+
+early signs of a global recession were evident by late october. globally,
+commodity prices, including crude, began to abate which reduced domestic
+inflationary pressures. on the growth front, it was important to ensure that credit
+requirements for productive purposes were adequately met so as to support the
+growth momentum of the economy. accordingly, the following measures were
+taken on november 1, 2008:
+•
+
+the repo rate under the laf was reduced by 50 basis points to 7.5
+per cent with effect from november 3, 2008.
+
+•
+
+the crr was reduced by 100 basis points from 6.5 per cent to 5.5
+per cent of ndtl.
+
+•
+
+the statutory liquidity ratio (slr), which was relaxed on a temporary
+basis earlier, was made permanent and reduced to 24 per cent of
+ndtl effective november 8, 2008.
+
+•
+
+in order to provide further liquidity comfort, a special refinance facility
+for scheduled commercial banks (excluding rrbs) up to 1.0 per cent
+of each bank’s ndtl as on october 24, 2008 was introduced under
+section 17(3b) of the reserve bank of india act, 1934 up to a
+maximum period of 90 days.
+
+•
+
+on october 15, 2008 the reserve bank introduced a 14-day special
+repo facility allowing banks to avail additional liquidity support
+exclusively for the purpose of meeting the liquidity requirements of
+mutual funds to the extent of 0.5 per cent of their ndtl.
+subsequently, this facility was extended for nbfcs and the relaxation
+in the maintenance of the slr was enhanced to the extent of up to 1.5
+per cent of their ndtl.
+
+•
+
+buy-back of mss dated securities was announced to provide another
+avenue for injecting liquidity to be calibrated with the market borrowing
+programme of the government of india.
+
+49.
+
+on november 7, 2008 indian public and private sector banks that have
+
+foreign branches or subsidiaries were provided a forex swap facility of tenor up to
+three months with the reserve bank. further, for funding the swap, banks were
+allowed to borrow under the laf for the corresponding tenor at the prevailing
+repo rate.
+50.
+
+there were indications that the global slowdown was deepening with a
+
+larger than expected impact on the domestic economy, particularly for the
+medium and small industry sector and export-oriented units. in the context of
+these developments, further augmenting rupee and forex liquidity, and
+strengthening and improving credit delivery mechanisms were needed for
+sustaining the growth momentum. accordingly, the following measures were
+taken on november 15, 2008:
+•
+
+the
+
+special
+
+term
+
+repo
+
+facility
+
+introduced
+
+for
+
+the
+
+purpose
+
+of meeting the liquidity requirements of mfs and nbfcs, was
+extended till end-march 2009. banks can avail of this facility either on
+
+an incremental basis or on a rollover basis within the entitlement of up
+to 1.5 per cent of their ndtl.
+•
+
+interest rate ceilings on fcnr(b) and nr(e)ra deposits were further
+raised by 75 basis points each to libor/swap rates plus 100 basis
+points and libor/swap rates plus 175 basis points respectively.
+
+•
+
+housing finance companies (hfcs) registered with the national
+housing bank (nhb) were permitted to raise short-term foreign
+currency borrowings under the approval route.
+
+•
+
+the reserve bank permitted indian corporates to prematurely buy
+back their fccbs at prevailing discounted rates.
+
+•
+
+the period of entitlement of the first slab of pre-shipment rupee export
+credit was extended from 180 days to 270 days.
+
+•
+
+the aggregate limit of export credit refinance (ecr) facility for
+scheduled banks (excluding rrbs) was enhanced from 15 per cent to
+50 per cent of the outstanding export credit eligible for refinance.
+
+•
+
+sidbi and the nhb were allocated rs. 2000 crore and rs.1000 crore
+respectively against banks’ estimated shortfall in priority sector lending
+in march 2009.
+
+•
+
+banks were encouraged to use the special refinance facility under
+section 17(3b) of the reserve bank of india act, 1934 for the purpose
+of lending to micro and small enterprises.
+
+•
+
+the provisioning requirements for all types of standard assets were
+reduced to a uniform level of 0.40 per cent, except in the case of direct
+advances to the agricultural and sme sectors which continue to attract
+provisioning of 0.25 per cent, as hitherto.
+
+•
+
+risk weights on banks’ exposures to all unrated claims on corporates,
+claims secured by commercial real estate and claims on nbfcs-ndsi were reduced to 100 per cent from 150 per cent.
+
+51. on november 28, 2008 the reserve bank announced the following
+measures for liquidity management and improving credit flows:
+
+•
+
+the special refinance facility under section 17(3b) of the reserve
+bank of india act, 1934 introduced on november 1, 2008 was
+extended up to june 30, 2009.
+
+•
+
+the special term repo facility was expanded to enable banks to
+accommodate the funding needs of hfcs. the facility was extended
+up to june 30, 2009.
+
+•
+
+the forex swap facility of tenor up to three months was extended up to
+june 30, 2009.
+
+•
+
+the period of entitlement of the first slab of post-shipment rupee
+export credit was extended from 90 days to 180 days.
+
+december 2008
+52.
+
+the global outlook deteriorated further during december 2008. there were
+
+indications that the recession would be deeper and the recovery longer than
+anticipated earlier. there was also increasing evidence of slackening of domestic
+economic activity. the available data indicated that the demand for bank credit
+started moderating despite comfortable liquidity. the reduction in prices of petrol
+and diesel announced on december 5, 2008 further eased inflationary pressures.
+to improve the credit flow to productive sectors at viable costs so as to sustain
+the growth momentum, the reserve bank took the following measures on
+december 6 and 11, 2008:
+•
+
+the repo rate was reduced under the laf by 100 basis points from
+7.5 per cent to 6.5 per cent and the reverse repo rate by 100 basis
+points from 6.0 per cent to 5.0 per cent, effective december 8, 2008.
+
+•
+
+a refinance facility was introduced for sidbi, nhb and exim bank for
+rs. 7,000 crore, rs.4,000 crore and rs.5,000 crore respectively. this
+facility will be available up to march 31, 2010.
+
+•
+
+authorised dealers category-i banks were permitted to consider
+applications for premature buy-back of fccbs from their customers.
+
+•
+
+loans granted by banks to hfcs for on-lending for housing up to
+rs.20 lakh per dwelling unit were classified under priority sector.
+
+•
+
+commercial real estate exposures restructured up to june 30, 2009
+were allowed to be treated as standard assets. as a one-time
+
+measure, the second restructuring done by banks of exposures (other
+than exposures to commercial real estate, capital market exposures
+and personal/consumer loans) up to june 30, 2009 was also made
+eligible for concessional regulatory treatment.
+•
+
+the prescribed interest rate as applicable to post-shipment rupee
+export credit (not exceeding bplr minus 2.5 percentage points) was
+extended to overdue bills up to 180 days.
+
+january 2009
+53.
+
+while domestic financial markets continued to function in an orderly
+
+manner, india’s growth trajectory was impacted both by the global financial crisis
+and the follow-on global economic downturn. this impact turned out to be deeper
+and wider than earlier anticipated. concurrently, because of fall in global
+commodity prices coupled with supply and demand management measures at
+home, headline inflation was on the decline. even as some public sector and
+private sector banks had cut lending rates in response to the reserve bank’s
+monetary policy stance, concerns over rising credit risk together with the slowing
+of economic activity appeared to have moderated credit growth. accordingly, in
+order to stimulate growth, the reserve bank took the following further measures
+on january 2, 2009:
+•
+
+the repo rate under the laf was reduced by 100 basis points from
+6.5 per cent to 5.5 per cent with effect from january 5, 2009.
+
+•
+
+the reverse repo rate under the laf was reduced by 100 basis
+points from 5.0 per cent to 4.0 per cent with effect from january 5,
+2009.
+
+•
+
+the crr was reduced from 5.5 per cent to 5.0 per cent of ndtl
+effective from the fortnight beginning january 17, 2009.
+
+54. the government has announced the setting up of a special purpose
+vehicle (spv) for addressing the temporary liquidity constraints of systemically
+important non-deposit taking non-banking financial companies (nbfcs-nd-si).
+the mechanism would be as follows: the spv would issue government
+guaranteed securities to the reserve bank. the spv will, in turn, use the funds
+to acquire only investment grade commercial papers and non-convertible
+debentures of the nbfcs. during its appraisal, the spv will ensure that the
+
+nbfcs use the money only for addressing liquidity constraints and not for
+business expansion. the total support from the reserve bank will be limited to
+rs.20,000 crore with an option to raise it by a further rs.5,000 crore. the facility
+will be available for a limited period to address current liquidity concerns of
+nbfcs.
+liquidity impact
+55. the cumulative reduction in the crr by 400 basis points since midseptember 2008 released additional rs.1,60,000 crore of primary liquidity.
+unwinding of mss has released primary liquidity of a little over rs.63,000 crore.
+further, potential liquidity has been made available through various refinance
+facilities for banks and financial institutions to the tune of rs.80,000 crore. the
+term repo facility gives an additional potential liquidity of rs.60,000 crore. the
+spv for nbfc will augment potential liquidity by another rs.25,000 crore. in
+sum, the actions of the reserve bank since mid-september 2008 have resulted
+in augmentation of actual/potential liquidity of over rs.3,88,000 crore. in addition,
+the permanent reduction in slr by 1.0 per cent of ndtl has made available
+liquid funds of the order of rs.40,000 crore for the purpose of credit expansion
+(table 13).
+table 13: actual/potential release of primary liquidity since
+mid-september 2008
+measure/facility
+
+amount
+(rs.crore)
+
+1.
+
+cash reserve ratio (crr) reduction
+
+1,60,000
+
+2.
+
+mss unwinding
+
+63,045
+
+3.
+
+term repo facility
+
+60,000
+
+4.
+
+increase in export credit refinance
+
+25,500
+
+5.
+
+special refinance facility for scbs (non-rrb)
+
+38,500
+
+6.
+
+refinance facility for sidbi/nhb/exim bank
+
+16,000
+
+7.
+
+liquidity facility for nbfcs through spv
+
+25,000
+
+total (1 to 7)
+memo: statutory liquidity ratio (slr) reduction
+
+56.
+
+3,88,045
+40,000
+
+the liquidity situation has improved significantly following several
+
+measures taken by the reserve bank. the overnight call money rate, which
+
+generally hovered above the repo rate during september-october 2008, has
+softened considerably and has moved towards the lower bound of the laf
+corridor since early november 2008. other money market rates such as discount
+rate of cds, cps and cblo rate softened in tandem with the overnight call
+money rate. the yield on 10-year government securities has remained below 6
+per cent since mid-december 2008. the laf window has been generally in an
+absorption mode since mid-november 2008. the liquidity problem faced by
+mutual funds appears to have eased considerably. many commercial banks have
+reduced their benchmark prime lending rates since mid-november 2008.
+growth projection
+57.
+
+the reserve bank’s mid-term review of october 2008 had estimated real
+
+gdp growth for 2008-09 in the range of 7.5–8.0 per cent. since then the outlook
+on real gdp growth has been affected further and the downside risks to growth
+have amplified because of slowdown of industrial activity and weakening of
+external demand as reflected in decline in exports. services sector activities are
+likely to further decelerate in the second half of 2008-09. keeping in view the
+slowdown in industry and services and with the assumption of normal agricultural
+production, the projection of overall real gdp growth for 2008-09 is revised
+downwards to 7.0 per cent with a downward bias.
+inflation projection
+58.
+
+pressures on commodity prices have abated markedly around the world,
+
+reflecting slump in global demand. the sharp decline in crude oil prices together
+with the slide in prices of metals, foodgrains and cement has influenced inflation
+expectations in most parts of the world. in the domestic market, inflation in terms
+of the wholesale price index is already below 7.0 per cent, which was projected
+earlier for end-march 2009. while prices of manufactured products and of the
+fuel group have declined in line with international trends, inflation on account of
+primary articles still remains at the double digit level, reflecting sustained price
+pressures, particularly on food articles. as per current assessment, the inflation
+rate is expected to moderate further in the last quarter of 2008-09. keeping in
+view the global trend in commodity prices and the domestic demand-supply
+balance, wpi inflation is now projected to decelerate to below 3.0 per cent by
+end-march 2009.
+
+59.
+
+notwithstanding the projected decline in headline wpi inflation, it needs to
+
+be noted that consumer price inflation is yet to moderate and the decline in
+inflation expectations has not been commensurate with the sharp fall in wpi
+inflation. even within aggregate wpi inflation, the primary articles inflation is still
+in double digits. similarly, wpi inflation excluding food and fuel remains higher
+this year as compared with the previous year. in view of the divergent movement
+of various price indices and their components, and overall increase in global
+economic uncertainties, an assessment of underlying inflation for policy purposes
+becomes inherently complex. with wpi inflation having moderated significantly,
+consumer price inflation would also decline, though with a lag. towards its policy
+endeavour of ensuring price stability with well-anchored inflation expectations,
+the reserve bank will take into account the behaviour of all the price indices and
+their components.
+60.
+
+the conduct of monetary policy would continue to condition and contain
+
+perception of inflation in the range of 4.0-4.5 per cent so that an inflation rate of
+around 3.0 per cent becomes the medium-term objective, consistent with india’s
+broader integration into the global economy and with the goal of maintaining selfaccelerating growth over the medium-term. however, it is recognised that the
+headline wpi inflation could fall well below 3.0 per cent in the short-run partly
+because of the statistical reason of high base, and the global trends caused by
+exceptionally high oil and commodity prices in early 2008.
+monetary projection
+61.
+
+monetary and credit aggregates continue to expand at a higher rate than
+
+projected in the annual policy statement of april 2008. the liquidity overhang
+built-up in recent years due to unprecedented surge in capital inflows, however,
+is gradually diminishing. the reserve bank is committed to provide adequate
+liquidity for all productive activities on a continuous basis. as the upside risks to
+inflation have declined, monetary policy has been responding to slackening
+economic growth in the context of significant global stress. accordingly, the
+projection of money supply (m3) growth for 2008-09 is raised to 19.0 per cent
+from 16.5-17.0 per cent earlier. consistent with this, the aggregate deposit
+growth for 2008-09 is revised to 19.0 per cent from 17.0 per cent earlier. the
+projection of growth of adjusted non-food credit, including investment in
+
+bonds/debentures/shares of public sector undertakings and private corporate
+sector and cp, for 2008-09 is revised to 24.0 per cent from 20.0 per cent earlier.
+as always, these numbers are provided as indicative projections and not as
+targets.
+overall assessment
+62.
+
+as indicated earlier, india has been affected by the global financial crisis
+
+through the financial and real channels. there is considerable dismay about why
+this should be the case when, in fact, india’s financial system is sound and
+healthy, and its merchandise exports constitute only 13.5 per cent of gdp. the
+answer clearly is that india has rapidly integrated into the global system and has
+linkages with the rest of the world not just through trade channels, but also
+through two-way movements of capital and finance. as an integral part of a
+globalising world, india cannot be expected to remain immune to a global crisis of
+this nature and magnitude; and in responding to the crisis, india has to share the
+uncertainty on the way forward just like the rest of the world.
+63.
+
+both the government and the reserve bank have acted to protect the
+
+economy from the adverse impact of the crisis. while the government has
+announced two major fiscal stimulus packages, the endeavour of the reserve
+bank has been to provide ample rupee liquidity, ensure comfortable dollar
+liquidity and maintain a monetary policy environment conducive for the continued
+flow of credit to productive sectors. towards this endeavour, the reserve bank
+has adopted both conventional measures such as, for example, reduction of the
+crr, as well as unconventional measures such as, for example, the dollar swap
+facility for banks.
+64.
+
+measures aimed at expanding rupee liquidity included significant reduction
+
+in the crr, a special repo window under the laf for banks for on-lending to
+non-banking financial companies, housing finance companies and mutual funds,
+and a special refinance facility that banks can access without any collateral. the
+reserve bank is also unwinding the mss securities roughly synchronised with
+the government borrowing programme in order to manage liquidity. in addition,
+an spv is being set up to provide liquidity support to nbfcs.
+65.
+
+measures aimed at managing forex liquidity include upward adjustment of
+
+the interest rate ceilings on the fcnr(b) and nr(e)ra deposits, substantial
+
+relaxation of the ecb regime, allowing nbfcs/hfcs access to foreign borrowing
+and allowing corporates to buy back fccbs to take advantage of the discount in
+the prevailing depressed global markets. the reserve bank has also instituted a
+rupee-dollar swap facility for banks with overseas branches to give them comfort
+in managing their short-term funding requirements.
+66.
+
+measures to encourage flow of credit to sectors that are coming under
+
+pressure include extension of the period of pre-shipment and post-shipment
+credit for exports, expansion of the refinance facility for exports, counter-cyclical
+adjustment of provisioning norms for all types of standard assets barring some
+exceptions, reduction of risk weights on banks’ exposure to certain sectors which
+had been increased earlier counter-cyclically, and expansion of the lendable
+resources available to the small industries development bank of india, the
+national housing bank and the export-import bank of india.
+67.
+
+to improve the flow of credit to productive sectors at viable costs so as to
+
+sustain the growth momentum, the reserve bank signalled a lowering of the
+interest rate structure by significantly reducing both its key policy rates – the repo
+rate and the reverse repo rate. the slr has also been reduced by one
+percentage point releasing funds to banks for credit deployment.
+68.
+
+in the context of tightening liquidity in the recent period, the major
+
+challenge for the reserve bank has been to infuse liquidity in the system and
+assure the markets that it will continue to maintain a comfortable liquidity
+position. accordingly, the policy actions of the reserve bank since midseptember 2008 have resulted in the augmentation of active/potential liquidity in
+the system of over rs.3,88,000 crore. the reserve bank has also assured
+market participants that it will endeavour to maintain the overnight money market
+rates within the laf corridor. the reserve bank will continue to pursue this
+stance of ensuring ample liquidity in the market and maintaining the overnight
+money market rates within the laf corridor. in order to do so, the reserve bank
+will, as in the past, employ both conventional and unconventional measures.
+69.
+
+the reserve bank has acted aggressively and pre-emptively on monetary
+
+policy accommodation, particularly through interest rate cuts in terms of both
+magnitude and pace. in the space of just one quarter, the repo rate has been
+reduced from 9.0 per cent to 5.5 per cent and the reverse repo rate from 6.0 per
+
+cent to 4.0 per cent, thereby bringing down both of them to historically lowest
+levels. the transmission of the policy interest rate signal has been effective in the
+money and government securities markets; however, the transmission in the
+credit market has so far been subdued. most banks have reduced lending and
+deposit rates to some extent, but a few have yet to do so. in the reserve bank’s
+view, the policy easing done by it in the last few months allows for considerable
+room for banks to respond more actively to the policy cues.
+70.
+
+as indicated earlier, the demand for credit from the banking sector has
+
+increased as other sources of funds to the commercial sector have shrunk.
+available information (as on january 23, 2009) suggests that the total flow of
+resources to the commercial sector from all sources, estimated at about
+rs.4,85,000 crore during the fiscal year 2008-09 so far, has been lower than
+about rs.4,99,000 crore in the corresponding period of the previous year. while
+bank credit has substituted for the shortfall in other sources of funds to some
+extent, a complete substitution has so far not taken place.
+71.
+
+given the uncertain outlook of resource availability from both external and
+
+non-bank domestic sources,
+
+the reserve bank has raised its indicative
+
+projection of total flow of credit from the banking sector to the commercial sector
+to 24.0 per cent for 2008-09 from 20.0 per cent envisaged in the annual policy
+statement. with a view to enabling banks to sustain the current level of credit
+flow alongside an enhanced government market borrowing programme, the
+reserve bank’s monetary operations will be conducted so as to be consistent
+with the revised indicative money supply projection of 19.0 per cent for 2008-09,
+higher than the 16.5-17.0 per cent envisaged in the annual policy statement.
+72.
+
+to arrest the moderation in economic growth, it is critical that banks
+
+expand the flow of credit to productive sectors of the economy and do so at
+viable rates. at the same time, banks should monitor their loan portfolios and
+take early action to prevent delinquencies down the road, and safeguard the
+gains of the last several years in improving asset quality. the reserve bank
+appreciates that risk management is a difficult task in normal circumstances; it is
+even more challenging in an environment of uncertainty and downturn. towards
+this shared endeavour of maintaining the flow of credit to productive sectors, the
+
+reserve bank will take calibrated monetary policy actions as necessary and at
+the appropriate time.
+73.
+
+although the origins of the crisis are common around the world, the crisis
+
+has impacted different economies differently. importantly, in advanced
+economies where it originated, the crisis spread from the financial sector to the
+real sector. in emerging economies, the transmission of external shocks to
+domestic vulnerabilities has typically been from the real sector to the financial
+sector. countries have responded to the crisis depending on their specific
+country circumstances. in particular, while policy responses in advanced
+economies have had to contend with both the financial crisis and recession, in
+india, the policy response has been predominantly driven by the need to arrest
+moderation in economic growth. our ability to respond has been facilitated by the
+continued smooth functioning of our financial markets and the well-capitalised
+and healthy banking system. thus, even as policy responses across countries
+are broadly similar, their precise design, quantum, sequencing and timing have
+varied. this has been the case with india too. while we have certainly studied
+and evaluated measures taken by other central banks around the world, we have
+calibrated and designed our responses keeping in view india’s specific economic
+context.
+policy stance
+74.
+
+keeping in view the above assessment of the global scenario and
+
+domestic economy, particularly the outlook on growth and inflation, the stance of
+monetary policy for the rest of 2008-09 will be as follows:
+•
+
+provision of comfortable liquidity to meet the required credit growth
+consistent with the overall projection of economic growth.
+
+•
+
+respond swiftly and effectively with all possible measures as
+warranted by the evolving global and domestic situation impinging on
+growth and financial stability.
+
+•
+
+ensure a monetary and interest rate environment consistent with price
+stability, well-anchored inflation expectations and orderly conditions in
+financial markets.
+
+75.
+
+given the uncertain outlook on the global crisis, it is difficult to precisely
+anticipate every development. the reserve bank will continue to
+maintain vigil, monitor domestic and global developments, and take
+swift and effective action to minimise the impact of the crisis and
+restore the economy to its potential growth path with price stability. the
+response to the reserve bank’s policy actions over the last several
+months is still unfolding. as demonstrated in the recent past,
+
+the
+
+reserve bank will act swiftly and decisively as and when evolving
+external and domestic conditions so warrant.
+
+iii. monetary measures
+
+bank rate
+76.
+
+the bank rate has been kept unchanged at 6.0 per cent.
+
+repo rate/reverse repo rate
+77.
+
+the repo rate under the laf has been kept unchanged at 5.5 per cent.
+
+78.
+
+the reverse repo rate under the laf has been kept unchanged at 4.0 per cent.
+
+79. the reserve bank has the flexibility to conduct repo/reverse repo auctions at a
+fixed rate or at variable rates as circumstances warrant.
+80. the reserve bank retains the option to conduct overnight or longer term
+repo/reverse repo under the laf depending on market conditions and other relevant
+factors. the reserve bank will continue to use this flexibly including the right to
+accept or reject tender(s) under the laf, wholly or partially, if deemed fit, so as to
+make efficient use of the laf in daily liquidity management.
+cash reserve ratio
+81. the cash reserve ratio (crr) of scheduled banks has been kept unchanged at
+5.0 per cent of ndtl.
+liquidity facilities
+82. the reserve bank has allowed banks to avail liquidity support under the laf
+for the purpose of meeting the funding requirements of mutual funds (mfs), nonbanking financial companies (nbfcs) and housing finance companies (hfcs)
+through relaxation in the maintenance of slr up to 1.5 per cent of their ndtl.
+
+second, a special refinance facility for scheduled commercial banks (excluding
+rrbs) was provided by the reserve bank on november 1, 2008 under section 17
+(3b) of the rbi act, 1934 up to 1.0 per cent of each bank’s ndtl as on october 24,
+2008. both these facilities are currently available up to june 30, 2009. in order to
+ensure that banks continue to have flexibility in their liquidity management
+operations in the current market conditions, it has been decided:
+•
+
+to extend both the refinance facilities up to september 30, 2009.
+
+annual policy statement 2009-10
+83.
+
+the annual policy statement for 2009-10 will be announced on april 21, 2009.
+
+mumbai
+january 27, 2009
+
+

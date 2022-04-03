@@ -1,0 +1,1456 @@
+reserve bank of india
+
+third quarter review of
+monetary policy 2010-11
+
+dr. d. subbarao
+governor
+
+january 25, 2011
+mumbai
+
+contents
+page no.
+
+1. the state of the economy
+the global economy ....................................................................... 2
+the domestic economy ................................................................... 2
+
+ii. outlook and projections
+global outlook ................................................................................. 6
+domestic outlook ............................................................................ 6
+monetary aggregates ....................................................................... 9
+risk factors ...................................................................................... 9
+
+iii. the policy stance ......................................................................... 11
+iv. policy measures ............................................................................ 12
+
+acronyms
+bop
+
+-
+
+balance of payments
+
+bps
+
+-
+
+basis points
+
+bplr
+
+-
+
+benchmark prime lending rate
+
+cad
+
+-
+
+current account deficit
+
+cpi
+
+-
+
+consumer price index
+
+crr
+
+-
+
+cash reserve ratio
+
+ecb
+
+-
+
+european central bank
+
+emes
+
+-
+
+emerging market economies
+
+fao
+
+-
+
+food and agriculture organisation
+
+fdi
+
+-
+
+foreign direct investment
+
+gdp
+
+-
+
+gross domestic product
+
+hsbc
+
+-
+
+hongkong and shanghai banking corporation
+
+iip
+
+-
+
+index of industrial production
+
+laf
+
+-
+
+liquidity adjustment facility
+
+mqr
+
+-
+
+mid-quarter review
+
+ndtl
+
+-
+
+net demand and time liabilities
+
+mgnrega
+
+-
+
+mahatma gandhi national rural employment
+guarantee act
+
+omo
+
+-
+
+open market operation
+
+pmi
+
+-
+
+purchasing managers’ index
+
+q
+
+-
+
+quarterly
+
+reer
+
+-
+
+real effective exchange rate
+
+scbs
+
+-
+
+scheduled commercial banks
+
+slr
+
+-
+
+statutory liquidity ratio
+
+sqr
+
+-
+
+second quarter review
+
+wpi
+
+-
+
+wholesale price index
+
+reserve bank of india
+third quarter review of monetary policy 2010-11
+by
+dr. d. subbarao
+governor
+introduction
+there have been significant
+changes in the macroeconomic
+environment since the second quarter
+review issued on november 2, 2010.
+globally, the recovery in the advanced
+economies appears to be consolidating
+and expectations of growth during
+2011, particularly in the us, are
+generally being revised upwards.
+however,
+inflationary
+tendencies
+are clearly visible. though still
+subdued in the advanced economies,
+inflationary pressures in emerging
+market economies (emes), which were
+already strong, have intensified due to
+sharp increases in food, energy and
+commodity prices.
+2.
+the indian economy has reverted
+to its pre-crisis growth trajectory, with
+growth in the first half of 2010-11
+estimated at 8.9 per cent. recent data on
+agricultural output and service sector
+indicators suggest that the growth
+momentum continued in the third
+quarter. the robustness of growth is also
+reflected in corporate sales, tax revenues
+and bank credit, notwithstanding some
+moderation in the index of industrial
+production (iip).
+1
+
+3.
+inflation is clearly the dominant
+concern. even as the rate itself remains
+uncomfortably high, the reversal in the
+direction of inflation is striking. after
+some moderation between august and
+november 2010, inflation rose again in
+december 2010 on the back of sharp
+increase in the prices of primary food
+articles and the recent spurt in global
+oil prices. non-food manufacturing
+inflation has remained sticky, reflecting
+both buoyant demand conditions and
+rising costs.
+4.
+against this backdrop, this
+statement sets out the reserve
+bank’s assessment of the current
+macroeconomic situation and forward
+projections. it is organised in four
+sections. section i provides an overview
+of global and domestic macroeconomic
+developments. section ii sets out the
+outlook and projections for growth,
+inflation and monetary aggregates.
+section iii explains the stance of
+monetary policy. section iv specifies
+the policy measures. this statement
+should be read and understood
+together with the detailed review
+in macroeconomic and monetary
+developments released yesterday by the
+reserve bank.
+
+i. the state of the economy
+the global economy
+5.
+global growth prospects have
+improved in recent weeks. the recovery
+in major advanced economies, which had
+weakened during q2 of 2010, regained
+strength in q3 of 2010. real gdp growth
+in the us, which had moderated from
+3.7 per cent in q1 of 2010 to 1.7 per cent
+in q2 of 2010, improved to 2.6 per cent
+in q3. corporate capital spending and
+retail sales in the us have improved.
+while uncertainty persists in the euro
+area and japan, the baseline outlook for
+both is improving. growth in emes has
+remained strong, supported largely by
+domestic demand.
+6.
+in advanced economies, the
+earlier fears of deflation have given way
+to early signs of inflation. in emes,
+inflation has accentuated significantly
+in the recent period. rapidly rising
+food prices in several economies such
+as china, india, indonesia, brazil and
+russia are a major contributory factor.
+according to the food and agriculture
+organisation (fao), international food
+prices rose by 25 per cent in december
+2010 in comparison with the level at the
+end of 2009. the increase in global food
+prices has been led by prices of edible
+oils (55 per cent), cereals (39 per cent)
+and sugar (19 per cent). significantly,
+the fao expects food prices to further
+harden during 2011, intensifying global
+inflationary pressures.
+7.
+these pressures are likely to
+be reinforced by trends in energy and
+commodity prices. the crude oil (brent)
+price perked from us$ 85 per barrel on
+november 2, 2010 to us$ 97 per barrel
+on january 21, 2011. the price of crude
+(ice brent) in the futures market is
+2
+
+ruling at us$ 98 per barrel for march
+2011 delivery. many other commodities
+have seen similar movements. as
+growth prospects in the us improve, the
+consequent increase in global demand
+for energy and commodities will exert
+further pressure on prices. already,
+the 10-year benchmark us government
+securities yield increased from 2.4
+per cent in early october 2010 to 3.4 per
+cent in mid-january 2011, indicating,
+among other things, rising inflationary
+expectations.
+the domestic economy
+8.
+real gdp in india increased
+by 8.9 per cent during the first half of
+2010-11, reflecting strong domestic
+demand, especially private consumption
+and investment, and improving external
+demand. although on a cumulative
+basis, the iip grew by 9.5 per cent during
+april-november 2010, it has been
+volatile in the current financial year
+with growth rates ranging between 2.7
+per cent and 16.6 per cent. overall,
+robust corporate sales, large indirect
+tax collections, advance tax payments
+and leading indicators of service sector
+activity suggest persistence of the
+growth momentum.
+9.
+on the other hand, the latest
+quarterly industrial outlook survey
+conducted by the reserve bank
+during
+october-december
+2010
+indicates a marginal moderation in
+overall business expectations during
+january-march 2011 from their high
+level in the previous quarter. the
+reserve bank’s order book, inventories
+and capacity utilisation survey for
+july-september 2010 showed a marginal
+
+improvement in capacity utilisation
+in q2 of 2010-11, while the hsbc
+purchasing managers’ index (pmi)
+showed some moderation in the pace
+of manufacturing sector expansion in
+december 2010.
+10.
+headline inflation, based on
+year-on-year changes in the wholesale
+price index (wpi), moderated to a
+single digit in august 2010 and softened
+further to 7.5 per cent in november 2010,
+the lowest level attained during 2010.
+however, inflation reversed course to rise
+to 8.4 per cent in december 2010, driven
+primarily by food and fuel inflation.
+11.
+year-on-year primary food
+articles inflation spiked to 13.5
+per cent in december from 9.4
+per cent in november due to severe
+supply constraints in respect of
+some food items. in particular,
+vegetable prices increased by 22.9
+per cent in december 2010 over the
+previous month’s level. month-onmonth price increases were very high
+for some vegetables such as brinjals
+(65 per cent), onions (35 per cent), garlic
+(26 per cent), cabbage (22 per cent),
+tomatoes (19 per cent) and potatoes
+(16 per cent).
+12.
+year-on-year fuel inflation, which
+had moderated from 14.4 per cent in may
+2010 to 10.3 per cent in november 2010,
+rose again to 11.2 per cent in december
+2010 due to a rise in non-administered
+domestic fuel prices, reflecting the sharp
+increase in international prices. in the first
+fortnight of january 2011, oil marketing
+companies further raised the prices of
+petroleum products (petrol and aviation
+turbine fuel) which will further add to
+fuel inflation. the year-on-year wpi
+non-food manufactured products (weight:
+3
+
+55 per cent) inflation, which moderated
+from 5.9 per cent in april 2010 to
+5.1 per cent in september 2010,
+increased to 5.4 per cent in november,
+though it softened marginally to 5.3
+per cent in december. significantly,
+non-food manufactured products inflation
+continues to remain above its mediumterm trend of 4.0 per cent. moreover, in
+recent months, the underlying inflation
+momentum in this segment has been
+positive.
+13.
+between
+november
+and
+december 2010, as wpi inflation
+moved up from 7.5 per cent (year-onyear) to 8.4 per cent, the wholesale
+price index increased by 1.3 per cent.
+of this increase in index, 82 per cent
+was contributed by primary articles
+and fuel groups and 18 per cent by
+the manufactured products group.
+at a disaggregated level, vegetables
+alone contributed as much as 40 per
+cent to the increase in the index in
+december, followed by mineral oil
+(13 per cent), condiment and spices
+(8 per cent) and minerals (7 per cent).
+14.
+money supply (m3) growth
+moderated during the year, reflecting
+slower deposit growth and faster
+currency expansion which reduced
+the money multiplier. several banks
+raised their deposit rates after the
+second quarter review of 2010-11
+which contributed to a larger deposit
+mobilisation in december. consequently,
+m3 growth increased to 16.5 per cent by
+end-december 2010, close to the indicative
+projection of 17 per cent for 2010-11.
+15.
+however, year-on-year nonfood credit growth has been above the
+reserve bank’s indicative projection of
+20 per cent since early october 2010,
+
+rising to 24 per cent by end-december
+2010. the wide gap between credit
+growth and deposit growth resulted
+in a sharp increase in the incremental
+non-food credit-deposit ratio to 102 per
+cent by end-december 2010, up from 58
+per cent in the corresponding period of
+previous year.
+16.
+disaggregated data suggest that
+credit growth, which was earlier driven
+by the infrastructure sector, is becoming
+increasingly broad-based across sectors
+and industries, evidencing growth
+momentum and demand pressures.
+credit flow to the services sector
+increased significantly for transport
+operators, tourism, hotel and restaurant
+and commercial real estate, besides retail
+housing and personal loans. as regards
+industry, apart from infrastructure,
+increase in credit was significant for
+metals, engineering, textiles, food
+processing and chemical and chemical
+products.
+17.
+rough estimates showed that the
+total flow of fi nancial resources from
+banks and non-banks to the commercial
+sector during april-december 2010
+was `9,01,000 crore, up from `6,36,000
+crore during the corresponding period
+of last year. while bank credit to the
+commercial sector surged, the flow of
+funds from other sources was lower
+than last year’s level mainly on account
+of lower net inflows from foreign direct
+investment (fdi).
+18.
+as part of the calibrated exit from
+the crisis driven expansionary monetary
+stance, the reserve bank increased the
+repo rate by 150 basis points (bps) and
+the reverse repo rate by 200 bps during
+march–november 2010. in addition, the
+cash reserve ratio (crr) was raised by
+100 bps. in response to these monetary
+4
+
+policy measures, scheduled commercial
+banks (scbs) raised their deposit
+rates in the range of 25-250 bps during
+march 2010-january 2011 across various
+maturities, indicating strong monetary
+policy transmission.
+19.
+the base rate system replaced
+the benchmark prime lending rate
+system with effect from july 1, 2010.
+several banks reviewed and increased
+their base rates by 25-100 bps between
+july 2010 and january 2011. base rates
+of 67 banks with a share of 98 per cent
+in the total bank credit were in the range
+of 7.5-9.0 per cent in december 2010.
+20.
+tight
+liquidity
+conditions
+persisted throughout the third quarter
+of 2010-11. the average daily net
+injection of liquidity through the
+liquidity adjustment facility (laf)
+increased from around `62,000 crore
+in october to around `99,000 crore
+in november and further to around
+`1,20,000 crore in december, with the
+peak injection of around `1,71,000 crore
+on december 22, 2010. while the overall
+liquidity in the system has remained
+in deficit consistent with the policy
+stance, the extent of tightness after the
+second quarter review of 2010-11 was
+outside the comfort zone of the reserve
+bank, i.e., (+)/(-) one per cent of net
+demand and time liabilities (ndtl) of
+banks. above-normal government cash
+balances, which rose from an average of
+`73,000 crore in october to `1,53,000
+crore by the second half of december
+2010, contributed to the frictional
+component of liquidity deficit. however,
+the widening difference between credit
+and deposit growth rates coupled with
+high currency growth accentuated the
+structural liquidity deficit.
+
+21.
+the reserve bank instituted
+a number of measures to mitigate the
+liquidity deficit. first, the statutory
+liquidity ratio (slr) of scbs was
+reduced from 25 per cent of their
+ndtl to 24 per cent with effect from
+december 18, 2010. second, it conducted
+open market operation (omo) purchase
+of government securities of the order
+of over `67,000 crore. third, additional
+liquidity support to scbs was provided
+under the laf. this facility, which was
+initially available up to 2 per cent of
+their ndtl, was brought down to one
+per cent of ndtl after reduction in the
+slr by one percentage point. fourth, a
+second laf window was introduced.
+22.
+government spending resulted
+in a reduction of its cash balances
+during january 2011 (up to january
+21, 2011). as a result, the average daily
+net liquidity injection through the
+laf declined from around `1,20,000
+crore during december 2010 to around
+`90,000 crore in january 2011 (up to
+january 21, 2011).
+23.
+reflecting the improvement
+in the tight liquidity conditions, the
+average daily call rate moderated
+from 6.7 per cent during december
+2010 to 6.5 per cent in january 2011
+(up to january 21, 2011). at the longer
+end, 10-year government security
+(g-sec) yield, which had generally
+remained above 8 per cent during
+most of october-november 2010 on
+account of inflationary pressures
+and persistent liquidity tightness,
+also softened in the second half of
+december 2010. however, the yield
+on 10-year g-sec moved up again
+5
+
+to 8.2 per cent by january 21, 2011,
+reflecting both liquidity conditions and
+inflationary expectations.
+24.
+over 95 per cent of the central
+government’s budgeted borrowing
+programme (net) was completed by
+january 24, 2011. during the fi rst eight
+months of 2010-11, the fiscal deficit of
+the central government was less than
+50 per cent of the budget estimates.
+the one-off revenue generated from
+spectrum auctions, estimated to be
+around 1.5 per cent of gdp for the year,
+has been a major contributor to the
+current improvement on the revenue
+side.
+25.
+during
+2010-11
+(up
+to
+december 2010), the real exchange
+rate of the rupee showed a mixed
+trend. it appreciated by 3.7 per cent on
+the basis of the trade based 6-currency
+real effective exchange rate (reer),
+reflecting both nominal appreciation
+of the rupee against the us dollar
+and the higher inflation differential
+with major advanced countries.
+however, against broader baskets of
+36-currency and 30-currency reer,
+the rupee depreciated over its march
+2010 levels by 0.6 per cent and 2.5
+per cent, respectively.
+26.
+on a balance of payments (bop)
+basis, the trade deficit widened to us$
+35.4 billion in q2 of 2010-11 from
+us$ 31.6 billion in q1. coupled with
+stagnation in invisibles receipts, this
+led to a widening of the current account
+deficit (cad) from us$ 12.1 billion in
+q1 of 2010-11 to us$ 15.8 billion in
+q2 of 2010-11. in the fi rst half
+of 2010-11, the cad expanded to 3.7
+
+per cent of gdp from 2.2 per cent in
+the corresponding period of last year.
+subsequent trade data indicate faster
+growth in exports vis-a-vis imports
+which may help improve the cad in
+q3 of 2010-11. however, the sharp
+
+increase in global commodity prices,
+particularly oil, could have an adverse
+impact on our trade balance going
+forward. for the year as a whole, india’s
+cad is expected to be close to 3.5
+per cent of gdp.
+
+ii. outlook and projections
+global outlook
+growth
+27.
+with
+advanced
+economies
+showing fi rmer signs of sustainable
+recovery, global growth in 2010 is
+expected to have been less imbalanced
+than before. while growth in advanced
+economies may improve, growth in
+emes, which have been the main
+engine of global economic growth in
+the recent period, may moderate due
+to tightening of monetary policy to
+address rising inflationary concerns
+and the waning impact of the fiscal
+stimulus measures taken in the wake
+of the global fi nancial crisis.
+inflation
+28.
+even as a large slack persists,
+inflation has edged up in major advanced
+economies owing mainly to increase
+in food and energy prices. inflation in
+the euro area exceeded the european
+central bank’s (ecb) medium-term
+target for the fi rst time in more than
+two years in december 2010. similarly
+in the uk, the headline inflation has
+persisted above the target of the bank
+of england. in the us, the headline
+cpi rose to 1.5 per cent in december
+2010 from 1.1 per cent in november
+2010. whereas signs of inflation in the
+advanced countries are only incipient,
+6
+
+many emes have been facing strong
+inflationary pressures, reflecting higher
+international commodity prices and
+rising domestic demand pressures.
+29.
+significantly, food, energy and
+commodity prices are widely expected
+to harden during 2011, driven by a
+combination of supply constraints and
+rising global demand, as the advanced
+economies consolidate their recovery.
+this suggests that inflation could be a
+global concern in 2011.
+domestic outlook
+growth
+30.
+on the domestic front, the 8.9
+per cent gdp growth in the fi rst half of
+2010-11 suggests that the economy is
+operating close to its trend growth rate,
+powered mainly by domestic factors.
+the kharif harvest has been good and
+rabi prospects look promising. good
+agricultural growth has boosted rural
+demand. export performance in recent
+months has been encouraging.
+31.
+with the risks to growth in
+2010-11 being mainly on the upside, the
+baseline projection of real gdp growth
+is retained at 8.5 per cent as set out in
+the second quarter review of monetary
+policy of july 2010 but with an upside
+bias (chart 1).
+
+chart 1 : projection of gdp growth for 2010-11
+
+9
+
+8
+
+7
+
+gdp growth (%)
+
+10
+
+baseline projection
+
+50 per cent ci
+
+70 per cent ci
+
+inflation
+32.
+the moderation in headline
+inflation observed between august and
+november 2010 was along the projected
+trajectory of the reserve bank. this
+trend, however, reversed in december
+2010 due mainly to sharp increase in
+the prices of vegetables, mineral oils
+and minerals.
+33.
+while the current spike in food
+prices is expected to be transitory,
+structural demand-supply mismatches
+in several non-cereal food items such as
+pulses, oilseeds, eggs, fish and meat and
+milk are likely to keep food inflation
+high. non-food manufacturing inflation
+also remains significantly above its
+medium-term trend of 4 per cent. the
+reserve bank’s quarterly inflation
+expectations survey, conducted during
+the first fortnight of december 2010,
+indicates that expectations of households
+remain elevated.
+34.
+going forward, the inflation
+outlook will be shaped by the following
+factors. first, it will depend on how the
+food price situation – both domestic
+and global – evolves. domestic food
+price inflation has witnessed high
+7
+
+90 per cent ci
+
+2010-11
+
+2009-10
+
+2008-09
+
+2007-08
+
+2006-07
+
+2005-06
+
+6
+
+ci - confidence interval
+
+volatility since mid-2009 due to both
+structural and transitory factors. a
+significant part of the recent increase in
+food price inflation is due to structural
+constraints. this is reflected in the less
+than expected moderation in food price
+inflation even in a normal monsoon year.
+there has also been a sharp increase in
+the prices of some food items due to
+transitory supply shocks. what is more
+worrying is the substantial increase in
+prices of several food items even though
+their production has not been affected.
+as a result, the usual moderation in
+vegetable prices in the winter season
+has not materialised.
+35.
+notably, high food price inflation
+is not unique to india. food prices have
+spiked in many countries in the recent
+period. india is a large importer of
+certain food items such as edible oils,
+and the domestic food price situation
+could be exacerbated by the increase
+in global food prices. this, therefore,
+poses an additional risk to domestic
+food price inflation.
+36.
+the second factor that will
+shape the inflation outlook is how
+global commodity prices behave.
+
+prices of some commodities rose
+sharply in the recent period even as
+the global recovery was fragile. should
+these trends continue, they will impact
+inflation, domestically and globally.
+37.
+the third factor is the extent
+to which demand side pressures may
+manifest. this risk arises from three
+sources, viz., the spill-over of rising
+food inflation; rising input costs,
+particularly industrial raw materials
+and oil; and pressure on wages, both
+in the formal and informal sectors.
+the rise in food inflation has not only
+persisted for more than two years now,
+the increase has been rather sharp in
+the recent period. this cannot but have
+some spill-over effects on generalised
+inflation, particularly when the growth
+momentum is strong and both workers
+and producers are likely to have pricing
+power. there are indications that,
+in the corporate sector, the share of
+wages in total costs is increasing. the
+indexation of the mahatma gandhi
+national rural employment guarantee
+act (mgnrega) wages will also raise
+the wage rate in the agricultural sector.
+further, besides oil, the prices of some
+
+primary non-food articles have risen
+sharply in the recent period. since these
+are inputs into manufactured products,
+the risk to headline inflation is not only
+from the increase in non-food items but
+also because the increase in input costs
+will ultimately impact output prices. as
+the output gap closes, corporates will
+also be able to sustain higher output
+prices. in the absence of commensurate
+increase in capacity, there is the risk of
+demand side pressures accentuating.
+38.
+in the second quarter review
+of november 2010, the reserve
+bank set out the baseline projection
+of wpi inflation for march 2011 at
+5.5 per cent, based on the new
+wpi series (2004-05=100). the midquarter review of december 2010
+indicated that the risks to inflation going
+forward were largely on the upside.
+some of these risks have materialised
+as reflected in the increase in the prices
+of metals and non-administered fuel.
+there have also been some transitory
+supply shocks as reflected in the sharp
+increase in vegetable prices. in addition,
+petroleum and aviation turbine fuel
+prices were raised in early january
+which will add 9 bps to wpi inflation.
+
+chart 2 : projection path of y-o-y inflation
+12
+
+8
+6
+4
+2
+0
+
+inflation rate (%)
+
+10
+
+baseline projection
+
+50 per cent ci
+
+70 per cent ci
+
+8
+
+90 per cent ci
+
+mar-11
+
+dec-10
+
+sep-10
+
+jun-10
+
+mar-10
+
+dec-09
+
+sep-09
+
+jun-09
+
+mar-09
+
+-2
+
+ci - confidence interval
+
+while the impact of transitory factors is
+expected to wane, the price pressures on
+account of demand-supply imbalances
+in respect of some commodities will
+persist. considering the increase that
+has already occurred and the emerging
+domestic and external scenario, the
+baseline projection of wpi inflation
+for march 2011 is revised upwards to
+7.0 per cent from 5.5 per cent
+(chart 2).
+monetary aggregates
+39.
+while the year-on-year money
+supply (m3) growth at 16.5 per cent
+in december 2010 was close to the
+indicative projection of 17 per cent,
+non-food credit growth at 24.4 per
+cent was much above the indicative
+projection of 20 per cent. credit
+expansion in the recent period has
+been rather sharp, far outpacing the
+expansion in deposits. rapid credit
+growth without a commensurate
+increase in deposits is not sustainable.
+40.
+as a result of injection of primary
+liquidity of over `67,000 crore through
+omo auctions since early november
+2010, the structural liquidity deficit in
+the system has declined significantly.
+while the reserve bank will
+endeavour to provide liquidity to meet
+the productive credit requirements of a
+growing economy, it is important that
+credit growth moderates to conform
+broadly to the indicative projections.
+this will prevent any further build-up of
+demand side pressures. accordingly, the
+projection for 2010-11 of m3 growth has
+been retained at 17 per cent and that for
+non-food credit growth at 20 per cent.
+as always, these numbers are indicative
+projections and not targets.
+9
+
+risk factors
+41.
+the growth and inflation
+projections as outlined above are subject
+to several risks.
+i)
+
+food inflation has remained at an
+elevated level for more than two
+years now. it is not only that the
+moderation in food price inflation as
+expected during a normal monsoon
+year has not occurred to the extent
+expected, but also that there has been
+sharp unusual increase in prices. it
+is also significant that food inflation
+is not confined to a few items which
+were affected by unseasonal rains
+in some parts of the country but is
+fairly widespread across several food
+items. the inflation rates for primary
+articles and fuel items have risen
+sharply. inflationary expectations
+remain at elevated levels. as high
+food inflation persists, the prospect
+of it spilling over to the general
+inflation process is rapidly becoming
+a reality.
+
+ii) non-food manufacturing inflation
+is persistent and has remained
+sticky in recent months as several
+industries are operating close to
+their capacity levels. imports as
+a means to supplement domestic
+availability for many commodities
+will become less of an option as
+global growth consolidates and
+capacity
+utilisation
+increases.
+this may accentuate demand side
+pressures.
+iii) india’s
+cad
+has
+widened
+significantly. although recent trade
+data suggest moderation of the
+trade deficit in the latter part of the
+year, overall cad for 2010-11 is
+expected to be about 3.5 per cent of
+
+gdp. a cad of this magnitude is
+not sustainable. further, commodity
+prices, which rose sharply even
+when the global recovery was
+sluggish, may rise further if the
+global recovery is faster than
+expected. this has implications for
+both the cad and inflation. there
+is, therefore, a need for concerted
+policy efforts to diversify exports
+and contain the cad within prudent
+limits.
+iv) apart from the level of cad,
+financing of cad also poses a
+risk. global growth prospects have
+improved significantly in the recent
+period. should global recovery be
+faster than expected, it may also
+have implication for the financing of
+cad. capital flows, which so far have
+been broadly sufficient to finance
+the cad, may be adversely affected.
+faster than expected global recovery
+may enhance the attractiveness
+of investment opportunities in
+advanced economies, which may
+impact capital flows to india. this
+may increase the vulnerability of
+our external sector. hence, the
+composition of capital inflows
+needs to shift towards longer-term
+commitments such as fdi.
+v) the recent improvement in the
+fiscal situation has been mainly
+the result
+of one-off revenue
+generated from spectrum auctions.
+the government also had the
+benefit of disinvestment proceeds,
+which may continue to occur for
+some more time. however, fiscal
+consolidation based on one-off
+receipts is not sustainable. as
+emphasised in the second quarter
+review of november 2010, fiscal
+10
+
+consolidation is important for
+several reasons, including the fact
+that monetary policy works most
+efficiently while dealing with an
+inflationary situation when the
+fiscal situation is under control.
+apart from this, the commodity
+price developments that have been
+referred to earlier pose significant
+risks for fiscal consolidation in the
+year ahead. rising oil prices will
+impact prices of both petroleum
+products and fertilisers. if the
+government chooses to restrict
+the pass-through to consumers
+and farmers, it will have to make
+adequate budgetary provisions,
+which will constrain its ability to
+reduce the fiscal deficit. if it does
+not, either fiscal credibility will
+be undermined or inflationary
+expectations will be reinforced
+by the likelihood of higher prices
+of these key inputs, both of which
+will further complicate inflation
+management.
+vi) the
+combined
+risks
+from
+inflation, the cad and fiscal
+situation contribute to an increase
+in uncertainty about economic
+stability that consumers and
+investors will have to deal
+with. to the extent that this
+deters consumption and investment
+decisions, growth may be impacted.
+while slower growth may contribute
+to some dampening of inflation and
+a narrowing of the cad, it can also
+have significant impact on capital
+inflows, asset prices and fiscal
+consolidation, thereby aggravating
+some of the risks that have already
+been identified.
+
+iii. the policy stance
+42.
+the reserve bank began exiting
+from the crisis driven expansionary
+monetary policy as early as in october
+2009. since then, it has cumulatively
+raised the crr by 100 bps, and the repo
+and reverse repo rates under the laf
+by 150 and 200 bps, respectively. as
+the overall liquidity in the system has
+transited from a surplus to a deficit mode,
+the effective tightening in the policy
+rate has been of 300 bps. the monetary
+policy response was calibrated on the
+basis of india specific growth-inflation
+dynamics in the broader context of
+global uncertainty.
+43.
+while the reserve bank decided
+to leave the policy rates unchanged in
+the mid-quarter review of december
+2010, developments on the inflation
+front since then have reinforced the
+already elevated concern in this regard.
+accordingly, our monetary policy
+stance for the remaining period of
+2010-11 has been guided by the following
+considerations:
+
+
+first, since the second quarter
+review
+of
+november
+2010,
+inflationary
+pressures,
+which
+were abating until then, have
+re-emerged significantly. primary
+food articles inflation has risen
+again sharply after moderating for
+a brief period. non-food articles
+and fuel inflation are already
+at elevated levels. importantly,
+non-food manufacturing inflation
+has remained sticky. there are,
+therefore, signs of rapid food and
+fuel price increases spilling over into
+generalised inflation. as it is, there
+is some evidence of rising demand
+side pressures which are reflected
+11
+
+in rapid bank credit growth, robust
+corporate sales and rising input and
+output prices, and buoyancy in tax
+revenues. the need, therefore, is
+to persist with measures to contain
+inflation and anchor inflationary
+expectations.
+
+
+second, global commodity prices
+have risen sharply which has
+heightened upside risks to domestic
+inflation.
+
+
+
+third, growth has moved close to
+its pre-crisis growth trajectory as
+reflected in the 8.9 per cent gdp
+growth in the first half of 2010-11,
+even in the face of an uncertain
+global recovery.
+
+
+
+fourth, the global economic
+situation has improved in the recent
+period. the uncertainty with regard
+to global recovery, which was
+prevailing at the time of the second
+quarter review, has reduced with
+the us economy showing signs of
+stabilising. although uncertainty
+continues in the euro area, there
+is an overall improvement in the
+global growth prospects.
+
+44.
+to sum up, the current growthinflation dynamics in the last few weeks
+suggest that the balance of risk has tilted
+towards intensification of inflation. in
+this scenario, the stance of the monetary
+policy is intended to :
+
+
+contain the spill-over of high food
+and fuel inflation into generalised
+inflation and anchor inflationary
+expectations, while being prepared
+to respond to any further build-up
+of inflationary pressures.
+
+
+
+maintain an interest rate regime
+consistent with price, output and
+financial stability.
+
+
+
+manage liquidity to ensure that it
+remains broadly in balance, with
+neither a surplus diluting monetary
+transmission nor a deficit choking
+off fund flows.
+
+45.
+it is important to emphasise
+that the role of monetary policy in
+the current inflationary situation is
+confi ned to containment and prevention
+of food and energy prices from spilling
+over into generalised inflation and
+anchoring inflation expectations. while
+energy prices are driven by global
+developments, the food price scenario
+is primarily a reflection of persistent
+structural constraints in the domestic
+agricultural sector. while these have
+been known and debated upon for a
+long time, the recent price dynamics
+highlight the need for rapid action
+to increase the output of a number
+of products, the demand for which is
+being driven by changing consumption
+patterns reflecting increasing incomes.
+
+unless meaningful output enhancing
+measures are taken, the risks of food
+inflation becoming entrenched loom
+large and threaten both the sustainability
+of the current growth momentum and
+the realisation of its benefits by a large
+number of households.
+46.
+another challenge to effective
+management of inflation by monetary
+policy arises from the persistence
+of a large fiscal deficit. while the
+government may succeed in raising
+receipts, both from high tax buoyancy
+and one-off sources, the real measure
+of fiscal consolidation lies in improving
+the quality of expenditure. if
+the
+government is able to commit more
+resources to capital expenditure, it will
+help deal with some of the bottlenecks
+that
+contribute
+to
+supply-side
+inflationary pressures. with reference
+to revenue expenditure, while large and
+diffused subsidies may contribute in
+the short term to keeping supply-side
+inflationary pressures in check, they
+may more than offset this benefit by
+adding to aggregate demand.
+
+iv. policy measures
+monetary measures
+
+at 6.0 per cent.
+
+47.
+on the basis of the current
+assessment and in line with the policy
+stance as outlined in section iii, the
+following monetary policy measures
+are announced.
+
+repo rate
+
+bank rate
+48.
+
+the bank rate has been retained
+12
+
+49.
+
+
+it has been decided to:
+increase the repo rate under the
+liquidity adjustment facility (laf)
+by 25 basis points from 6.25 per
+cent to 6.5 per cent with immediate
+effect.
+
+reverse repo rate
+
+expected outcomes
+
+50.
+
+54.
+
+
+
+it has been decided to:
+increase the reverse repo rate under
+the laf by 25 basis points from
+5.25 per cent to 5.50 per cent with
+immediate effect.
+
+cash reserve ratio
+51.
+the cash reserve ratio (crr)
+of scheduled banks has been retained
+at 6.0 per cent of their net demand and
+time liabilities (ndtl).
+liquidity management measures
+52.
+on the basis of an assessment
+of the current liquidity situation, it has
+been decided to extend the following
+liquidity management measures:
+i)
+
+the additional liquidity support to
+scheduled commercial banks under
+the laf to the extent of up to one
+per cent of their net demand and
+time liabilities (ndtl), currently
+set to expire on january 28, 2011, is
+now extended up to april 8, 2011.
+for any shortfall in maintenance of
+the slr arising out of availment of
+this facility, banks may seek waiver
+of penal interest purely as an ad hoc
+measure.
+
+ii) the second laf (slaf) will be
+conducted on a daily basis up to
+april 8, 2011.
+53.
+the
+reserve
+bank
+will
+constantly monitor the credit growth
+and, if necessary, will engage with banks
+which show an abnormal incremental
+credit-deposit ratio.
+13
+
+these actions are expected to:
+
+(i) contain the spill-over from rise in
+food and fuel prices to generalised
+inflation.
+(ii) rein
+in
+rising
+inflationary
+expectations, which may be
+aggravated by the structural and
+transitory nature of food price
+increases.
+(iii) be moderate enough not to disrupt
+growth.
+(iv) continue to provide comfort to
+banks in their liquidity management
+operations.
+guidance
+55.
+current growth and inflation
+trends warrant persistence with the antiinflationary monetary stance. looking
+beyond 2010-11, the reserve bank expects
+domestic growth momentum to stabilise,
+though the gdp growth rate may decline
+somewhat as agriculture reverts to its trend
+(assuming a normal monsoon). inflation is
+likely to resume its moderating trend in
+the first quarter of 2011-12, but several
+upside risks are already visible in the
+global environment and more may surface
+domestically. the monetary stance will be
+determined by how these factors impact
+the overall inflationary scenario. for the
+fiscal consolidation process to be credible
+and effective, it is important that apart from
+augmenting revenue, the composition and
+quality of expenditure improves. any
+slippage in the fiscal consolidation process
+at this stage may render the process of
+inflation management even harder.
+56.
+the frictional liquidity shortage
+is expected to ease as government
+balances adjust to the expenditure
+
+schedule. however, banks need to focus
+on the underlying structural cause of
+liquidity tightness arising out of the gap
+between the credit and deposit growth
+rates.
+
+monetary policy 2011-12
+58.
+the monetary policy for 2011-12
+will be announced on tuesday, may 3,
+2011.
+
+mid-quarter review of monetary
+policy
+57.
+
+monetary policy for 2010-11 will be
+announced through a press release on
+march 17, 2011.
+
+the next mid-quarter review of
+
+mumbai
+january 25, 2011
+
+14
+
+

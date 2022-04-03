@@ -1,0 +1,304 @@
+प्रेस प्रकाशनी press release
+
+भारतीय �रज़वर् ब�क
+संचार �वभाग, क�द्र�य कायार्लय, एस.बी.एस.मागर्, मुंबई-400001
+
+_____________________________________________________________________________________________________________________
+
+department of communication, central office, s.b.s.marg, mumbai-400001
+फोन/phone: 022- 22610835 फैक्स/fax: 91 22 22660358
+
+reserve bank of india
+
+: www.rbi.org.in/hindi
+website : www.rbi.org.in
+इ-मेल email: helpdoc@rbi.org.in
+0
+
+वेबसाइट
+
+december 5, 2018
+fifth bi-monthly monetary policy statement, 2018-19
+resolution of the monetary policy committee (mpc)
+reserve bank of india
+on the basis of an assessment of the current and evolving macroeconomic situation at
+its meeting today, the monetary policy committee (mpc) decided to:
+• keep the policy repo rate under the liquidity adjustment facility (laf) unchanged at
+6.5 per cent.
+consequently, the reverse repo rate under the laf remains at 6.25 per cent, and the marginal
+standing facility (msf) rate and the bank rate at 6.75 per cent.
+the decision of the mpc is consistent with the stance of calibrated tightening of monetary
+policy in consonance with the objective of achieving the medium-term target for consumer
+price index (cpi) inflation of 4 per cent within a band of +/- 2 per cent, while supporting
+growth. the main considerations underlying the decision are set out in the statement below.
+assessment
+2.
+since the last mpc meeting in october 2018, global economic activity has shown
+increasing signs of weakness on rising trade tensions. among advanced economies (aes),
+economic activity appears to be slowing in the us in q4:2018, after a buoyant q3. the euro
+area growth lost pace in q3, impacted by weaker trade growth and new vehicle emission
+standards. the japanese economy contracted in q3 on subdued external and domestic
+demand.
+3.
+economic activity also decelerated in major emerging market economies (emes) in
+q3. in china, growth slowed down on weak domestic demand. the ongoing trade tensions
+and the possible cooling of the housing market pose major risks to growth in china. the
+russian economy lost some traction, pulled down largely by a weak agriculture harvest,
+though the growth was buttressed by strong performance of the energy sector. the brazilian
+economy seems to be recovering gradually from the economic disruption in the first half of
+the year. the south african economy expanded in q3, after contracting in the previous two
+quarters, driven by agriculture and manufacturing.
+4.
+crude oil prices have declined sharply, reflecting higher supplies and easing of geopolitical tensions. base metal prices have continued to decline on selling pressure following
+weak demand from major economies. gold price has risen underpinned by safe haven demand
+triggered by political uncertainty in some geographies, though a strong dollar may stem the
+
+2
+rise. the inflation scenario has remained broadly unchanged in the us and the euro area. in
+many key emes, however, inflation has risen, though the recent retreat in energy prices,
+tightening of policy stances by central banks and stabilising of currencies may have a salutary
+impact, going forward.
+5.
+global financial markets have been driven mainly by rising policy rates in the us,
+volatile crude oil prices and expectations of a slowdown compared with earlier projections.
+among aes, equity markets in the us witnessed a selloff on the weakening outlook for
+corporate earnings caused by rising borrowing costs, while the european stock markets
+declined on political uncertainties. the japanese stock market also shed gains on global cues
+and the gradual strengthening of the yen. em stock markets have corrected on shrinking
+global liquidity, weak economic data in some key emes, and lingering trade tensions. the
+10-year yield in the us, which surged on robust economic data at the beginning of october,
+softened subsequently on the unchanged fed stance. among other aes, bond yields in the
+euro area and japan softened on weak economic sentiment and idiosyncratic factors. in most
+emes, bond yields have softened in recent weeks on falling crude oil prices and steadying
+currencies. in currency markets, the us dollar, which was strengthening on a widening
+growth differential with its peers, eased in the second half of november. the euro has
+weakened on brexit and budget concerns in italy, while the yen appreciated on safe haven
+buying in november. eme currencies have been trading with an appreciating bias, supported
+by a sharp decline in crude oil prices and conservative domestic monetary policy stances.
+6.
+on the domestic front, gross domestic product (gdp) growth slowed down to 7.1 per
+cent year-on-year (y-o-y) in q2:2018-19, after four consecutive quarters of acceleration,
+weighed down by moderation in private consumption and a large drag from net exports.
+private consumption slowed down possibly on account of moderation in rural demand,
+subdued growth in kharif output, depressed prices of agricultural commodities and sluggish
+growth in rural wages. however, growth in government final consumption expenditure
+(gfce) strengthened, buoyed by higher spending by the central government. gross fixed
+capital formation (gfcf) expanded by double-digits for the third consecutive quarter, driven
+mainly by the public sector’s thrust on national highways and rural infrastructure, which was
+also reflected in robust growth in cement production and steel consumption. growth of
+imports accelerated at a much faster pace than that of exports, resulting in net exports pulling
+down aggregate demand.
+7.
+on the supply side, growth of gross value added (gva) at basic prices decelerated to
+6.9 per cent in q2, reflecting moderation in agricultural and industrial activities. slowdown in
+agricultural gva was largely the outcome of tepid growth in kharif production. within
+industry, growth in manufacturing decelerated due to lower profitability of manufacturing
+firms, pulled down largely by a rise in input costs, while that in mining and quarrying turned
+negative, caused by a contraction in output of crude oil and natural gas. growth in electricity,
+gas, water supply and other utility services strengthened. services sector growth remained
+unchanged at the previous quarter’s level. of its constituents, growth in construction activity
+decelerated sequentially, but it was much higher on a y-o-y basis. growth in public
+administration and defence services accelerated sharply.
+8.
+looking beyond q2, rabi sowing so far (up to end-november) has been 8.3 per cent
+lower as compared with the same period last year due mainly to lower soil moisture levels
+resulting from a deficient monsoon and a delayed kharif harvest across states. precipitation
+during the north-east monsoon as on november 28 was 49 per cent below the long period
+average. storage in major reservoirs, the main source of irrigation during the rabi season, was
+at 61 per cent of the full reservoir level as on november 29.
+
+3
+9.
+growth in the index of industrial production (iip) slowed down to 4.5 per cent in
+september 2018. capacity utilisation (cu), measured by the reserve bank’s order books,
+inventories and capacity utilisation survey (obicus), increased from 73.8 per cent in q1 to
+76.1 per cent in q2, which was higher than the long-term average of 74.9 per cent; seasonally
+adjusted cu also increased to 76.4 per cent. available high frequency indicators suggest that
+industrial activity has been improving in q3. the growth in core industries recovered in
+october on the back of double-digit expansion in coal, cement and electricity. the purchasing
+managers’ index (pmi) for manufacturing touched an eleven-month high of 54.0 in
+november, supported by an expansion in output, and domestic and export orders. according
+to the assessment of the reserve bank’s industrial outlook survey (ios), the overall business
+sentiment in q3 remained stable, with sustained optimism about production and exports.
+high frequency indicators of service sector activity showed a mixed picture in
+september-october. growth in tractors sales – an indicator of rural demand – turned negative
+in september. growth in two-wheeler sales, another indicator of rural demand, rebounded in
+october, supported by a base effect. growth in passenger vehicles sales – an indicator of
+urban demand – turned marginally positive in october, after three consecutive months of
+negative growth coincident with changes in mandatory long-term third-party insurance
+requirements and a sharp increase in fuel prices. commercial vehicle sales growth remained
+robust in september-october, despite some deceleration. railway freight traffic improved
+markedly in october to touch a five-year high growth. while domestic air passenger traffic
+sustained robust growth, international passenger traffic contracted. pmi for services registered
+a sharp uptick in november, driven by new business. the composite pmi output index
+touched a two-year high of 54.5 in november.
+10.
+
+11.
+retail inflation, measured by y-o-y change in cpi, declined from 3.7 per cent in
+september to 3.3 per cent in october. a large fall in food prices pushed food group into
+deflation and more than offset the increase in inflation in items excluding food and fuel.
+adjusting for the estimated impact of an increase in house rent allowance (hra) for central
+government employees, headline inflation was 3.1 per cent in october.
+12.
+within the food and beverages group, deflation in vegetables, pulses and sugar
+deepened in october. among other items, there was a broad-based softening across food
+items, especially cereals, milk, fruits and prepared meals. milk and milk products inflation
+softened caused by surplus supplies in the domestic market. fruits inflation moderated, while
+prepared meals registered a price decline for the first time in the cpi series. inflation,
+however, showed an uptick in meat and fish, and non-alcoholic beverages.
+13.
+inflation in the fuel and light group remained elevated, driven by liquefied petroleum
+gas prices in october, tracking international petroleum product prices. kerosene prices also
+edged up, reflecting the calibrated increase in their administered price. however, electricity
+prices softened in october. inflation in rural fuel items such as firewood and chips and dung
+cake also moderated.
+14.
+cpi inflation excluding food and fuel accelerated to 6.1 per cent in october; adjusted
+for the estimated hra impact, it was 5.9 per cent. transport and communication registered a
+marked increase, pulled up by higher petroleum product prices, transportation fares and prices
+of automobiles. a broad-based increase was also observed in health, household goods and
+services, and personal care and effects. however, inflation moderated significantly in clothing
+and footwear, as also housing on waning of the hra impact of central government
+employees.
+
+4
+15.
+inflation expectations of households, measured by the november 2018 round of the
+reserve bank’s survey, softened by 40 basis points for the three-month ahead horizon over
+the last round reflecting decline in food and petroleum product prices, while they remained
+unchanged for the twelve-month ahead horizon. producers’ assessment for input prices
+inflation eased marginally in q3 as reported by manufacturing firms polled by the reserve
+bank’s ios. domestic farm and industrial input costs remained high. rural wage growth
+remained muted in q2, while staff cost growth in the manufacturing sector remained elevated.
+16.
+the weighted average call rate (wacr) traded below the policy repo rate on 14 out of
+21 days in october, on all 18 days in november and both days in december (december 3 and
+4). the wacr traded below the repo rate on an average by 5 basis points in october, 9 basis
+points in november and 16 basis points in december. there was large currency expansion in
+october and especially during the festive season in november. currency in circulation,
+however, contracted in each of the last three weeks in november. liquidity needs arising
+from the growth in currency and the reserve bank’s forex operations were met through a
+mixture of tools based on an assessment of the evolving liquidity conditions. the reserve
+bank injected durable liquidity amounting to ₹360 billion in october and ₹500 billion in
+november through open market purchase operations, bringing total durable liquidity injection
+to ₹1.36 trillion for 2018-19. liquidity injected under the laf, on an average daily net basis,
+was ₹560 billion in october, ₹806 billion in november and ₹105 billion in december (up to
+december 4).
+17.
+india’s merchandise exports rebounded in october 2018, after moderating in the
+previous month, driven mainly by petroleum products, engineering goods, chemicals,
+electronics, readymade garments, and gems and jewellery. imports also grew at a faster pace
+in october relative to the previous month, contributed mainly by petroleum products and
+electronic goods. consequently, the trade deficit widened in october 2018 sequentially as also
+in comparison with the level a year ago. provisional data suggest a modest improvement in
+net exports of services in q2:2018-19, which augurs well for the current account balance. on
+the financing side, net fdi flows moderated in april-september 2018. portfolio flows turned
+positive in november on account of a sharp decline in oil prices, indications of a less hawkish
+stance by the us fed and a softer us dollar. however, during the year, there were net
+portfolio outflows of us$ 14.8 billion (up to november 30). non-resident deposits increased
+markedly in h1:2018-19 on a net basis over their level a year ago. india’s foreign exchange
+reserves were at us$ 393.7 billion on november 30, 2018.
+outlook
+18.
+in the fourth bi-monthly resolution of october 2018, cpi inflation was projected at 4.0
+per cent in q2:2018-19, 3.9-4.5 per cent in h2 and 4.8 per cent in q1:2019-20, with risks
+somewhat to the upside. excluding the hra impact, cpi inflation was projected at 3.7 per
+cent in q2:2018-19, 3.8-4.5 per cent in h2 and 4.8 per cent in q1:2019-20. the actual
+inflation outcome in q2 at 3.9 per cent was marginally lower than the projection of 4.0 per
+cent. however, the october inflation print at 3.3 per cent turned out to be unexpectedly low.
+19.
+there have been several important developments since the october policy which will
+have a bearing on the inflation outlook. first, despite a significant scaling down of inflation
+projections in the october policy primarily due to moderation in food inflation, subsequent
+readings have continued to surprise on the downside with the food group slipping into
+deflation. at a disaggregated level, deflation in pulses, vegetables and sugar widened, while
+cereals inflation moderated sequentially. the broad-based weakening of food prices imparts
+downward bias to the headline inflation trajectory, going forward. secondly, in contrast to the
+food group, there has been a broad-based increase in inflation in non-food groups. thirdly,
+international crude oil prices have declined sharply since the last policy; the price of indian
+
+5
+crude basket collapsed to below us$ 60 a barrel by end-november after touching us$ 85 a
+barrel in early october. however, selling prices, as reported by firms polled in the reserve
+bank’s latest ios, are expected to edge up further in q4 on the back of increased demand.
+fourthly, global financial markets have continued to be volatile with eme currencies showing
+a somewhat appreciating bias in the last one month. finally, the effect of the 7th central pay
+commission’s hra increase has continued to wane along expected lines. taking all these
+factors into consideration and assuming a normal monsoon in 2019, inflation is projected at
+2.7-3.2 per cent in h2:2018-19 and 3.8-4.2 per cent in h1:2019-20, with risks tilted to the
+upside (chart 1). the projected inflation path remains unchanged after adjusting for the hra
+impact of central government employees as this impact dissipates completely from december
+2018 onwards. although recent food inflation prints have surprised on the downside and
+prices of petroleum products have softened considerably, it is important to monitor their
+evolution closely and allow heightened short-term uncertainties to be resolved by incoming
+data.
+turning to growth projections, although q2 growth was lower than that projected in
+the october policy, gdp growth in h1 has been broadly along the line in the april policy
+when for the year as a whole gdp growth was projected at 7.4 per cent. going forward,
+lower rabi sowing may adversely affect agriculture and hence rural demand. financial market
+volatility, slowing global demand and rising trade tensions pose negative risk to exports.
+however, on the positive side, the decline in crude oil prices is expected to boost india’s
+growth prospects by improving corporate earnings and raising private consumption through
+higher disposable incomes. increased capacity utilisation in the manufacturing sector also
+portends well for new capacity additions. there has been significant acceleration in
+investment activity and high frequency indicators suggest that it is likely to be sustained.
+credit offtake from the banking sector has continued to strengthen even as global financial
+conditions have tightened. fdi flows could also increase with the improving prospects of the
+external sector. the demand outlook as reported by firms polled in the reserve bank’s ios
+has improved in q4. based on an overall assessment, gdp growth for 2018-19 has been
+projected at 7.4 per cent (7.2-7.3 per cent in h2) as in the october policy, and for h1:2019-20
+at 7.5 per cent, with risks somewhat to the downside (chart 2).
+20.
+
+6
+
+21.
+even as inflation projections have been revised downwards significantly and some of
+the risks pointed out in the last resolution have been mitigated, especially of crude oil prices,
+several uncertainties still cloud the inflation outlook. first, inflation projections incorporate
+benign food prices based on the realised outcomes of food inflation in recent months. the
+prices of several food items are at unusually low levels and there is a risk of sudden reversal,
+especially of volatile perishable items. secondly, available data suggest that the effect of
+revision in minimum support prices (msps) announced in july on prices has been subdued so
+far. however, uncertainty continues about the exact impact of msp on inflation, going
+forward. thirdly, the medium-term outlook for crude oil prices is still uncertain due to global
+demand conditions, geo-political tensions and decision of opec which could impinge on
+supplies. fourthly, global financial markets continue to be volatile. fifthly, though
+households’ near-term inflation expectations have moderated in the latest round of the
+reserve bank’s survey, one-year ahead expectations remain elevated and unchanged. sixthly,
+fiscal slippages, if any, at the centre/state levels, will influence the inflation outlook, heighten
+market volatility and crowd out private investment. finally, the staggered impact of hra
+revision by state governments may push up headline inflation. while the mpc will look
+through the statistical impact of hra revisions, it will be watchful of any second-round
+effects on inflation.
+22.
+the mpc noted that the benign outlook for headline inflation is driven mainly by the
+unexpected softening of food inflation and collapse in oil prices in a relatively short period of
+time. excluding food items, inflation has remained sticky and elevated, and the output gap
+remains virtually closed. the mpc also noted that even as escalating trade tensions,
+tightening of global financial conditions and slowing down of global demand pose some
+downside risks to the domestic economy, the decline in oil prices in recent weeks, if
+sustained, will provide tailwinds. the acceleration in investment activity also bodes well for
+the medium-term growth potential of the economy. the time is apposite to further strengthen
+domestic macroeconomic fundamentals. in this context, fiscal discipline is critical to create
+space for and crowd in private investment activity.
+against this backdrop, the mpc decided to keep the policy repo rate on hold and
+maintain the stance of calibrated tightening. while the decision on keeping the policy rate
+unchanged was unanimous, dr. ravindra h. dholakia voted to change the stance to neutral.
+the mpc reiterates its commitment to achieving the medium-term target for headline
+inflation of 4 per cent on a durable basis. the minutes of the mpc’s meeting will be
+published by december 19, 2018.
+23.
+
+24.
+
+the next meeting of the mpc is scheduled from february 5 to 7, 2019.
+
+press release: 2018-2019/1299
+
+jose j. kattoor
+
+chief general manager
+
+

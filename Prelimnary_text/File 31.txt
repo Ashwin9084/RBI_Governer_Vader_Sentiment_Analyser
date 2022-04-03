@@ -1,0 +1,5296 @@
+reserve bank of india
+
+second quarter review of
+monetary policy 2009 -10
+(including review of developmental and regulatory policies)
+
+dr. d. subbarao
+governor
+
+october 27, 2009
+mumbai
+
+contents
+page no.
+
+part a: monetary policy
+i. macroeconomic and monetary developments ........................................ 2
+ii. stance of monetary policy ...................................................................... 22
+iii. monetary measures ................................................................................. 29
+
+part b: developmental and regulatory policies
+i. financial stability ................................................................................... 31
+ii. interest rate policy ................................................................................. 32
+iii. financial markets .................................................................................... 32
+iv. credit delivery mechanism and other banking services ..................... 36
+v. financial inclusion .................................................................................. 40
+vi. regulatory measures for commercial banks ........................................ 43
+vii. institutional developments ..................................................................... 47
+
+acronyms
+adrs
+afcs
+afs
+alm
+arr
+asp
+atm
+bc
+bcbs
+be
+bei
+bpl
+bplrs
+bse
+care
+cblo
+cbs
+ccf
+ccil
+cds
+cds
+cgftmse
+ci
+cis
+cp
+cpi
+cpi-iw
+cpi-unme
+crar
+crisil
+cso
+cts
+dcc
+
+-
+
+american depository receipts
+asset finance companies
+available for sale
+asset liability management
+automated regulatory reporting
+application service provider
+automated teller machine
+business correspondent
+basel committee on banking supervision
+budget estimates
+business expectation index
+below poverty line
+benchmark prime lending rates
+the stock exchange, mumbai
+credit analysis and research limited
+collateralised borrowing and lending obligation
+core banking solution
+credit conversion factor
+clearing corporation of india limited
+certificates of deposit
+credit default swap
+credit guarantee fund trust for micro and small enterprises
+confidence interval
+commonwealth of independent states
+commercial paper
+consumer price index
+consumer price index for industrial workers
+consumer price index for urban non-manual employees
+credit to risk-weighted assets ratio
+credit rating information services of india limited
+central statistical organisation
+cheque truncation system
+district consultative committee
+i
+
+dga
+dicgc
+dtl
+dvp
+ebt
+ecais
+ecbs
+ecr
+emes
+exim bank
+fao
+fccbs
+fdi
+ficci
+fiis
+fsb
+fsu
+g-20
+gbp
+gdp
+gdrs
+gfsr
+gsdp
+hfcs
+hft
+hlccfm
+hsbc
+htm
+iba
+iccl
+ict
+idbi sasf
+idrbt
+iip
+
+-
+
+duration gap analysis
+deposit insurance and credit guarantee corporation
+demand and time liabilities
+delivery versus payment
+electronic benefit transfer
+external credit assessment institutions
+external commercial borrowings
+export credit refinance
+emerging market economies
+export-import bank of india
+food and agriculture organisation
+foreign currency convertible bonds
+foreign direct investment
+federation of indian chambers of commerce & industry
+foreign institutional investors
+financial stability board
+financial stability unit
+group of twenty
+great britain pound
+gross domestic product
+global depository receipts
+global financial stability report
+gross state domestic product
+housing finance companies
+held for trade
+high level coordination committee on financial markets
+hongkong and shanghai banking corporation
+held to maturity
+indian banks' association
+indian clearing corporation limited
+information and communication technology
+industrial development bank of india stressed asset
+stabilisation fund
+- institute for development and research in banking technology
+- index of industrial production
+ii
+
+imf
+inr
+iosco
+irfs
+it
+labs
+laf
+lic
+m3
+mfis
+mfs
+micr
+mis
+mou
+mses
+mss
+nabard
+nbfcs
+nbfcs-nd-si
+ncaer
+ncds
+nds
+ndtl
+necs
+neft
+nhb
+nimc
+npas
+nrega
+nsccl
+nse
+nsm
+oecd
+omo
+otc
+
+-
+
+international monetary fund
+indian rupee
+international organisation of securities commissions
+interest rate futures
+information technology
+local area banks
+liquidity adjustment facility
+life insurance corporation
+broad money
+micro-finance institutions
+mutual funds
+magnetic ink character recognition
+management information system
+memorandum of understanding
+micro and small enterprises
+market stabilisation scheme
+national bank for agriculture and rural development
+non-banking financial companies
+systemically important non-deposit taking nbfcs
+national council for applied economic research
+non-convertible debentures
+negotiated dealing system
+net demand and time liabilities
+national electronic clearing service
+national electronic funds transfer
+national housing bank
+national implementing and monitoring committee
+non-performing assets
+national rural employment guarantee act
+national securities clearing corporation limited
+national stock exchange
+note sorting machines
+organisation for economic co-operation and development
+open market operation
+over-the-counter
+iii
+
+ots
+pacs
+pco
+pos
+psb
+pslc
+q
+rbi
+re
+reer
+rm
+rrbs
+rtgs
+scbs
+sdls
+sdrs
+sebi
+shgs
+sidbi
+slbc
+slr
+smes
+spv
+strips
+
+-
+
+tac
+tga
+ucbs
+uk
+us
+weo
+wpi
+y-o-y
+
+-
+
+one-time settlement
+primary agricultural credit society
+public call office
+point-of-sale
+public sector bank
+priority sector lending certificate
+quarterly
+reserve bank of india
+revised estimates
+real effective exchange rate
+reserve money
+regional rural banks
+real time gross settlement
+scheduled commercial banks
+state development loans
+special drawing rights
+securities and exchange board of india
+self-help groups
+small industries development bank of india
+state level bankers' committee
+statutory liquidity ratio
+small and medium enterprises
+special purpose vehicle
+separate trading for registered interest and principal of
+securities
+technical advisory committee
+traditional gap analysis
+urban co-operative banks
+united kingdom
+united states of america
+world economic outlook
+wholesale price index
+year-on-year
+
+iv
+
+reserve bank of india
+second quarter review of monetary policy 2009-10
+by
+dr. d. subbarao
+governor
+the global economy has begun to
+recover from the deep recession set off by
+the financial crisis. this recovery is
+underpinned by output expansion in
+emerging market economies (emes),
+particularly those in asia. the pace and shape
+of recovery, however, remain uncertain.
+2.
+in fact, the global economic outlook
+presents a mixed picture. on the positive
+side, world output, as per the international
+monetary fund (imf) estimates, has
+expanded by 3 per cent in the second
+quarter (quarter-on-quarter, annualised),
+manufacturing activity has picked up, trade
+is recovering, financial market conditions are
+improving, and risk appetite is returning. a
+sharp recovery in equity markets has enabled
+banks to raise capital to repair their balance
+sheets. in the us, home prices appear to be
+stabilising. capital flows to emes have
+resumed. most importantly, the anxiety and
+nervousness that pervaded the financial
+markets during the height of the crisis are
+being replaced by a sense of calm.
+3.
+on the negative side, there are
+concerns that the recovery is fragile. the
+second quarter improvement is essentially
+the outcome of policy-induced stimulus.
+going forward, the impact of the stimulus
+will fade away and inventory rebuilding may
+lose momentum. in advanced economies,
+private consumption remains constrained by
+
+continuing job losses, sluggish income
+growth and dented confidence. even as
+output is recovering, unemployment is
+expected to increase to over 10 per cent in
+the us and the euro area. investment is also
+expected to remain weak due to ruptured
+balances sheets, excess capacity and
+financing constraints. bank collapses are
+continuing. world trade remains below its
+year ago level, notwithstanding recent
+quarter-on-quarter improvement.
+4.
+reflecting this mixed trend which
+has a small bias towards the positive, the
+imf projected, in its october 2009 world
+economic outlook (weo), that the rate of
+contraction of the world economy in 2009
+will be 1.1 per cent, an upward revision from
+its projection of a contraction of 1.4 per cent
+made in its july 2009 weo. however, the
+imf expects the ensuing global recovery to
+be slow. in its latest economic outlook
+(september 2009), the organisation for
+economic co-operation and development
+(oecd) projects the pace of activity to
+remain weak well into 2010 on account of
+numerous headwinds. on balance, while
+global economic prospects have improved
+since the first quarter review in july 2009,
+uncertainties remain about the pace and
+sustainability of economic recovery.
+5.
+the indian economy, which slowed
+down significantly during the second half
+
+7.
+this second quarter review of
+monetary policy for 2009-10 is thus set
+against the backdrop of incipient signs of
+recovery in the global economy and improving
+prospects for the domestic economy. the
+review is organised in two parts. part
+a covers monetary policy and is divided
+into three sections: section i provides an
+assessment of the macroeconomic and
+monetary developments; section ii defines
+the stance of monetary policy; and section
+iii sets out monetary measures. part b
+covers the developmental and regulatory
+policies and is organised into seven sections:
+financial stability (section i), interest rate
+policy (section ii), financial markets
+(section iii), credit delivery mechanism
+and other banking services (section iv),
+financial inclusion (section v), regulatory
+measures for commercial banks (section
+vi) and institutional developments (section
+vii). part a of this statement should be read
+and understood together with the detailed
+review in macroeconomic and monetary
+developments released yesterday.
+
+of 2008-09, largely due to the knock-on
+effect of the global financial crisis, has begun
+to stabilise. this is despite the continuing
+contraction in exports and the worst drought
+since 1972. performance of the industrial
+sector has improved markedly in recent
+months. both domestic and external
+financing conditions are on the upturn.
+capital inflows have revived. activity in
+the primary capital market has picked up
+and funding from non-bank domestic
+sources has eased. liquidity conditions
+have remained easy and interest rates have
+softened in the money and credit markets.
+6.
+at the same time, there are several
+negative indications. private consumption
+demand is yet to pick up. agricultural
+production is expected to decline due to
+lower kharif foodgrain production.
+services sector growth remains below
+trend. bank credit growth continues to be
+sluggish. there are also clear signs of rising
+inflation stemming largely from the supply
+side, particularly from food prices.
+
+part a. monetary policy
+i. macroeconomic and monetary developments
+global outlook
+real gdp
+
+the projection of global growth for 2010 to
+3.1 per cent against the earlier projection
+of 2.5 per cent in its july update (table 1).
+
+8.
+global economic performance
+improved during the second quarter of 2009
+prompting the imf to reduce the projected
+rate of economic contraction in 2009
+from 1.4 per cent made in july 2009 to 1.1
+per cent in its latest world economic
+outlook (weo) released in early october
+2009. the imf has also revised upwards
+
+9.
+in the us, the macroeconomic
+signals are mixed. real gdp in q2 of 2009
+contracted by 0.7 per cent, a significant
+improvement over the contraction of 6.4
+per cent in q1 of 2009, largely due to
+positive contribution from government
+spending. home prices have shown signs
+of stabilisation. on the negative side, the
+2
+
+table 1: projected global gdp
+growth (%)
+country/region
+
+2009
+
+2010
+
+us
+
+(-) 2.7
+
+1.5
+
+uk
+
+(-) 4.4
+
+0.9
+
+euro area
+
+(-) 4.2
+
+0.3
+
+japan
+
+(-) 5.4
+
+1.7
+
+china
+
+8.5
+
+9.0
+
+leading indicators for august 2009 show
+signs of recovery in most of the economies,
+especially in france and italy.
+inflation
+11.
+global commodity prices have
+rebounded ahead of global recovery. the
+food and agriculture organisation (fao)
+food price index rose in august-september
+2009. along with volatile food prices,
+industrial metal and gold prices have firmed
+up in q3 of 2009. gold prices have reached
+record levels on account of significant
+weakening of the us dollar during the
+quarter. crude oil prices have been steady
+with a firm undertone during the quarter
+reflecting the balance of expectations of an
+economic recovery and higher oil
+consumption in the future against weak
+current demand and high inventories.
+despite these trends, consumer price
+inflation in most developed and emerging
+market economies (other than india) remains
+negative/low due mostly to large output
+gaps. the weo of october 2009 projects
+consumer price inflation in advanced
+countries to remain low, rising from 0.1
+per cent in 2009 to 1.1 per cent in 2010.
+consumer price inflation in emerging and
+developing economies is projected to decline
+from 5.5 per cent in 2009 to 4.9 per cent in
+2010. in sharp contrast, in india, cpi
+inflation has not only remained elevated, but
+has indeed hardened in recent months
+reflecting higher food prices (table 2).
+
+india
+5.4
+6.4
+-------------------------------------------------emerging and
+developing
+economies
+1.7
+5.1
+-------------------------------------------------world
+(-) 1.1
+3.1
+source: world economic outlook, imf, october
+2009.
+
+unemployment rate rose to 9.8 per cent in
+september 2009 and is expected to rise
+further. consumer sentiment dipped on
+apprehensions about the economy, job and
+income prospects.
+10.
+economic indicators in the euro
+area continue to be weak. real gdp
+contracted by 4.9 per cent in q1 and by 4.8
+per cent in q2 of 2009. unemployment rose
+to 9.6 per cent in august 2009 and retail
+sales dipped further. although consumer
+and business confidence improved in
+q3 of 2009, these are yet to move into
+positive territory. real gdp in the uk
+contracted by 5.5 per cent in q2 of 2009
+and by 5.2 per cent in q3 of 2009.
+unemployment in the uk rose to 7.9
+per cent in july-august 2009. real gdp in
+japan expanded by 2.3 per cent in q2 2009
+after negative growth for almost a year.
+though output is stabilising and consumer
+and business confidence are improving,
+industrial outlook remains uncertain with
+big companies planning to cut capital
+outlays. overall, oecd’s composite
+
+financial markets
+12.
+the wide array of supportive central
+bank actions and pronouncements have
+aided in the easing of money markets and
+the narrowing of corporate bond spreads.
+3
+
+table 2: cross-country cpi inflation:
+year-on-year (%)
+country
+
+september
+2008
+
+march
+2009
+
+september
+2009
+
+us
+uk
+euro area
+australia
+japan
+china
+india*
+korea
+brazil
+russia
+
+4.9
+5.2
+3.6
+5.0
+2.1
+4.6
+9.8
+5.1
+6.3
+15.0
+
+(-) 0.4
+2.9
+0.6
+2.5
+(-) 0.3
+(-) 1.2
+8.0
+3.9
+5.6
+14.0
+
+(-) 1.3
+1.1
+(-) 0.3
+1.5 @
+(-) 2.2 #
+(-) 0.8 #
+11.7 #
+2.2
+4.3
+10.7
+
+support to alleviate stress in the financial
+markets following the crisis. in the current
+cycle, the reserve bank of australia has
+been the first g-20 central bank to raise its
+policy rate (cash rate) by 25 basis points
+to 3.25 per cent on october 6 on the back
+of diminished risk of serious economic
+contraction. the reserve bank of new
+zealand has withdrawn some temporary
+emergency liquidity facilities put in place
+during the financial crisis of 2008.
+emerging market economies
+14.
+in its october weo, the imf
+projects the real gdp growth of emerging
+and developing economies to decelerate to
+1.7 per cent in 2009 (1.5 per cent projected
+in the july update) from 6.0 per cent in 2008,
+before rebounding to 5.1 per cent in 2010.
+the imf does not expect the rebound to be
+evenly spread across the emes; there will
+be a divergence between asian and
+non-asian emes as the rebound would be
+driven by china, india and other emerging
+asian economies. emerging markets that
+had little direct exposure to the financial
+meltdown have displayed significant
+economic momentum in q3 of 2009, albeit
+slower than the rapid pace of q2. china’s
+export volumes have been growing,
+including recently to the us and europe,
+leading to improvement in china’s trade
+surplus. growth in industrial production and
+fixed asset investment in china is estimated
+to have improved and its longer-term
+prospects have remained strong. in contrast,
+latin america, eastern europe and
+commonwealth of independent states (cis)
+are all expected to face contraction in 2009
+and sluggish growth in 2010, while the
+middle east is projected to grow moderately.
+
+* cpi for industrial workers.
+@ june 2009.
+# august 2009.
+source: official websites of respective countries and
+bloomberg.
+
+share prices have rebounded in all major
+markets. most major banks in the us and
+europe have reported profits recently after
+the large losses incurred during 2008. on
+the negative side, credit offtake has fallen in
+2009 in a number of advanced economies
+as corporates reduced debt levels in an
+environment of tighter credit standards by
+lenders. there are concerns, as highlighted
+by the global financial stability report
+(gfsr) of the imf, that the transfer of
+financial risks to fiscal authorities could
+crowd out the private sector and undermine
+the sustainability of public sector finances.
+monetary policy measures
+13.
+central banks in all the major
+developed economies, barring australia,
+continued with easy monetary policy and
+have held policy rates steady in recent
+months. they have also continued with
+measures to provide liquidity and other
+4
+
+it was 17.0 per cent. however, experience
+shows that a deficient rainfall can have a
+disproportionate impact on overall
+economic prospects and on the sense of
+well-being. poor output will push up prices
+and depress rural labour incomes. given the
+inter-sectoral supply-demand linkages, the
+knock-on impact on the industrial and
+services sectors can also be significant. the
+large stock of foodgrains of 44.3 million
+tonnes with public agencies, improved
+supply management, and the social safety
+net programmes could mitigate the adverse
+effects to an extent.
+
+domestic outlook
+15.
+the indian economy posted a
+growth of 6.1 per cent for q1 of 2009-10.
+this is higher than the expansion of 5.8
+per cent in q4 of 2008-09, but lower than
+the expansion of 7.8 per cent in the
+corresponding first quarter of 2008-09. the
+year-on-year (y-o-y) deceleration in growth
+was broad-based covering all the three
+major sectors, viz., agriculture, industry and
+services (table 3).
+agriculture
+16.
+the south-west monsoon rainfall
+this year (june 1- september 30) was 23
+per cent lower than the long-period average,
+the weakest since 1972. twenty three of the
+36 meteorological sub-divisions recorded
+deficient rainfall. the entire central and
+northern india received deficient rainfall.
+the reserve bank’s production-weighted
+rainfall index for 2009 was 73, significantly
+lower than the index number 104 for 2008.
+according to the latest information of
+progress of kharif sowing, the acreage
+under paddy declined by 15.7 per cent and
+that under oilseeds by 5.2 per cent.
+
+industry
+18.
+the industrial sector has shown
+clear signs of revival in recent months. the
+index of industrial production (iip)
+increased at a higher rate of 5.8 per cent
+during april-august 2009 as compared
+with a growth of 4.8 per cent in the
+corresponding period of the previous year
+and 0.6 per cent growth in the second half
+of 2008-09. while the basic, intermediate
+and consumer durable goods sectors
+witnessed higher growth, the performance
+of the capital goods and consumer
+non-durable sectors was relatively modest.
+the core infrastructure sector, with a
+
+17.
+the share of agriculture in gdp has
+been declining over time, and as of 2008-09,
+
+table 3: real gdp growth (%)
+financial year
+sector
+
+2007-08
+
+quarterly growth rates (y-o-y)
+
+2008-09
+
+2008-09
+q1
+
+2009-10
+q4
+
+q1
+
+agriculture
+
+4.9
+
+1.6
+
+3.0
+
+2.7
+
+2.4
+
+industry
+
+7.4
+
+2.6
+
+5.1
+
+(-) 0.5
+
+4.2
+
+services
+
+10.8
+
+9.4
+
+10.0
+
+8.4
+
+7.7
+
+9.0
+
+6.7
+
+7.8
+
+5.8
+
+6.1
+
+overall gdp
+
+source: central statistical organisation (cso).
+
+5
+
+railway revenue-earning freight traffic
+recorded good growth.
+
+weight of 26.7 per cent in the iip, posted a
+growth of 4.8 per cent during april-august
+2009, up from 3.3 per cent in the
+corresponding period of the previous year.
+the leading indicators of industrial
+production, both quantitative and
+qualitative, also point to revival of
+industrial activity in the months ahead.
+
+demand components of gdp
+20.
+continuing the trend witnessed
+since q2 of 2008-09, the two major
+components of demand, viz., private final
+consumption expenditure and gross fixed
+capital formation (with a combined weight
+of around 88 per cent) decelerated further in
+q1 of 2009-10. government consumption,
+which had increased sharply in q3 and q4
+of 2008-09 due to the fiscal stimulus
+measures and the sixth pay commission
+payouts, also decelerated in q1 of 2009-10.
+while the direct impact of fiscal stimulus is
+waning, its indirect impact on private
+consumption and investment will persist for
+some more time. external demand
+continues to remain weak, whereas net
+exports turned positive in q1 of 2009-10
+because of a sharper decline in imports
+than in exports as compared with q1 of
+2008-09 (table 4).
+
+services
+19.
+the performance of the services
+sector during april-july 2009 continued to
+follow the pattern witnessed in q4 of
+2008-09. trade-related services such as
+cargo handled at major sea and airports
+continued to show deceleration/negative
+growth reflecting contraction of trade. the
+number of passengers handled at
+international terminals increased, albeit
+marginally, while the number of passengers
+handled at domestic terminals declined.
+other domestic activity related services
+such as communication and construction
+have begun to show signs of upturn. the
+
+table 4: demand components of gdp
+financial year
+
+item
+
+2007-08
+
+2008-09
+
+q1
+
+q4
+2008-09
+
+q1
+2009-10
+
+year-on-year growth rate (%)
+private final consumption expenditure
+
+8.5
+
+2.9
+
+4.5
+
+2.7
+
+1.6
+
+government final consumption expenditure
+
+7.4
+
+20.2
+
+(-) 0.2
+
+21.5
+
+10.2
+
+12.9
+
+8.2
+
+9.2
+
+6.4
+
+4.2
+
+(-) 36.7
+
+(-) 41.2
+
+(-) 75.9
+
+(-) 30.8
+
+231.8
+
+58.0
+
+51.4
+
+55.6
+
+gross fixed capital formation
+net exports
+
+share in gdp (%)
+private final consumption expenditure
+government final consumption expenditure
+gross fixed capital formation
+net exports
+
+57.2
+
+55.5
+
+9.8
+
+11.1
+
+9.6
+
+13.4
+
+9.9
+
+31.6
+
+32.2
+
+32.2
+
+31.6
+
+31.6
+
+(-) 4.3
+
+(-) 5.8
+
+(-) 1.3
+
+(-) 2.9
+
+1.6
+
+source: central statistical organisation (cso).
+
+6
+
+the latest round of the survey conducted
+during july-august 2009 showed a
+turnaround in the business sentiment. the
+assessment for q2 of 2009-10 showed
+continuing upturn with a 7.8 per cent
+increase in the business expectations index
+(bei) over the previous quarter.
+considerable improvement was noted in key
+indicators such as production, order books
+and capacity utilisation. the financing
+conditions were also reported to be better.
+
+corporate performance
+21.
+sales of the private non-financial
+corporate sector declined marginally
+(0.9 per cent) in q1 of 2009-10 on a
+year-on-year basis as also in comparison
+with q4 of 2008-09 (1.7 per cent). in the
+wake of the downturn, firms responded
+quickly to the changed cyclical conditions
+by reducing their inventories around q2
+of 2008-09. now, with the onset of recovery
+in q1 of 2009-10, the upturn is characterised
+by an increase in the stocks to sales ratio.
+year-on-year growth in net profits also
+witnessed a turnaround in q1 of 2009-10
+after registering negative growth in the
+preceding three quarters (table 5).
+
+23.
+the outlook of manufacturing
+companies for q3 of 2009-10 maintains its
+upward trend, with the bei moving up to
+116.4 from 109.9 in the previous quarter.
+the respondents expect production and
+capacity utilisation to improve further,
+working capital finance requirement to
+grow, the cost of raw materials to rise and
+pricing power to return to them. on the back
+of improved demand conditions, the
+manufacturing companies also expect
+further improvement in their employment
+situation. the findings of the reserve
+
+business confidence
+22.
+the reserve bank has been
+conducting a quarterly industrial outlook
+survey of manufacturing companies since
+1998. the survey tracks business
+expectations for the current quarter and
+business outlook for the following quarter.
+
+table 5: performance of the private corporate sector
+item
+
+full year
+2007-08
+
+q1
+
+2008-09
+
+q4
+2008-09
+
+q1
+2009-10
+
+growth rate (%)
+sales
+
+18.6
+
+17.2
+
+29.3
+
+1.9
+
+(-) 0.9
+
+expenditure
+
+19.4
+
+19.5
+
+33.5
+
+(-) 0.5
+
+(-) 4.4
+
+consumption of raw materials
+
+18.4
+
+18.5
+
+36.1
+
+(-) 7.4
+
+(-) 13.4
+
+staff cost
+
+22.4
+
+19.5
+
+23.2
+
+11.0
+
+8.2
+
+gross profits
+
+24.9
+
+(-) 4.2
+
+11.9
+
+(-) 8.8
+
+5.8
+
+net profits
+
+26.0
+
+(-) 18.4
+
+6.9
+
+(-) 19.9
+
+5.5
+
+ratio (%)
+interest to sales
+gross profit to sales
+net profit to sales
+
+2.5
+
+3.1
+
+2.4
+
+3.2
+
+2.8
+
+14.9
+
+13.3
+
+14.5
+
+13.7
+
+15.7
+
+9.8
+
+8.1
+
+9.7
+
+8.1
+
+10.2
+
+7
+
+increases in prices of wheat (3.5 per cent)
+and rice (5.9 per cent) were relatively low
+as supply side pressures were mitigated by
+the comfortable levels of foodgrain stocks
+with public agencies which stood at 44.3
+million tonnes as on october 1, 2009 as
+against the minimum stock norm of 16.2
+million tonnes. however, large increases
+were recorded in prices of vegetables (59.3
+per cent), tea (30.7 per cent), sugar,
+khandsari and gur (28.7 per cent), egg,
+meat and fish (25.3 per cent), pulses (19.2
+per cent), jowar (14.9 per cent), condiments
+and spices (14.2 per cent), milk (7.0
+per cent) and fruits (5.2 per cent).
+
+bank’s industrial outlook survey are
+broadly consistent with business confidence
+surveys conducted by other agencies such
+as ficci, ncaer, hsbc-markit and dun
+and bradstreet.
+inflation
+24.
+the headline inflation, as
+measured by year-on-year variations in the
+wholesale price index (wpi), which
+remained negative during june-august
+2009 due to the base effect, returned to
+positive territory in september 2009. wpi
+inflation was 1.21 per cent on october 10,
+2009 as compared with 11.30 per cent a
+year ago, and 0.84 per cent at end-march
+2009. during the current financial year
+(up to october 10, 2009), wpi has
+increased by 5.95 per cent reflecting
+higher food price inflation aggravated by
+deficient monsoon.
+
+26.
+the current inflationary pressures,
+as wpi moves from negative to positive
+territory, are quite different from the
+inflationary pressures witnessed in apriloctober 2008. although both inflation
+episodes are driven by supply side
+pressures, the inflation in 2008 was
+triggered largely by a sharp increase in the
+prices of basic metals and mineral oils. in
+contrast, during the current episode, price
+pressures are emanating from domestic
+sources reflecting increase in prices of food
+articles and food products (chart 1).
+
+25.
+the upside risk of deficient
+monsoon rainfall projected in the first
+quarter review of july 2009 has since
+materialised and prices of primary food
+items and manufactured food products have
+risen due to short supply. during the current
+financial year (up to october 10, 2009), the
+
+8
+
+very different from the average wpi
+inflation of 4.99 per cent.
+
+27.
+at a disaggregated level, wpi
+inflation rates of food articles, essential
+commodities and manufactured food
+products are currently in double digits and
+are ruling much above their trend levels
+(table 6).
+
+29.
+the first occasion in the recent past
+when cpi inflation diverged significantly
+from wpi inflation was in mid-2004. the
+divergence between the two inflation rates
+persisted thereafter but remained within a
+relatively narrow range. however, the
+divergence has widened in the recent period
+with wpi inflation turning negative even
+as cpi inflation crossed double digits
+(chart 2). several factors account for this
+phenomenon. one, food prices, which have
+higher weightage (in the range of 46-69
+per cent) in the cpi measures than in wpi
+(26 per cent), have risen sharply in the
+recent period. two, miscellaneous group
+(representing services) in various cpis
+(weights in the range of 12-24 per cent)
+
+28.
+the recent contrarian movements
+in the wpi and cpi inflation rates have
+raised questions about the correlation
+between them. in the short-term, inflation
+rates based on wpi and cpis could be
+different due to differences in coverage
+and weights. however, these differences
+even out over time as wholesale price
+changes are followed by changes in the
+retail prices. for example, in the five year
+period 2003-08, the average inflation based
+on consumer price index for industrial
+workers (cpi-iw) of 4.83 per cent was not
+
+table 6: annual inflation rate (y-o-y) (%)
+wholesale price index (wpi)
+
+october 11, 2008
+
+wpi - all commodities
+wpi - primary articles
+wpi - food articles
+wpi - fuel group
+wpi - manufactured products
+wpi - manufactured food products
+wpi - essential commodities*
+wpi - excluding fuel
+wpi - excluding food articles and fuel
+
+11.30
+12.56
+10.17
+14.49
+9.53
+8.82
+8.66
+10.43
+10.50
+
+consumer price indices (cpis)
+
+september 2008
+
+cpi - industrial workers #
+cpi - urban non-manual employees #
+cpi - agricultural labourers
+cpi - rural labourers
+
+9.02
+8.54
+10.98
+10.98
+
+october 10, 2009
+1.21
+8.62
+13.34
+(-) 6.80
+1.26
+16.06
+17.82
+3.48
+0.96
+september 2009
+11.72
+12.88
+13.19
+12.97
+
+* essential commodities (weight in wpi: 17.8 per cent) include rice, wheat, jowar, bajra, pulses, potatoes,
+onions, milk, fish-inland, mutton, chillies (dry), tea, coking coal, kerosene, atta, sugar, gur, salt, hydrogenated
+vanaspati, rape & mustard oil, coconut oil, groundnut oil, long cloth/sheeting, dhoties, sarees & voiles,
+household laundry soap and safety matches.
+# pertains to august.
+
+9
+
+the sixth pay commission award.
+notwithstanding the current wide divergence
+between the two sets of price indices, cpi
+inflation tracks the essential commodities
+component of wpi inflation quite closely
+indicating that current cpi inflation is
+essentially driven by food prices (chart 3).
+
+have also exhibited significant price
+pressures; these services are not included
+in wpi. three, prices of metals, which do
+not form part of the cpi group, have
+declined sharply, thereby accentuating the
+divergence between cpi and wpi inflation
+rates. four, while a strong base effect
+pushed wpi inflation into negative territory
+during june-august 2009, there was no base
+effect in play for cpi inflation.
+
+asset price inflation
+31.
+asset prices have risen sharply in
+the recent period. stock prices have increased
+by more than 70 per cent during the current
+financial year to date. after showing some
+correction in the latter part of 2008 and early
+part of 2009, real estate prices have risen
+significantly in major cities. commodity
+
+30.
+inflation based on the cpi for
+industrial workers (iw) and urban
+non-manual employees (unme) has also
+witnessed a one-time step-up reflecting
+significant upward revision in imputed
+prices of rent-free houses emanating from
+
+10
+
+table 7: fiscal position of the central government
+% of gdp
+item
+
+2008-09
+(re)
+
+actual during april-august
+2009-10
+(be)
+
+2008-09
+(% of re)
+
+2009-10
+(% of be)
+
+1. gross tax revenue
+
+11.8
+
+10.9
+
+30.3
+
+26.2
+
+2. total expenditure
+
+16.9
+
+17.4
+
+31.0
+
+33.6
+
+6.8
+
+35.8
+
+45.5
+
+3. fiscal deficit
+
+6.2*
+
+4. revenue deficit
+
+4.6*
+
+4.8
+
+40.6
+
+54.9
+
+5. primary deficit
+
+2.6*
+
+3.0
+
+38.1
+
+62.8
+
+* as per provisional accounts released by the controller general of accounts.
+be – budget estimate
+re – revised estimate
+
+central government was 54.9 per cent of
+the budget estimate, while the fiscal deficit
+was 45.5 per cent (table 7).
+
+prices in india have also hardened in recent
+months. reflecting the firm trend in the
+global market, gold prices in india surged,
+especially after august 2009, and reached
+a level of rs.16,035 per 10 grams on
+october 23, 2009, up from rs. 15,105 at
+end-march 2009.
+fiscal scenario
+
+33.
+as per budget estimates, the
+combined net borrowing requirements of
+the central and state governments for
+2009-10 will be 34 per cent higher than
+the already elevated level of actual
+borrowings during 2008-09 (table 8).
+
+32.
+in the first five months of 2009-10
+(april-august), the revenue deficit of the
+
+34.
+a major challenge for the reserve
+bank, as indicated in the first quarter
+
+table 8: borrowings of the central and state governments
+(rs. crore)
+2007-08
+actual
+
+2008-09
+actual
+
+2009-10
+budget estimates
+
+gross market borrowings $
+
+1,88,215
+
+3,18,550
+
+4,91,044
+
+net market borrowings
+
+1,08,998
+
+2,98,536
+
+3,97,957
+
+56,224
+
+1,03,766
+
+1,40,000*
+
+1,65,222
+
+4,02,302
+
+5,37,957
+
+item
+central government
+
+state governments
+net market borrowings
+total net market borrowings
+
+$ pertain to dated securities and 364-day treasury bills.
+* estimated. the state governments have been allowed to borrow an additional 0.5 per cent of gross state
+domestic product (gsdp) as part of the fiscal stimulus package in 2008-09 and another 0.5 per cent of
+gsdp in the union budget 2009-10, raising their budgeted borrowings in 2009-10 to 4.0 per cent of
+gsdp.
+
+11
+
+for the first half of 2009-10, the actual
+purchases were rs.57,487 crore, the
+shortfall from projection being on account
+of easy liquidity conditions. feedback
+from the market participants indicates that
+the omo provided considerable comfort.
+
+review of july 2009, has been the
+management of the large government
+market borrowing programme in a
+n o n - d i s r u p t i v e m a n n e r. f o r t h i s
+purpose, the reserve bank initiated
+several measures, some of which were
+unconventional. first, the reserve bank
+front-loaded the borrowing programme for
+2009-10 as credit offtake by the private
+sector is usually low in the first half.
+second, mss securities of the order of
+rs.28,000 crore were de-sequestered.
+third, the reserve bank resorted to active
+liquidity management by way of
+unwinding of mss securities and purchase
+of securities through pre-announced
+calendar of open market operations
+(omo). the unwinding of mss securities
+through redemption was of the order of
+rs.42,000 crore during the first half of the
+year. besides, as against the omo
+announcement of an indicative amount of
+rs.80,000 crore through the auction route
+
+35.
+the central government has
+already completed net market borrowing
+of rs. 3,19,911 crore (as much as 80.4
+per cent of the budget estimate) through
+dated securities during 2009-10 (up to
+october 26, 2009) (table 9). in addition, the
+state governments also mobilised rs.58,683
+crore (net) through the market borrowing
+programme. because of the front-loading
+of the market borrowing programme, net
+issuances under the central government
+borrowing programme in the remaining
+period of 2009-10 will be rs.62,464 crore
+(table 9). given the current level of
+liquidity, it should be possible to complete
+this borrowing programme smoothly.
+
+table 9: central government borrowings during 2009-10: dated securities
+(rs. crore)
+full year
+(planned)
+
+first half
+(actual)
+
+4,18,000
+53,136
+3,64,864
+
+planned
+
+actual
+(up to oct.
+26, 2009)
+
+2,95,000
+
+1,23,000
+
+30,000
+
+93,000
+
+33,089
+
+19,500
+
+0
+
+19,500
+
+2,61,911
+
+1,03,500
+
+30,000
+
+73,500
+
+item
+
+gross market borrowings**
+less: repayment
+net market borrowings**
+less: omo purchases
+add: mss (net) **
+net supply of fresh securities
+
+57,487*
+
+second half
+balance
+
+57,487
+
+*
+
+0
+
+*
+
+(-) 53,036
+
+(-) 42,000
+
+(-) 11,036
+
+0
+
+(-) 11,036
+
+2,54,341
+
+1,62,424
+
+92,464
+
+30,000
+
+62,464
+
+* rs. 80,000 crore of omo purchases were planned for the first half of 2009-10. the reserve bank would
+conduct open market operations during the second half of the current fiscal year as and when considered
+necessary.
+** excluding the amount raised through mss de-sequestering.
+
+12
+
+monetary conditions
+
+36.
+despite the large government
+borrowing programme, the weighted
+average yield of dated securities issued
+under the central government borrowing
+programme in 2009-10 (up to october 26,
+2009) at 7.14 per cent was lower than the
+yield of 8.81 per cent averaged for the
+corresponding period of the previous year.
+however, the yield on the 10-year
+government securities rose from 7.01
+per cent at end-march to 7.47 per cent in
+early-september 2009 with increased
+volatility. subsequently, it stabilised around
+7.35 per cent by mid-october 2009. the
+reserve bank also varied the maturity
+profile of debt issuances tailored to market
+appetite. the weighted average maturity of
+securities issued during 2009-10 (up to
+october 26, 2009) was 11.0 years as
+compared with the average maturity of 15.5
+years in the corresponding period of the
+previous year. market participants indicate
+that had there not been active liquidity and
+maturity profile management by the
+reserve bank, the yield perhaps would
+have been significantly higher.
+
+37.
+growth in monetary aggregates
+during 2009-10 (up to october 9, 2009) has
+evolved broadly in line with the projections.
+the year-on-year growth in reserve money
+(rm) turned negative reflecting the 400
+basis points reduction in the cash reserve
+ratio (crr) of banks during october–
+january 2008-09, which reduced the banks’
+balances with the reserve bank. adjusted
+for the first round impact of changes in
+the crr, reserve money growth was
+positive, but lower than in the previous
+year (table 10).
+38.
+the money supply (m3) growth on
+a year-on-year basis at 18.9 per cent as on
+october 9, 2009 remained above the
+indicative projection of 18.0 per cent set
+out in the first quarter review of july
+2009. the main source of m3 expansion was
+bank credit to the government reflecting
+large market borrowings of the
+government. this is in contrast to what
+happened in 2008-09, when bank credit to
+the commercial sector and net foreign
+
+table 10: annual variations in monetary aggregates (%)
+2008-09
+(october 10, 2008)
+
+2009-10
+(october 9, 2009)
+
+reserve money
+
+28.8
+
+(-) 4.0
+
+reserve money (adjusted for crr changes)
+
+20.6
+
+14.3
+
+currency in circulation
+
+21.4
+
+15.4
+
+20.9
+
+18.9
+
+item
+
+money supply (m3)
+m3 (policy projection)
+
+16.5-17.0 *
+
+18.0 **
+
+money multiplier
+
+4.44
+
+5.5
+
+ratio of net foreign exchange assets of rbi to currency
+
+210.6
+
+175.9
+
+* projection as indicated in the annual policy statement 2008-09 (april 2008).
+** projection as indicated in the first quarter review of monetary policy 2009-10 (july 2009).
+
+13
+
+table 11: growth in major sources of money supply as of october (%)
+financial year
+item
+
+year-on-year
+
+2008-09
+2009-10
+2008-09
+2009-10
+(october 10) (october 9) (october 10) (october 9)
+
+money supply (m3)
+net bank credit to government
+
+7.7
+
+8.0
+
+20.9
+
+18.9
+
+10.1
+
+12.4
+
+16.8
+
+44.9
+
+bank credit to commercial sector
+
+9.8
+
+4.1
+
+27.4
+
+10.7
+
+net foreign exchange assets of the banking sector
+
+4.2
+
+(-) 1.4
+
+30.0
+
+(-) 1.2
+
+exchange assets of the banking sector drove
+the expansion of m3 (table 11).
+
+significantly, with the growth rate (y-o-y)
+falling to 11.2 per cent this year (as on
+october 9, 2009) from 29.4 per cent a year
+ago. on a financial year basis (up to
+october 9, 2009) too, the growth in
+scheduled commercial banks’ non-food
+credit at 4.3 per cent is significantly lower
+than the growth of 10.5 per cent in the
+corresponding period of last year.
+
+39.
+monetary management during
+2009-10 has been informed by the
+continued need to provide liquidity to
+mitigate the adverse impact of the global
+financial crisis and to complete the large
+market borrowing programme of the
+government in a non-disruptive manner.
+the phenomenon of substitution of foreign
+assets by domestic assets, which began in
+the second half of 2008-09, continued
+during the first two months of the current
+year. this trend, however, reversed after
+may 2009, when capital inflows revived on
+a net basis. liquidity conditions have
+remained comfortable since mid-november
+2008. during 2009-10 (up to october 23,
+2009), the average daily amount absorbed
+by the reserve bank under the laf
+window was of the order of rs.1,20,000
+crore, indicating a large surplus with the
+banking system, equivalent to 2.7 per cent
+of the net demand and time liabilities
+(ndtl).
+
+41.
+several factors have contributed to
+the slowdown in non-food bank credit. one,
+overall credit demand from the
+manufacturing sector slowed down
+reflecting a decline in commodity prices
+and drawdown of inventories. two,
+corporates were able to access non-bank
+domestic sources of funds and external
+financing – which had almost dried up
+during the crisis – at lower costs. three,
+unlike in the previous year, oil marketing
+companies reduced their borrowings from
+the banking sector as oil prices moderated.
+four, a significant amount of bank finance
+has gone to the corporate sector through
+banks’ investment in units of mutual funds.
+five, banks have also reined in credit to the
+retail sector due to the perceived increased
+risk on account of the general slowdown.
+this credit retrenchment was more
+pronounced in the case of foreign banks and
+
+financing conditions
+bank credit
+40.
+non-food credit by scheduled
+commercial banks (scbs) decelerated
+14
+
+table 12: bank group-wise deposits and credit
+growth (y-o-y) as of october (%)
+bank group
+
+2008-09
+(october 10, 2008)
+
+2009-10
+(october 9, 2009)
+deposits
+
+public sector banks
+foreign bank group
+private bank group
+scheduled commercial banks*
+
+23.6
+23.2
+14.1
+21.5
+
+24.4
+11.5
+6.1
+20.0
+credit
+
+public sector banks
+foreign bank group
+private bank group
+scheduled commercial banks*
+
+32.7
+32.9
+19.7
+29.5
+
+15.3
+(-) 15.9
+2.5
+10.8
+
+* including rrbs.
+
+per cent of total bank credit, the year-on-year
+growth in bank credit to industry as of
+august 2009 was lower than that in the
+previous year. while the credit flow to
+agriculture, real estate and nbfcs remained
+high, it was lower for housing (table 13).
+
+private banks. this is evident from bank
+group-wise analysis, which shows that
+credit from private banks slowed down
+sharply, while that from foreign banks
+actually contracted (table 12). thus, despite
+ample liquidity in the system, non-food
+bank credit expansion slowed down.
+
+total flow of financial resources to the
+commercial sector
+
+42.
+banks used the ample liquidity
+available with them to make large
+investments in government securities and
+also fairly sizeable investments (of the
+order of rs.92,000 crore during the current
+financial year so far) in units of mutual
+funds. consequently, commercial banks’
+investments in slr securities (including
+securities acquired under the laf)
+increased to 30.4 per cent of their ndtl as
+on october 9, 2009, up from 25.7 per cent a
+year ago. net of laf collateral securities,
+banks’ slr investments were at 27.6
+per cent of ndtl as on october 9, 2009.
+
+44.
+during the peak of the crisis (third
+quarter review of january, 2009), it was
+noted that the flow of resources to the
+commercial sector from both bank and
+non-bank sources had contracted. while
+bank credit continues to decelerate as
+indicated earlier, there has been a
+turnaround in financing from non-bank
+sources. the resource flow from non-bank
+sources increased in q2 of 2009-10 with
+increase in foreign direct investment,
+pick-up in primary issues, increased support
+from insurance companies, and large
+investment by mutual funds in non-gilt debt
+instruments. while the resource flow from
+
+43.
+as per data at a disaggregated level
+drawn from 49 banks accounting for 95
+15
+
+table 13: annual sectoral flow of credit
+as on august 29, 2008 (y-o-y)
+sector
+
+amount
+(rs.crore)
+
+% share
+in total
+
+as on august 28, 2009 (y-o-y)
+
+variations
+(%)
+
+amount
+(rs.crore)
+
+% share
+in total
+
+variations
+(%)
+
+agriculture
+industry
+of which:
+micro and small
+real estate
+housing
+nbfcs
+
+41,185
+2,30,229
+
+8.5
+47.5
+
+18.6
+32.9
+
+67,228
+1,66,121
+
+21.8
+53.8
+
+25.6
+17.9
+
+23,865
+20,580
+29,872
+26,443
+
+4.9
+4.2
+6.2
+5.5
+
+20.1
+43.1
+12.4
+51.8
+
+40,146
+28,353
+14,668
+23,837
+
+13.0
+9.2
+4.8
+7.7
+
+28.1
+41.5
+5.4
+30.8
+
+overall credit
+
+4,84,805
+
+100.0
+
+26.5
+
+3,08,718
+
+100.0
+
+13.3
+
+note: data are provisional and relate to select banks which cover 95 per cent of total non-food credit extended
+by all scheduled commercial banks.
+
+2008: the repo rate by 425 basis points and
+the reverse repo rate by 275 basis points.
+the crr was also reduced by 400 basis
+points of ndtl of banks (table 15).
+
+the non-bank sources was marginally higher
+in 2009-10 (up to october 9), the total flow
+of financial resources to the commercial
+sector declined in comparison with the
+corresponding period of 2008-09 due to
+slowdown in bank credit (table 14).
+
+46.
+taking cues from the reduction in
+the reserve bank’s policy rates and easy
+liquidity conditions, all public sector banks
+and most private sector banks have reduced
+their deposit and lending rates. the
+reduction in the term deposit rates between
+october 2008 and october 1, 2009 has been
+
+interest rates
+45.
+in response to the crisis, the
+reserve bank has effected a substantial
+reduction in policy rates beginning october
+
+table 14: total flow of financial resources to the commercial sector
+(rs.crore)
+full year
+
+financial year so far
+(up to october 9)
+
+item
+2007-08
+
+2008-09
+
+2008-09
+
+2009-10
+
+from banks
+
+4,44,807
+
+4,21,091
+
+2,40,092
+
+1,07,861
+
+from other sources*
+
+5,64,558
+
+4,68,567
+
+2,28,119
+
+2,30,130
+
+10,09,365
+
+8,89,658
+
+4,68,211
+
+3,37,991
+
+88,457
+
+(-) 32,168
+
+19,896
+
+1,01,956
+
+total resources
+memo item:
+mutual funds investment in
+debt (non-gilt) instruments
+
+* includes borrowings from financial institutions (including lic) and nbfcs as well as resources mobilised
+from the capital market and by way of ecbs, fccbs, adrs/gdrs, fdi and short-term credit as per the
+latest available data, adjusted for double counting.
+
+16
+
+table 15: monetary easing by the
+reserve bank since october 2008
+
+reduction in the range of bplrs was
+125-275 basis points by public sector
+banks, followed by 100-125 basis points
+by private banks and 125 basis points by
+five major foreign banks (table 16).
+
+as on (%)
+
+item
+
+reduction
+(basis
+early october
+points)
+october 2009
+2008
+
+repo rate
+
+9.00
+
+4.75
+
+425
+
+reverse repo rate
+
+6.00
+
+3.25
+
+275
+
+cash reserve ratio
+(% of ndtl)
+
+9.00
+
+5.00
+
+400
+
+financial markets
+money and g-sec markets
+47.
+as a result of the monetary easing
+and policy rate reductions beginning
+september 2008, interest rates have
+declined across the term structure in the
+domestic financial markets. the call money
+
+in the range of 175-350 basis points by
+public sector banks, 100-375 basis points
+by private sector banks and 125-300 basis
+points by five major foreign banks. the
+
+table 16: movements in deposit and lending rates
+(per cent)
+interest rates
+
+october
+2008
+(%)
+
+march
+2009
+(%)
+
+april 20,
+2009
+(%)
+
+october 15,
+2009
+(%)
+
+variation as on
+october 15, 2009
+(basis points)
+over
+october
+2008
+
+over
+april 20,
+2009
+
+term deposit rates
+public sector banks
+a) up to 1 year
+
+2.75-10.25
+
+2.75-8.25
+
+2.75-8.00
+
+1.00-6.75
+
+175-350
+
+125-175
+
+b) 1 year up to 3 years
+
+9.50-10.75
+
+8.00 -9.25
+
+7.00-8.75
+
+6.25-7.50
+
+325
+
+75-125
+
+c) over 3 years
+
+8.50-9.75
+
+7.50-9.00
+
+7.25-8.50
+
+6.50-8.00
+
+175-200
+
+50-75
+
+3.00-10.50
+
+3.00-8.75
+
+3.00-8.50
+
+2.00-7.00
+
+100-350
+
+100-150
+
+b) 1 year up to 3 years
+
+9.00-11.00
+
+7.50-10.25
+
+7.50-9.50
+
+5.25-8.00
+
+300-375
+
+150-225
+
+c) over 3 years
+
+8.25-11.00
+
+7.50-9.75
+
+7.50-9.25
+
+5.75-8.25
+
+250-275
+
+100-175
+
+a) up to 1 year
+
+3.50-9.50
+
+2.50-8.00
+
+2.50-8.00
+
+2.25-6.50
+
+125-300
+
+25-150
+
+b) 1 year up to 3 years
+
+3.60-10.00
+
+2.50-8.00
+
+2.50-8.00
+
+2.25-7.50
+
+135-250
+
+25-50
+
+c) over 3 years
+
+3.60-10.00
+
+2.50-8.00
+
+2.50-8.00
+
+2.25-7.50
+
+135-250
+
+25-50
+
+private sector banks
+a) up to 1 year
+
+five major foreign banks
+
+bplr
+public sector banks
+
+13.75-14.75 11.50-14.00
+
+11.50-13.50 11.00-13.50
+
+125-275
+
+50
+
+private sector banks
+
+13.75-17.75 12.75-16.75 12.50-16.75 12.50-16.75
+
+100-125
+
+0
+
+125
+
+25
+
+five major foreign banks 14.25-16.75 14.25-15.75 14.25-15.75 14.25-15.50
+
+17
+
+table 17: interest rates - monthly average (%)
+instrument/segment
+
+october
+2008
+
+march
+2009
+
+july
+2009
+
+october
+2009*
+
+call money
+
+9.90
+
+4.17
+
+3.21
+
+3.18
+
+cblo
+
+7.73
+
+3.60
+
+2.78
+
+2.51
+
+market repo
+
+8.40
+
+3.90
+
+2.81
+
+2.67
+
+certificates of deposit (cds)
+
+10.00
+
+7.53
+
+4.96
+
+3.60
+
+commercial papers (cps)
+
+14.17
+
+9.79
+
+4.71
+
+4.29
+
+91-day treasury bills
+
+8.13
+
+4.77
+
+3.22
+
+3.23
+
+10-year govt. security
+
+7.80
+
+6.57
+
+7.00
+
+7.33
+
+modal bplr of psbs
+
+14.00
+
+12.50
+
+12.00
+
+12.00
+
+* average up to october 23, 2009.
+
+rates have remained near or below the lower
+bound of the laf corridor since november
+2008. primary yields on treasury bills have
+also moderated (table 17).
+
+assurances by the reserve bank that it would
+manage liquidity conditions and market
+borrowing programme of the government
+in a non-disruptive manner (chart 4).
+
+48.
+the yield on government securities
+moved up with increased volatility during
+the early part of the year in the face of a
+large borrowing programme of the central
+and state governments. there was a
+sudden surge in bond yields in late august
+due to change in market sentiment with
+the yield on 10-year government security
+moving up by 42 basis points during
+august 13 - september 3, 2009. however,
+the yield stabilised subsequently on
+
+49.
+presently, banks are permitted to
+hold statutory liquidity ratio (slr)
+securities up to 25 per cent of their demand
+and time liabilities (dtl) in the ‘held to
+maturity’ (htm) category of investments.
+recently, there has been some debate on
+the need to raise this limit on the ground
+that such a relaxation will mitigate the
+upward pressure on g-sec yields, and
+consequently on the overall interest rate
+regime. the reserve bank considered the
+
+18
+
+benchmark prime lending rates (bplrs)
+does not fully and accurately reflect the
+changes in effective lending rates as nearly
+two-thirds of banks’ lending takes place at
+sub-bplr rates. as such, the true
+movements in lending rates of banks are
+better captured in the weighted average
+lending rates of banks. rough estimates
+show that the effective average lending rate
+for scheduled commercial banks declined
+from 12.3 per cent in march 2008 to 11.1
+per cent by march 2009 – the latest period
+for which data are available (chart 5).
+further, data from select banks, as a proxy
+measure for effective lending rates, suggest
+that weighted average yield on advances
+declined from 10.6 per cent in march 2009
+to 10.3 per cent in june 2009.
+
+advisability of raising the htm limit. it
+may be recalled that in 2004-05 banks
+were allowed to shift slr securities to the
+htm category as a one-time measure
+subject to the total slr securities held in
+the htm category capped at 25 per cent
+of their dtl. this limit was kept
+unchanged even as the slr was reduced
+from 25 per cent to 24 per cent in
+november 2008. as the htm ratio is
+already higher than the prescribed slr, it
+is not considered desirable to further raise
+the htm ratio.
+transmission mechanism
+50.
+the changes in the reserve bank’s
+policy rates were quickly transmitted to the
+money and debt markets. however,
+transmission to the credit market was slow
+due to several structural rigidities in the
+system, especially fixed interest rate deposit
+liabilities. as bank deposits, contracted in
+the past at high rates, have started to mature
+and banks have significantly reduced their
+term deposit rates, the transmission of lower
+policy rates to the credit market has
+improved. in this context, it should be
+recognised that the movement in the
+
+51.
+the analysis by the working
+group on bplr (chairman: shri deepak
+mohanty), which submitted its report on
+october 20, 2009, has demonstrated that
+though there was considerable divergence
+in weighted average lending rates in 2004
+among the various bank-groups, these have
+tended to converge in the recent period.
+the group has recommended the
+introduction of a base rate system.
+
+19
+
+foreign exchange market
+
+equity market
+
+52.
+the foreign exchange market
+remained orderly during 2009-10 (up to
+october 23, 2009) with the rupee exhibiting
+a two-way movement against major
+currencies. during the current financial
+year, the rupee appreciated by 9.7 per cent
+against the us dollar and 2.6 per cent
+against the japanese yen, whereas it
+depreciated by 5.7 per cent against the
+pound sterling and 3.2 per cent against the
+euro (chart 6). in terms of the real
+exchange rate, the six-currency tradebased real effective exchange rate (reer)
+(1993-94=100) moved up from 96.3 at endmarch 2009 to 104.2 by october 23, 2009.
+
+53.
+during the current financial year
+(up to october 23, 2009), the secondary
+segment of the domestic capital market has
+remained buoyant. the stock market staged
+a smart recovery reflecting large net fii
+inflows due to the optimistic outlook for
+the indian economy. fiis made net
+purchases of us$ 13.8 billion in 2009-10
+(up to october 21, 2009) in the indian
+equity market as against net sales of us$
+8.6 billion in the corresponding period of
+2008-09. the bse sensex rose from
+9,709 at end-march 2009 to 16,811 on
+october 23, 2009, showing an increase of
+73.1 per cent during 2009-10 to date.
+
+20
+
+table 18: india’s balance of payments
+(us$ billion)
+item
+
+exports
+imports
+trade balance
+invisibles, net
+current account balance
+net capital account
+overall balance #
+
+full year
+
+2008-09
+
+2009-10
+
+2007-08
+
+2008-09
+
+q1
+
+q4
+
+q1
+
+166.2
+257.8
+(-) 91.6
+74.6
+(-) 17.0
+108.0
+92.2
+
+175.2
+294.6
+(-) 119.4
+89.6
+(-) 29.8
+9.1
+(-) 20.1
+
+49.1
+80.5
+(-) 31.4
+22.4
+(-) 9.0
+11.1
+2.2
+
+39.8
+54.4
+(-) 14.6
+19.3
+4.7
+(-) 5.3
+0.3
+
+38.8
+64.8
+(-) 26.0
+20.2
+(-) 5.8
+6.7
+0.1
+
+(-) 7.8
+(-) 1.5
+9.2
+
+(-) 10.3
+(-) 2.6
+0.8
+
+memo:
+as percentage of gdp
+trade balance
+current account balance
+net capital inflows
+
+# overall balance includes current account balance, net capital account and errors and omissions.
+
+table 19: variation in foreign
+exchange reserves
+
+external sector
+54.
+india’s external account has
+remained comfortable during the current
+financial year. merchandise trade contracted
+due to depressed external demand and
+slowdown of the domestic economy, with
+imports declining more than exports. the
+trade deficit narrowed down to us$ 26.0
+billion in q1 of 2009-10 from us$ 31.4
+billion in q1 of 2008-09. however, trade
+deficit in q1 of 2009-10 was higher than
+us$ 14.6 billion in q4 of 2008-09 partly
+due to a rise in crude oil prices (table 18).
+the current account deficit at us$ 5.8
+billion in q1 of 2009-10 was also lower
+compared to the deficit of us$ 9.0 billion
+in q1 of 2008-09; a current account surplus
+of us$ 4.7 billion was recorded in q4 of
+2008-09. the capital account showed a
+turnaround from a negative balance in the
+last two quarters of 2008-09 to a positive
+balance of us$ 6.7 billion during q1 of
+2009-10.
+
+period
+
+variation (us$ billion)
+
+full year
+2004-05
+2005-06
+2006-07
+2007-08
+2008-09
+
+28.6
+10.1
+47.6
+110.5
+(-) 57.7
+
+financial year (up to october 16)
+2008-09
+2009-10
+
+(-) 35.8
+32.9
+
+55.
+in 2009-10 to date, foreign exchange
+reserves have increased by us$ 32.9 billion,
+including allocation of sdrs (us$ 5.2
+billion) by the imf, and were at us$ 284.8
+billion as on october 16, 2009 (table 19).
+56.
+the management of foreign
+exchange reserves is guided by the changing
+composition of the balance of payments and
+endeavours to reflect the ‘liquidity risks’
+associated with different types of flows.
+
+21
+
+ii. stance of monetary policy
+daily average of almost rs.1,20,000 crore.
+the utilisation of the several refinance
+facilities instituted by the reserve bank too
+has been low, further evidencing the ample
+liquidity situation. interest rates in all the
+markets have declined significantly over
+the last one year as detailed before. the
+transmission of lower policy rates to the
+credit market has materialised with a lag.
+with most commercial banks reducing their
+deposit rates, the cost of funds has declined
+enabling banks to reduce their bplrs. the
+effective lending rates have also come
+down as nearly three-fourths of bank
+lending takes place at rates below their
+bplrs as alluded to before.
+
+57.
+as a part of the accommodative
+monetary policy followed since midseptember 2008, the reserve bank has
+provided ample rupee and dollar liquidity
+and maintained a market environment
+conducive for the continued flow of credit
+to productive sectors at lower cost. the
+important measures initiated include
+reduction of the policy rates under the laf
+to their historically low levels, lowering
+of reserve requirements, institution of
+sector-specific liquidity facilities and a
+forex swap facility, relaxation in the ecb
+guidelines, countercyclical prudential
+measures of adjustment in risk weights and
+provisioning, and conditional special
+regulatory treatment for restructured
+assets.
+
+growth projection
+60.
+during the first quarter of 2009-10,
+real gdp recorded a growth of 6.1 per cent,
+lower than the growth of 7.8 per cent in the
+corresponding quarter of 2008-09, but
+marginally higher than the 5.8 per cent
+growth in the second half of 2008-09. the
+south-west monsoon rainfall this year has
+been the weakest since 1972 affecting both
+yield and acreage of agricultural crops. this
+will impact kharif production and the
+performance of agricultural production
+during the rabi season will be critical for
+supply management. on the whole,
+agricultural production in 2009-10 is
+expected to be lower than in last year.
+
+liquidity impact
+58.
+consistent with its accommodative
+monetary stance, the reserve bank
+expanded its domestic assets through open
+market operations (omo) and unwinding
+of market stabilisation scheme (mss)
+securities to provide primary liquidity to
+support the required monetary expansion.
+several measures taken by the reserve
+bank since mid-september 2008 have
+augmented actual/potential liquidity in the
+system on the aggregate by rs.5,85,000
+crore.
+59.
+as a result of the extraordinary
+monetary easing by the reserve bank, the
+banking system has been awash with
+liquidity since november 2008. this is
+reflected most prominently in the
+absorption under the laf window of a
+
+61.
+while external demand has
+continued to contract, large fiscal and
+monetary stimulus measures have
+bolstered domestic consumption and
+helped the recovery in the industrial sector.
+22
+
+the prospects of the industrial sector have
+become more promising than they were at
+the time of the first quarter review. with
+the recovery in the stock market, the
+primary segment of the capital market has
+also witnessed increased activity in the
+recent period. this, combined with the
+easing of international financing
+conditions, augurs well for a pick-up in
+investment activity. the business
+confidence surveys also point to further
+improvement in outlook despite weak
+perception of export demand.
+
+inflation projection
+63.
+headline wpi inflation turned
+negative during june-august 2009 due to
+the large statistical base effect. as
+anticipated in the first quarter review,
+wpi inflation has returned to positive
+territory, albeit a few weeks sooner than
+expected, in the wake of large increase in
+prices of food items and increase in global
+crude oil prices.
+64.
+the upside risks on account of
+deficiency in monsoon rainfall indicated in
+first quarter review of july 2009 have now
+materialised as prices of food items have
+risen sharply. going forward, rabi crop
+prospects would be critical in shaping the
+path of food inflation. the large stock of
+foodgrains with public agencies should help
+mitigate any significant adverse impact due
+to supply constraints. the improved terms
+of trade for agriculture in recent years
+should provide an incentive to the sector.
+
+62.
+various services sector activities,
+which have slowed down significantly in
+the recent period, should also catch up,
+albeit wit h a lag, in tandem with
+improved industrial growth. assuming a
+modest decline in agricultural production
+and a faster recovery in industrial
+production, the baseline projection for
+gdp growth for 2009-10 is placed at 6.0
+per cent with an upside bias (chart 7).
+thus, the gdp projection for 2009-10 for
+policy purposes remains unaltered from
+that made in the first quarter review of
+july 2009.
+
+65.
+global commodity prices, which
+had bottomed out in early-2009, rebounded
+ahead of global recovery. the global oil
+prices present a mixed picture. crude oil
+
+23
+
+consumption patterns. this underscores
+the need to expedite the revision of
+coverage and updating of the base year for
+the wpi series as also the proposed two
+consumer price indices, i.e., cpi-urban
+and cpi-rural.
+
+prices, which increased from their low
+levels of january-march 2009, have
+remained range-bound since june 2009.
+large global liquidity due to easy monetary
+policy followed by major central banks has
+led to sizeable financialisation of the
+commodities market, especially for those
+products that are prone to demand supply
+gaps. these developments may induce
+greater volatility in commodity prices in the
+coming years.
+
+67.
+the first quarter review of july
+2009 projected wpi inflation for end-march
+2010 at around 5.0 per cent. the july
+review indicated that the risk to this
+projection was on the upside. though the
+year-on-year wpi inflation was 1.21
+per cent as on october 10, 2009, it has
+already increased by 5.95 per cent on a
+financial year basis though some of the
+increase is seasonal and is likely to soften.
+however, the base effect, which resulted
+in negative wpi inflation during juneaugust 2009, is now expected to work in
+the reverse direction accentuated by high
+food prices. the reserve bank’s quarterly
+inflation expectations survey for
+households indicates that while inflationary
+expectations remain contained, a majority
+of the respondents expect inflation rate to
+increase over the next three months as also
+over the next year.
+
+66.
+inflation assessment has become
+increasingly complex in recent times with
+the wpi inflation rate remaining negative
+or low and the various cpi inflation
+measures remaining close to or above the
+double digits for an extended period. cpi
+inflation has remained at an elevated level
+since march 2008 and did not decline as
+expected in line with fall in wpi inflation.
+indeed, it hardened due to sharp increase
+in essential commodity prices. the situation
+was aggravated by the deficient monsoon
+rainfall and drought condition in several
+parts of the country. the reserve bank
+monitors an array of measures of inflation,
+both overall and disaggregated
+components, in conjunction with other
+economic and financial indicators, to assess
+the underlying inflationary pressures and
+articulates its policy stance in terms of wpi.
+the government took a decision on
+october 19, 2009 to reduce the frequency
+of the current series of wholesale price
+index (base:1993-94) from weekly to
+monthly. the available indices, wpi and
+the four measures of cpi, fail to adequately
+capture the underlying inflationary
+conditions because of inadequate coverage
+and also because the respective base years
+do not capture the changed production and
+
+68.
+keeping in view the global trend
+in commodity prices and the domestic
+demand-supply balance, the baseline
+projection for wpi inflation at end-march
+2010 is placed at 6.5 per cent with an upside
+bias (chart 8). this is higher than the 5.0
+per cent wpi inflation projected in the first
+quarter review of july 2009 as the upside
+risks have materialised.
+69.
+as always, the reserve bank will
+endeavour to ensure price stability and
+anchor inflation expectations. the conduct
+of monetary policy will continue to
+24
+
+market borrowing programme for 2009-10
+is now completed. in 2009-10 (up to
+october 9, 2009), credit has expanded by
+rs.1,14,800 crore. thus, to attain the
+projected growth of 20 per cent, banks will
+need to expand credit by rs.4,40,000 crore
+in the remaining part of the year, which will
+be difficult unless demand for retail credit
+accelerates. also, access of corporates to
+non-bank sources of financing, both
+domestic and international, has eased,
+which could lead to substitution of bank
+credit. while credit demand is expected to
+pick up during the second-half of 2009-10,
+attaining the projected growth of 20 per cent
+is unlikely.
+
+condition and contain perception of
+inflation in the range of 4.0-4.5 per cent.
+this will be in line with the medium-term
+objective of 3.0 per cent inflation consistent
+with india’s broader integration with the
+global economy.
+monetary projection
+70.
+the year-on-year growth in money
+supply (m3) increased from 18.6 per cent
+in end-march 2009 to 18.9 per cent by
+october 9, 2009. a major source of m 3
+expansion this year has been the banking
+system’s financing of the large market
+borrowing of the government, including
+omo purchases by the reserve bank. the
+growth in bank credit to the commercial
+sector has moderated significantly to 10.7
+per cent from the high level of 27.4 per cent
+a year ago.
+
+72.
+keeping in view the borrowing
+requirement of the government and of the
+commercial sector in the remaining period
+of 2009-10, the indicative projection of
+money supply growth of 18.0 per cent set
+out in july 2009 is revised downwards to
+17.0 per cent. consistent with this,
+aggregate deposits of scheduled
+commercial banks are projected to grow by
+18.0 per cent. the growth in adjusted
+non-food credit, including investment in
+bonds/debentures/shares of public sector
+
+71.
+the first quarter review of july
+2009 raised the indicative trajectory of m3
+growth to 18.0 per cent from 17.0 per cent
+envisaged in the annual policy statement
+of april 2009 to ensure that the increased
+government market borrowing programme
+did not crowd out the credit flow to the
+private sector. over 80 per cent of the
+25
+
+76.
+third, somewhat related to the
+point above, india has traditionally been a
+supply constrained economy in contrast to
+advanced economies which are demand
+starved. we need, in particular, to expand
+the supply of infrastructure – power, roads,
+urban infrastructure and social
+infrastructure. the supply constraints which
+remained subdued during the crisis period
+owing to weak demand, will re-emerge and
+may indeed become binding.
+
+undertakings and private corporate sector
+and cps, is also revised downwards to 18.0
+per cent from 20.0 per cent set out in the
+annual policy statement and the first
+quarter review. banks are urged once
+again to step up their efforts towards credit
+expansion while preserving credit quality
+which is critical for revival of growth.
+overall assessment
+73.
+there has been a discernible
+improvement in the global economic
+outlook since the first quarter review in
+july 2009. in india too, there are definitive
+indications of the economy reverting to the
+growth track. accordingly, attention around
+the world, as also in india, has shifted from
+managing the crisis to managing the
+recovery.
+
+77.
+fourth and importantly, india is one
+of the few large emerging economies with
+twin deficits – fiscal and current account
+deficits. while our current account deficit
+is modest, and may even be benign given
+the investment requirements of the
+economy, there can be no two views about
+the need to make a responsible, credible and
+time-bound fiscal adjustment. the
+arguments for fiscal consolidation and
+rectitude are compelling and widely known,
+and need not be repeated here. but an issue
+of some immediate relevance is the critical
+need to downsize the government borrowing
+programme so as to help sustain a moderate
+interest rate regime. this is crucial for
+investment demand to pick up on which
+hinge our long-term economic prospects.
+
+74.
+the policy dilemma for india is
+different in some important respects from
+that of advanced economies as also other
+emerging market economies. first, most of
+these countries do not face an immediate
+risk of inflation. indeed, in several
+advanced economies, the concerns were
+about a possible deflation, which are just
+about waning. on the other hand, india is
+actively confronted with an upturn in
+inflation – a rising wpi inflation and
+stubbornly elevated cpi inflation.
+
+78.
+around the world, there is an
+active, and at times animated debate on
+the timing and sequencing of exit from the
+expansionary monetary stance. ‘exit’ is a
+central issue in our policy matrix too. as
+the reserve bank has indicated in several
+public statements, our current monetary
+stance is not the steady state and we need
+to reverse the expansionary stance. it is
+important to recognise though that the
+exit debate in india is qualitatively
+
+75.
+second, advanced economies are
+faced with households, firms and financial
+institutions still struggling with their
+impaired balance sheets. fortunately, we
+do not have this problem in india, but we
+still have the challenge of reviving
+domestic consumption and investment
+demand, the traditional, dominant drivers
+of our growth.
+26
+
+different from that in other advanced and
+emerging economies because of the unique
+features of our macroeconomic context
+indicated above.
+
+the next three months as also one year. the
+lag with which monetary policy operates
+suggests that there is a case for tightening
+sooner rather than later.
+
+79.
+the precise challenge for the
+reserve bank is to support the recovery
+process without compromising on price
+stability. this calls for a careful management
+of trade-offs. growth drivers warrant a
+delayed exit, while inflation concerns call
+for an early exit. premature exit will derail
+the fragile growth, but a delayed exit can
+potentially engender inflation expectations.
+
+83.
+forceful arguments for early
+reversal of monetary policy also arise from
+liquidity concerns. the laf window has
+been absorbing over rs.100,000 crore on a
+daily basis since may 2009, save for a few
+days on account of temporary increases in
+government balances. this evidences the
+large amount of liquidity in the system
+which could potentially result in an
+unsustainable asset price build-up. there is
+already some evidence of excess liquidity
+feeding through asset prices with potential
+financial stability concerns. further, capital
+flows have resumed. given the limitations
+of the economy’s current absorptive
+capacity, these flows will add to the overall
+domestic liquidity, further fuelling the asset
+price build-up. large capital inflows and
+asset price inflation have the potential to
+feed on each other. from the liquidity
+dimension, it is further argued that the
+current large overhang of liquidity could
+engender inflation expectation even if credit
+demand remains subdued.
+
+80.
+the reserve bank has consulted a
+wide array of stakeholders in the run up to
+this policy review. based on these
+consultations, the arguments for and against
+reversal of the expansionary monetary
+policy stance can be summarised as follows.
+arguments for beginning reversal of
+monetary easing
+81.
+the most dominant argument for
+reversing monetary policy easing stems
+from the concern about inflation. wpi
+inflation has turned positive, the base effect
+which has kept wpi low so far is now gone
+and cpi inflation has remained stubbornly
+elevated. on a financial year basis, wpi
+has already increased by 5.95 per cent.
+inasmuch as monetary policy acts with a
+lag, there is need to act now.
+
+arguments for deferring reversal of
+monetary easing
+84.
+the dominant argument for
+continuing with the current monetary stance
+is that the recovery is as yet fragile. exports
+are still on the decline and the recent
+improvement in industrial production
+overstates the recovery as part of it is due
+to the base effect and the one time impact
+of restocking inventory. premature
+tightening will hurt the growth impulses.
+
+82.
+it is further argued that even though
+the current inflationary pressures are driven
+by food prices, they can strengthen
+expectations of higher inflation and lead to
+generalised inflation. the reserve bank’s
+inflation expectations survey shows that
+households expect inflation to increase over
+27
+
+on the other hand, it is imperative to
+continue with the accommodative stance to
+compensate for the decline in agricultural
+output and till there is firm evidence of
+sustained global recovery.
+
+88.
+the reserve bank has studied
+these arguments. some of the arguments are
+persuasive and some less so. the balance
+of judgment at the current juncture is that
+it may be appropriate to sequence the ‘exit’
+in a calibrated way so that while the
+recovery process is not hampered, inflation
+expectations remain anchored. the ‘exit’
+process can begin with the closure of some
+special liquidity support measures.
+
+85.
+the second argument against an
+immediate reversal of monetary easing is
+that the current inflationary pressures are
+driven by supply side constraints,
+particularly food prices. monetary policy
+is typically not an efficient instrument for
+reining in food price inflation. there could,
+of course, be concerns that rising food prices
+could spark inflationary expectations. but
+the probability of that is low as food prices
+are likely to ease in the coming months
+following the seasonal trend. the promising
+rabi crop prospects also will reduce food
+price pressures. under these circumstances,
+the downside risks to any tightening now
+are high with virtually no upside.
+
+89.
+it will be recalled that in response
+to the crisis, like most other central banks,
+the reserve bank too instituted both
+conventional measures and unconventional
+measures. while reversing of conventional
+measures is not considered appropriate for
+now, many of the unconventional measures
+can be reversed immediately. the following
+measures constitute the first phase of ‘exit’.
+90.
+the statutory liquidity ratio (slr),
+which was reduced from 25 per cent of
+demand and time liabilities to 24 per cent,
+is being restored to 25 per cent. the limit
+for export credit refinance facility [(under
+section 17(3a) of the rbi act], which was
+raised to 50 per cent of eligible outstanding
+export credit, is being returned to the
+pre-crisis level of 15 per cent. the two
+non-standard refinance facilities: (i) special
+refinance facility for scheduled commercial
+banks under section 17(3b) of the rbi act
+(available up to march 31, 2010), and
+(ii) special term repo facility for scheduled
+commercial banks (for funding to mfs,
+nbfcs, and hfcs) (available up to march
+31, 2010) are being discontinued with
+immediate effect. details in this regard are
+indicated in the subsequent sections of this
+statement.
+
+86.
+the third argument for maintaining
+the accommodative monetary stance for
+now is that any reversal at this stage will
+harden yields on government bonds putting
+upward pressure on interest rates and
+dampening both consumption and
+investment demand. this could seriously
+unravel the incipient recovery.
+87.
+finally, capital flows have resumed
+on the promise of india’s growth prospects.
+it is argued that if we tighten ahead of other
+economies, the wider interest rate differential
+will become a perverse incentive for even
+larger capital flows. in managing capital
+flows in excess of the current account deficit,
+the economy will have to pay a cost which
+will be a combination of exchange rate
+appreciation, larger systemic liquidity and
+fiscal costs of sterilisation.
+28
+
+policy stance
+
+adequately met while also securing price
+stability and financial stability.
+
+91.
+on the basis of the above overall
+assessment, the stance of monetary policy
+for the remaining period of 2009-10 will
+be as follows:
+
+•
+
+keep a vigil on the trends in inflation
+and be prepared to respond swiftly and
+effectively through policy adjustments
+to stabilise inflation expectations.
+
+•
+
+monitor the liquidity situation closely
+and manage it actively to ensure that
+credit demands of productive sectors are
+
+•
+
+maintain a monetary and interest rate
+regime consistent with price stability
+and financial stability, and supportive of
+the growth process.
+
+92.
+in conclusion, it bears emphasis that
+the reserve bank is mindful of its
+fundamental commitment to price stability.
+it will continue to monitor the price situation
+in its entirety and will take measures as
+warranted by the evolving macroeconomic
+conditions swiftly and effectively.
+
+iii. monetary measures
+flexibly including the right to accept or reject
+tender(s) under the laf, wholly or partially,
+so as to make efficient use of the laf in
+daily liquidity management.
+
+bank rate
+93.
+the bank rate has been retained
+unchanged at 6.0 per cent.
+repo rate
+
+cash reserve ratio
+
+94.
+the repo rate under the liquidity
+adjustment facility (laf) has been
+retained unchanged at 4.75 per cent.
+
+98.
+the cash reserve ratio (crr) of
+scheduled banks has been retained
+unchanged at 5.0 per cent of their net demand
+and time liabilities (ndtl).
+
+reverse repo rate
+
+99.
+the collateralised borrowing and
+lending obligation (cblo) liabilities of
+scheduled banks were exempted from
+crr prescription in order to develop
+cblo as a money market instrument.
+volumes in the cblo segment have
+increased over the years, especially after
+the phasing out of the non-banks from the
+inter-bank market. the daily average
+volume in the cblo segment, which was
+only rs.6 crore in january 2003, is now
+over rs.60,000 crore. since the objective
+of developing cblo as a money market
+
+95.
+the reverse repo rate under the
+laf has been retained unchanged at 3.25
+per cent.
+96.
+the reserve bank has the
+flexibility to conduct repo/reverse repo
+auctions at a fixed rate or at variable rates
+as circumstances warrant.
+97.
+the reserve bank retains the option
+to conduct overnight or longer term repo/
+reverse repo under the laf depending on
+market conditions and other relevant factors.
+the reserve bank will continue to use this
+29
+
+surplus funds being placed by banks daily
+in the laf window of the reserve bank.
+accordingly, it has been decided to:
+
+instrument has been broadly achieved, it
+is proposed that:
+
+•
+
+liabilities of scheduled banks arising
+from transactions in cblo with
+clearing corporation of india ltd.
+(ccil) will be subject to maintenance
+of crr with effect from the fortnight
+beginning november 21, 2009.
+
+•
+
+restore the slr for scheduled
+commercial banks to 25 per cent of
+their ndtl with effect from the
+fortnight beginning november 7, 2009.
+
+101. scbs are currently maintaining
+slr investments at 27.6 per cent of their
+ndtl, net of laf collateral securities, and
+30.4 per cent of ndtl, inclusive of laf
+collateral securities. as such, the increase
+in the slr will not impact the liquidity
+position of the banking system and credit
+to the private sector.
+
+statutory liquidity ratio
+100.
+in view of difficult macroeconomic
+situation and liquidity conditions in the
+global and domestic financial markets after
+the collapse of lehman brothers, the
+statutory liquidity ratio (slr) of scheduled
+commercial banks (scbs) was reduced from
+25 per cent to 24 per cent of their ndtl
+with effect from november 8, 2008. the
+liquidity situation has remained comfortable
+since mid-november 2008 as reflected in the
+
+third quarter review
+102. the third quarter review of
+monetary policy for 2009-10 will be
+undertaken on january 29, 2010.
+
+30
+
+part b. developmental and regulatory policies
+103. the global financial crisis raised
+issues that we thought were settled and
+reopened questions that we thought had
+been answered. it also pointed to the
+egregious policies and practices in financial
+sector regulation and supervision.
+reflecting the lessons of the crisis, there is
+now active debate and discussion at the
+global level on reforming the regulatory
+structures and supervisory processes. this
+is expected to be a continuous process with
+reform packages being agreed upon and
+finalised in a modular fashion on a regular
+basis over the next couple of years.
+
+participant at the global discussions. the
+task for us will be to reflect our point of
+view in the global debate and adapt the
+global policies and guidelines to the indian
+situation on a dynamic basis. a task that
+the reserve bank has all along been
+performing but is now explicitly defined is
+monitoring and ensuring financial stability.
+furthermore, we need to actively pursue the
+challenge of financial inclusion.
+105.
+reform is a continuous process.
+over the last several years, the reserve bank
+has endeavoured to make reforms a
+consultative and participative endeavour. it
+is now standard practice for the reserve
+bank to consult stakeholders before policy
+reviews, seek comments from experts, place
+draft policy proposals on its website for
+feedback and to disseminate policies widely.
+we will continue to improve these practices.
+
+104. india has been less affected by the
+crisis than most other countries because of
+our relatively cautious policies, prudent
+regulation and effective supervision.
+nonetheless, there are lessons from the
+crisis for india too, which include:
+(i) further strengthening regulation at the
+systemic and institutional levels; (ii) making
+our supervision more effective and value
+adding; and (iii) improving our skills in risk
+management. india has been an active
+
+106. a synopsis of the action taken and
+status of past policy announcements
+together with a listing of fresh policies is
+set out below.
+
+i. financial stability
+excessive risk-taking; (iii) improve the
+over-the-counter (otc) derivatives
+market; (iv) create more powerful tools to
+hold large global firms to account for the
+risks they take; and (v) ensure that standards
+for large global financial firms are
+commensurate with the cost of their
+failure. it was also agreed to reform the
+global architecture to meet the needs of
+the 21st century.
+
+107. at the recently held g-20 summit
+during september 24-25, 2009 in
+pittsburgh, it was decided, among others,
+to make sure that the global regulatory
+system for banks and other financial
+firms reins in the excesses that led to the
+crisis and as such committed to: (i) raise
+capital standards; (ii) implement strong
+international compensation standards
+aimed at ending practices that led to
+31
+
+(ii) prepare financial stability reports;
+(iii) develop database of key variables
+which could impact financial stability
+and a time series of a core set of financial
+indicators; (iv) conduct systemic stress
+tests to assess resilience; and (v) develop
+models for assessing financial stability.
+the fsu also provides the secretariat to
+the reserve bank’s representative in the
+financial stability board (fsb). the
+fsu is expected to bring out the first
+financial stability report by enddecember 2009.
+
+108. keeping in view both international
+and domestic initiatives in the financial
+sector, the annual policy statement of
+april 2009 indicated setting up of a
+financial stability unit (fsu) in the
+reserve bank. accordingly, the fsu was
+constituted in july 2009 drawing upon
+inter-disciplinary expertise from the
+regulatory, supervisory, statistics, economics
+and financial markets departments of the
+reserve bank. the fsu will: (i) conduct
+macro-prudential surveillance of the
+financial system on an ongoing basis;
+
+ii. interest rate policy
+bplr system: review
+
+was constituted in june 2009 and the group
+submitted its report on october 20, 2009.
+the report of the working group was also
+placed on the reserve bank’s website on the
+same day for comments and suggestions.
+the reserve bank will consider the
+recommendations after taking into account
+the feedback received on the report.
+
+109. the annual policy statement of
+april 2009 proposed constituting a working
+group to review the present benchmark
+prime lending rate (bplr) system and
+suggest changes to make credit pricing
+more transparent. accordingly, a working
+group (chairman: shri deepak mohanty)
+
+iii. financial markets
+were placed on the reserve bank’s website
+in august 2009. the national stock
+exchange (nse) commenced trading in
+irfs on august 31, 2009.
+
+financial market products
+interest rate futures
+110.
+the annual policy statement of
+april 2009 had indicated launching of
+exchange traded interest rate futures (irfs)
+contracts on the 10-year notional coupon
+bearing government of india bond.
+accordingly, in consultation with the
+securities and exchange board of india
+(sebi), irfs were introduced and the
+directions covering the framework for
+trading of irfs on recognised exchanges
+
+introduction of repo in corporate bonds
+111.
+the reserve bank had placed on
+its website, on september 17, 2009, the
+draft guidelines on repo in corporate bonds
+for comments/feedback. the draft
+guidelines were also deliberated by the
+technical advisory committee (tac) on
+32
+
+money, foreign exchange and government
+securities markets at its meeting held on
+september 23, 2009. with dvp-i (trade-bytrade) based clearing and settlement system
+for otc trades in corporate bonds being
+operationalised by the clearing houses of
+the exchanges, repo in corporate bonds can
+now be introduced. accordingly:
+
+•
+
+the lines of the guidelines for issuance of
+commercial paper (cp). accordingly:
+
+•
+
+draft guidelines are being formulated
+which will be placed on the reserve
+bank’s website by end-november 2009
+for comments/suggestions.
+
+introduction of credit default
+swaps (cds)
+
+final guidelines on repo in corporate
+bonds will be issued by end-november
+2009.
+
+113.
+in 2007, the reserve bank had
+issued draft guidelines for introduction of
+credit default swaps (cds) in india.
+however, the issuance of final guidelines
+was kept in abeyance keeping in view the
+role of credit derivatives in the recent
+financial crisis. it was considered
+appropriate to proceed with caution
+reflecting the lessons from the financial
+crisis in this regard. in order to align with
+the international work already conducted/
+underway in the area of credit derivatives,
+and keeping in view the specifics of the
+indian markets, it is proposed:
+
+regulation of non-convertible
+debentures (ncds) of maturity of
+less than one year
+112.
+at present, issuance of nonconvertible debentures (ncds) with
+maturity of less than one year is not subjected
+to regulation by the sebi or the government
+of india. it was decided in the high level
+coordination committee on financial
+markets (hlccfm) that such instruments
+being ‘money market instruments’ needed
+to be brought under the regulation of the
+reserve bank. a working group with
+representation from the reserve bank and
+the sebi was, therefore, set up to examine
+the issue. the working group, which has
+since submitted its report, has
+recommended that the reserve bank may
+frame regulations on issuance of ncds with
+maturity of less than one year, as
+they fall under the definition of ‘money
+market instruments’ of chapter iiid of
+the reserve bank of india (amendment) act,
+2006. the recommendations of the working
+group were discussed in the meeting of the
+tac on money, foreign exchange and
+government securities markets on
+september 23, 2009 and it was agreed that
+the reserve bank may frame regulations on
+
+•
+
+to i n t r o d u c e p l a i n v a n i l l a o t c
+single-name cds for corporate bonds
+for resident entities subject to
+appropriate safeguards. to begin with,
+all cds trades will be required to be
+reported to a centralised trade reporting
+platform and in due course they will be
+brought on a central clearing platform.
+
+114.
+the reserve bank is setting up an
+internal group to finalise the operational
+framework in consultation with market
+participants.
+separate trading for registered
+interest and principal of securities
+(strips)
+115.
+as indicated in the annual policy
+statement of april 2009, the draft
+33
+
+guidelines on stripping/reconstitution of
+government securities were placed on the
+reserve bank’s website on may 1, 2009
+inviting comments/suggestions from
+market participants by may 29, 2009. based
+on the feedback/suggestions received from
+the market participants, the guidelines have
+been finalised. banks will be permitted to
+strip/reconstitute eligible securities held in
+their held to maturity (htm)/available for
+sale (afs)/held for trade (hft) portfolios.
+accordingly:
+
+•
+
+combined average daily turnover of the
+contracts in all the three exchanges
+increased from us$ 1.1 billion in march
+2009 to us$ 2.5 billion in september 2009.
+market participants have been representing
+that trading of currency future contracts in
+other major currency pairs may also be
+permitted to facilitate direct hedging of their
+risk in such currencies. accordingly, it is
+proposed:
+
+•
+
+strips will be launched, as scheduled,
+during the current financial year.
+
+floating rate bonds (frbs)
+116.
+as announced in the annual policy
+statement of april 2009, the issuance
+structure of floating rate bonds (frbs) has
+been revised, addressing issues relating to
+product design. the frbs will henceforth
+be issued by way of ‘price-based’ auction
+as against the earlier ‘spread-based’ auction.
+the revised issuance structure of frbs
+has been built into the negotiated dealing
+system (nds) auction platform, which
+was operationalised on may 11, 2009.
+accordingly:
+
+•
+
+to permit the recognised stock exchanges
+to offer currency futures contracts in
+currency pairs of euro-inr, japanese
+yen-inr and pound sterling-inr, in
+addition to us dollar-rupee contracts
+which are already permitted.
+
+118.
+necessary amendments to
+currency futures (reserve bank)
+directions, 2008 are being made separately.
+guidelines on forex, commodity
+and freight derivatives
+119.
+in light of the developments in the
+domestic and international financial
+markets and based on the feedback received
+from banks, market participants, industry
+associations and others, the existing
+guidelines on foreign exchange and
+commodity and freight derivatives overseas
+have been reviewed by an internal group.
+the draft proposals were discussed in the
+meeting of the tac on money, foreign
+exchange and government securities
+markets. accordingly:
+
+floating rate bonds will be issued during
+the current financial year depending
+upon the market conditions and market
+appetite.
+
+expansion of currency pairs of
+currency futures contracts
+
+•
+
+117.
+currently, persons resident in india
+are permitted to trade in us dollar-indian
+rupee (inr) currency futures contracts in
+three recognised stock exchanges. the
+34
+
+the draft guidelines are being placed
+on the reserve bank’s website by
+end-november 2009 for wider
+dissemination and comments/views.
+
+available up to march 31, 2010: (i) the export
+credit refinance (ecr) facility (limit up to
+50 per cent of eligible outstanding rupee
+export credit) under section 17(3a) of the
+reserve bank of india act (rbi); (ii) the
+special refinance facility for scheduled
+commercial banks [limit up to one per cent
+of net demand and time liabilities (ndtl)
+as on october 24, 2008] under section
+17(3b) of the rbi act; (iii) special term repo
+facility to scheduled commercial banks for
+funding to mutual funds (mfs), non-banking
+financial companies (nbfcs) and housing
+finance companies (hfcs) [limit is in terms
+of relaxation in the statutory liquidity
+ratio (slr) up to 1.5 per cent of ndtl];
+(iv) refinance facility to small industries
+development bank of india (sidbi),
+national housing bank (nhb) and
+export- import bank of india (exim bank)
+[under section 17(4h), section 17(4dd) and
+section 17(4j), respectively, of the rbi act];
+and (v) the forex swap facility to banks for
+tenor up to three months.
+
+financial market infrastructure
+revision of repo accounting
+120.
+the annual policy statement of
+april 2009 had indicated issuance of
+revised guidelines on repo accounting
+taking into account comments on the draft
+guidelines earlier placed on the reserve
+bank’s website for implementation from
+april 1, 2010. accordingly:
+
+•
+
+the final guidelines are under
+consideration and will be issued by
+end-november 2009.
+
+clearing and settlement of otc trades
+in corporate bonds: status
+121.
+as announced in the annual policy
+statement of april 2009, the clearing
+houses of the exchanges, viz., national
+securities clearing corporation limited
+(nsccl) and indian clearing corporation
+limited (iccl) have been permitted to
+maintain transitory pooling accounts with
+the reserve bank for facilitating settlement
+of otc transactions in corporate bonds in
+the real time gross settlement (rtgs)
+system on a dvp-i basis (i.e., on a tradeby-trade basis). the reserve bank and
+sebi have issued necessary instructions
+requiring specified regulated entities to
+clear and settle all otc trades in corporate
+bonds through the nsccl or iccl with
+effect from december 1, 2009.
+
+123.
+a review of these facilities,
+indicated that the utilisation of these facilities
+has been low. keeping this in view and
+taking into account the current liquidity
+conditions in the markets, it is proposed to
+take the following actions with immediate
+effect:
+
+•
+
+to reduce the limit of export credit
+refinance facility from 50 per cent to
+15 per cent of eligible outstanding rupee
+export credit extended under section
+17(3a) of the rbi act;
+
+•
+
+to discontinue the special refinance
+facility for scheduled commercial banks
+instituted under section 17(3b) of the
+rbi act;
+
+money market
+refinance/special liquidity facilities
+122.
+as indicated in the annual policy
+statement of april 2009, the following
+liquidity facilities provided by the reserve
+bank to banks and financial institutions are
+35
+
+•
+
+to discontinue the special term repo
+facility for scheduled commercial banks
+for funding to mutual funds, non-banking
+financial companies and housing finance
+companies; and
+
+•
+
+to discontinue the forex swap facility of
+banks.
+
+and submission of competitive bids only
+through the nds; and (ii) submission of a
+single consolidated bid on behalf of all its
+constituents by the bank/primary dealer
+(pd) in respect of non-competitive bids,
+have been implemented with effect from
+may 22, 2009. the implementation of the
+recommendations of the working group
+has improved the efficiency of the auction
+process by reducing the time taken for
+announcement of the auction results,
+thereby enhancing the time available for
+trading in the auctioned securities.
+
+124. the refinance facility to sidbi,
+nhb and exim bank [under section
+17(4h), section 17(4dd) and section
+17(4j), respectively, of the rbi act]
+will continue to be in operation till the
+pre-announced date of march 31, 2010.
+however, these three financial institutions
+(fis) will have to ensure that all
+outstandings are repaid by the close of
+business on march 31, 2010.
+
+non-competitive bidding in the auction
+of state development loans (sdls):
+status
+126.
+in order to widen the investor base
+and enhance the liquidity for state
+development loans (sdls), a scheme for
+non-competitive bidding in the auction of
+sdls was notified by all state governments
+on july 20, 2007. in pursuance of the
+announcement made in the annual policy
+statement of april 2009, the scheme for
+non-competitive bidding in sdls has been
+operationalised with effect from august 25,
+2009. under the scheme, up to 10 per cent
+of the notified amount of sdls will be
+allotted to eligible individuals and institutions,
+subject to a maximum of one per cent of the
+notified amount for single bid per stock. an
+investor can submit only a single bid in an
+auction of sdl through a bank or pd.
+
+government securities market
+auction process of government of
+india securities: status
+125. as indicated in the annual policy
+statement of april 2009, the specific
+notification for auction for sale of
+government securities along with the
+scheme for non-competitive bidding facility
+has been amended by the government of
+india in consultation with the reserve
+bank. accordingly, the remaining
+recommendations of the internal working
+group (chairman: h.r. khan) pertaining to
+the reserve bank such as: (i) withdrawal
+of the facility of bidding in physical form
+
+iv. credit delivery mechanism and other banking services
+credit flow to the mse sector
+
+sick smes (chairman: dr. k.c. chakrabarty)
+were issued to scheduled commercial banks
+in may 2009. in pursuance of the guidelines,
+banks were advised to review/put in place
+
+127. as indicated in the annual policy
+statement of april 2009, the guidelines based
+on the working group on rehabilitation of
+36
+
+policies for the micro and small enterprises
+(mses), duly approved by their respective
+boards with regard to: (i) loan policy
+governing extension of credit facilities;
+(ii) restructuring/rehabilitation policy for
+revival of potentially viable sick units/
+enterprises; and (iii) non-discretionary onetime settlement scheme for recovery of nonperforming loans. other recommendations
+pertaining to the government of india/state
+governments/state level bankers’
+committee (slbc) convener banks were
+forwarded to them for necessary action. the
+regional offices of the reserve bank were
+advised to monitor the actions initiated by
+the state governments/slbc convener
+banks and discuss the progress in this regard
+in the slbc meetings.
+
+announced in the union budget 2008-09.
+out of this, rs.28,000 crore was passed on
+to the national bank for agriculture and
+rural development (nabard) for
+reimbursing the claims of regional rural
+banks (rrbs) and co-operatives and the
+remaining amount was earmarked for
+reimbursing the claims of scheduled
+commercial banks (scbs), local area
+banks (labs) and urban co-operative
+banks (ucbs). till date, scbs and ucbs
+have been reimbursed to the extent of
+64.7 per cent of their ‘debt waiver’ claims.
+rural co-operative banks
+licensing of co-operatives: status
+130.
+the committee on financial sector
+assessment (chairman: dr. rakesh mohan
+and co-chairman: shri ashok chawla) had
+recommended that rural co-operative banks
+which fail to obtain a license by 2012
+should not be allowed to continue to
+operate. accordingly, it was proposed, in
+the annual policy statement of april 2009,
+to work out a roadmap for achieving this
+objective in a non-disruptive manner. the
+criteria for licensing of these banks have
+been drafted in consultation with the
+nabard and action with regard to
+issuance of licenses has been initiated. at
+present, 17 out of 31 state co-operative
+banks, and 296 out of 371 central co-operative
+banks are unlicensed.
+
+128. the annual policy statement of
+april 2009 also proposed that the standing
+advisory committee on mses would
+review the credit guarantee scheme.
+accordingly, a working group (chairman:
+shri v. k. sharma) was constituted to
+review the credit guarantee scheme of the
+credit guarantee fund trust for micro and
+small enterprises (cgftmse) and also
+examine the feasibility of a ‘whole turnover
+guarantee’ for the mse portfolio. the
+working group is expected to submit its
+report by end-december 2009.
+agricultural debt waiver and debt
+relief scheme, 2008: status
+129. a scheme of agricultural debt
+waiver and debt relief for farmers with the
+total value of overdue loans being waived
+estimated at rs.50,000 crore and a one-time
+settlement (ots) relief on the overdue
+loans estimated at rs.10,000 crore was
+
+revival of rural co-operative credit
+structure: status
+131.
+based on the recommendations
+o f t h e ta s k f o r c e o n r e v i v a l o f
+rural co-operative credit institutions
+37
+
+(chairman: prof. a. vaidyanathan) and in
+consultation with the state governments,
+the government of india had approved a
+package for revival of the short-term rural
+co-operative credit structure. so far, as
+envisaged under the package, 25 states
+have entered into memorandum of
+understanding (mou) with the
+government of india and the nabard.
+twelve states have made amendments to
+their respective co-operative societies acts.
+as on july 31, 2009, an aggregate amount
+of rs.6,639 crore has been released by the
+nabard as government of india’s share
+under the package to primary agricultural
+credit societies (pacs) in 10 states. the
+national implementing and monitoring
+committee (nimc) set up by the
+government of india is monitoring the
+implementation of the revival package.
+
+viability, relevance of a separate package
+and strategy for implementation.
+regional rural banks
+capital to risk-weighted assets ratio
+(crar) for rrbs: status
+133. on the basis of the recommendations
+of the committee on financial sector
+assessment (chairman: dr. rakesh mohan
+and co-chairman: shri ashok chawla), the
+annual policy statement of april 2009
+proposed to introduce crar for rrbs in a
+phased manner, taking into account the status
+of recapitalisation and amalgamation. the
+government of india has constituted a
+committee (chairman: dr. k.c. chakrabarty)
+with representatives from the government,
+sponsor banks, rrbs and the nabard to
+examine the financials of the rrbs and
+suggest a roadmap to raise the crar of
+rrbs to nine per cent by march 2012. the
+committee is expected to submit its report
+by end-january 2010.
+
+132.
+furthermore, a study of the long-term
+co-operative credit structure was entrusted
+by the government of india to the same
+task force. the task force submitted its
+report in august 2006. it was announced in
+the union budget 2008-09 that the
+government of india and the state
+governments have reached an agreement
+on the content of the package for the revival
+of the long-term co-operative credit
+structure. the cost of the package has been
+estimated at rs.3,074 crore, of which the
+central government’s share will be
+rs.2,642 crore. the government of
+india has constituted a task force
+(chairman: shri g. c. chaturvedi) in
+september 2009 with representatives from
+the reserve bank and the nabard to look
+into the various aspects of the long-term
+co-operative credit structure with regard to
+
+amalgamation of rrbs: status
+134. of the total number of 196 rrbs,
+159 rrbs have been amalgamated into 46
+new rrbs (sponsored by 27 banks and
+located in 26 states including one union
+territory). since then one new rrb has
+also been established in the union territory
+of puducherry. accordingly, the total
+number of rrbs now functioning is 84.
+recapitalisation of rrbs: status
+135
+the union budget 2007-08
+announced that rrbs which have a
+negative net worth will be recapitalised in
+38
+
+a phased manner. the process of
+recapitalisation has since been completed
+with 27 rrbs having been fully
+recapitalised with an amount of rs.1,796
+crore as on july 31, 2009.
+
+existing instructions on internal control,
+risk management system, asset-liability
+management (alm) and disclosure norms
+as appropriate to ucbs as also to apply
+capital charge for market risk in respect of
+large-sized and systemically important
+ucbs. the review is underway.
+
+technology upgradation of rrbs: status
+136. with a view to enabling rrbs to
+adopt information technology (it)-based
+solutions for financial inclusion, it was
+proposed in the annual policy statement
+of april 2009 to work out, in consultation
+with the nabard, the manner of providing
+assistance to rrbs for adopting information
+and communication technology (ict)
+solutions for financial inclusion in districts
+identified as having high level of exclusion
+by the committee on financial inclusion
+(chairman: dr. c. rangarajan). to facilitate
+ict implementation, there is a need to
+implement core banking solutions (cbs). in
+this context, the report of the internal
+working group (chairman: shri g.
+srinivasan) constituted by the reserve
+bank to prepare a roadmap for migration
+to cbs by rrbs was forwarded to all
+sponsor banks in october 2008 with an
+advice to implement the recommendations
+in respect of rrbs sponsored by them. the
+issue of sharing the funding cost of cbs
+project among the owners of rrbs, viz.,
+the government of india, the state
+governments and sponsor banks, is under
+examination by the nabard.
+
+information technology support to
+ucbs: status
+138. based on the recommendations of
+the working group (chairman: shri r.
+gandhi), which looked into ways of
+supporting it initiatives of the ucbs, a
+tentative action plan has been worked out.
+taking into account a large number of small
+and unit ucbs and the lack of uniformity
+in the level of computerisation, the action
+plan envisages the minimum level of it
+infrastructure to include computerised
+management information system (mis)
+reporting and automated regulatory
+reporting (arr). after a series of
+discussions with service providers, it has
+been decided to adopt the application
+service provider (asp) model for providing
+it support to ucbs. the modalities are
+being worked out in consultation with the
+institute for development and research in
+banking technology (idrbt).
+creation of umbrella organisation and
+revival fund for ucbs: status
+139. as indicated in the annual policy
+statement of april 2008, a working group
+(chairman: shri v. s. das) was constituted
+to suggest measures, including the
+appropriate regulatory and supervisory
+framework, to facilitate emergence of
+umbrella organisation(s) for the ucb sector
+
+urban co-operative banks
+review of regulatory and supervisory
+framework for ucbs: status
+137. the annual policy statement of
+april 2009 proposed a review of the
+39
+
+in the respective states. the group has
+since submitted its report.
+
+2007. however, in those cases, where
+proposals for amalgamation within the ucb
+sector are not forthcoming, it is proposed:
+
+dicgc-supported transfer of assets
+and liabilities of ucbs to commercial
+banks in legacy cases
+
+•
+
+140.
+as a part of the measures to
+strengthen the urban co-operative banking
+system, a scheme of amalgamation of weak
+ucbs with strong ucbs, with support from
+the deposit insurance and credit guarantee
+corporation (dicgc), is considered by the
+reserve bank in cases involving ucbs
+having negative net worth as on march 31,
+
+to provide dicgc support to the scheme
+involving transfer of assets and liabilities
+(including branches) of legacy cases of
+urban co-operative banks to domestic
+scheduled commercial banks, provided the
+scheme ensures 100 per cent protection
+to depositors and dicgc support is
+restricted to the amount as provided under
+section 16 (2) of the dicgc act, 1961.
+
+141.
+detailed guidelines in this regard
+will be issued separately.
+
+v. financial inclusion
+who own petrol pumps; (v) retired
+teachers; and (vi) authorised functionaries
+of well-run self-help groups (shgs)
+linked to banks; and
+
+business correspondent (bc) model
+142.
+as proposed in the annual policy
+statement of april 2009, a working group
+(chairman: shri p. vijaya bhaskar) was
+constituted to examine the experience
+gained to date with the business
+correspondent (bc) model and to suggest
+measures to enlarge the category of persons
+that can act as bcs, keeping in view the
+regulatory and supervisory framework and
+consumer protection issues. the group’s
+report has been placed on the reserve
+bank’s website. based on the group’s
+recommendations, it is proposed:
+
+•
+
+•
+
+to allow banks to collect reasonable
+service charges from the customer in a
+transparent manner under their boardapproved policy for delivering the
+services through bc. this should be
+clearly explained to the customer.
+
+143.
+based on the experience gained,
+the working of the scheme will be reviewed
+after one year.
+pilot project of slbcs for 100 per cent
+financial inclusion
+
+to allow banks to appoint the following
+entities as bcs in addition to those
+permitted already: (i) individual
+kirana/medical/fair price shop owners;
+(ii) individual public call office (pco)
+operators; (iii) agents of small savings
+schemes of government of india/
+insurance companies; (iv) individuals
+
+144.
+of the total of 623 districts in the
+country, 431 districts have so far been
+identified for 100 per cent financial
+inclusion. of these, 204 districts in 18
+states and six union territories have
+reported having achieved the target. all
+40
+
+districts of haryana, himachal pradesh,
+karnataka, kerala, uttarakhand, goa,
+chandigarh, puducherry, daman & diu,
+dadra & nagar haveli and lakshdweep
+have reported having achieved 100 per cent
+financial inclusion. the reserve bank had
+undertaken an evaluation study through
+external agencies in 26 districts of eight
+states claiming 100 per cent financial
+inclusion, to draw lessons for further action.
+the study reports had, inter alia, revealed
+that although the slbcs had declared
+several districts as 100 per cent financially
+included, the actual financial inclusion was
+short of that. a large number of no-frills
+accounts are dormant, the number of
+transactions is small and ict- based
+financial services are yet to reach many
+villages. the findings of the study were
+communicated to banks in january 2009
+with an advice to take appropriate action.
+
+centres have been allotted to three public
+sector banks. action has also been initiated
+in respect of other states in the region.
+quicker adoption of electronic benefit
+transfer (ebt) for government
+schemes
+146.
+to encourage banks to adopt ict
+solutions for enhancing their outreach, the
+reserve bank formulated a scheme to
+quicken the pace of adoption of the smart
+card-based electronic benefit transfer (ebt)
+mechanism by banks and rolled out the ebt
+system in the states that are ready to adopt
+the scheme. as per the scheme, the reserve
+bank would reimburse the banks a part of
+the cost of opening accounts with bio-metric
+access/smart cards at the rate of rs.50 per
+account through which payment of social
+security benefits, national rural employment
+guarantee act (nrega) payments and
+payments under other government benefit
+programmes would be routed to persons
+belonging to below poverty line (bpl)
+families. the scheme is currently being
+implemented in andhra pradesh. so far,
+seven banks have been paid rs.1.8 crore for
+smart cards issued by banks in andhra
+pradesh during july-december 2008. the
+process is at different stages of
+implementation in other states such as
+karnataka and uttarakhand and the scheme
+of partial reimbursement by the reserve
+bank has been extended by one year up to
+june 30, 2010. banks are advised to work
+in co-ordination with the respective
+government departments at the central and
+state levels to ensure that all state benefits
+are delivered to individuals only through
+bank accounts within a specific timeframe.
+
+special task force in north-eastern
+region
+145. the annual policy statement of
+april 2009 had indicated the formulation
+of a scheme of providing financial support
+to banks by the reserve bank for setting
+up banking facilities at centres in the
+north-eastern region which were found to
+be commercially viable by banks, provided
+the state governments made available
+necessary premises and other infrastructural
+support. as its contribution, the reserve
+bank would bear one-time capital cost and
+recurring expenses for a limited period of
+five years as per the lowest bid offered by
+a bank. the government of meghalaya has
+since agreed to the proposal of providing
+premises and security. accordingly, eight
+41
+
+high level committee on
+lead bank scheme
+
+including repeat loans to existing shgs, to
+the tune of rs.12,254 crore. there were 6.1
+million savings accounts of shgs with
+banks as on march 31, 2009 with total
+deposits amounting to rs.5,546 crore.
+
+147. the high level committee on lead
+bank scheme (chairperson: smt. usha thorat)
+submitted its draft report on may 21, 2009.
+the report was placed on the reserve
+bank’s website inviting comments from
+public and other stakeholders. based on the
+feedback received, the committee
+submitted its final report to the reserve
+bank on august 20, 2009 and the report
+was placed on the reserve bank’s website
+on august 24, 2009. while the
+recommendations of the committee are
+under consideration, it is proposed:
+
+•
+
+149. the role of micro-finance institutions
+(mfis) in providing financial services to the
+poor is growing in importance. the banking
+sector has been extending loans to mfis
+for on-lending to shgs. during 2008-09,
+bank loans amounting to rs.3,732 crore
+were disbursed to 581 mfis, increasing the
+total outstanding loans to rs.5,009 crore to
+1,915 mfis as on march 31, 2009.
+priority sector lending certificates
+(pslcs): working group
+
+to advise the lead banks to constitute a
+sub-committee of the district
+consultative committees (dccs) to
+draw up a roadmap by march 2010 to
+provide banking services through a
+banking outlet in every village having a
+population of over 2,000, by march
+2011. such banking services may not
+necessarily be extended through a
+brick and mortar branch but can be
+provided through any of the various
+forms of ict- based models, including
+through bcs.
+
+150. the committee on financial
+sector reforms (chairman: dr. raghuram
+g. rajan), inter alia, recommended
+introduction of priority sector lending
+certificates (pslcs) for purchase by banks
+for achieving the priority sector lending
+target. according to the committee’s
+recommendation, pslcs would be issued
+by registered lenders such as mfis,
+nbfcs, co-operatives, and registered
+money lenders for the amount of loans
+granted by them to the priority sector, and
+also by banks for the amounts in excess of
+their stipulated priority sector lending
+requirements. these certificates could be
+traded in the open market, and banks
+having shortfall in meeting the priority
+sector lending targets could buy such
+certificates and thus meet the priority
+sector lending norms. the committee
+further recommended that in the trading of
+pslcs, the actual loans would continue to
+remain on the books of the original lender
+
+micro-finance: status
+148. the self-help group (shg)-bank
+linkage programme has emerged as the
+major micro-finance programme in the
+country and is being implemented by
+commercial banks, rrbs and co-operative
+banks. as on march 31, 2009, 4.2 million
+shgs were operating with an outstanding
+bank credit of rs.22,680 crore, up by 34
+per cent over march 31, 2008. during
+2008-09, banks financed 1.6 million shgs,
+42
+
+151.
+preliminary discussions indicated
+that there are both merits and demerits of
+the proposal. therefore, it is proposed:
+
+unlike in outright purchase of loan assets.
+however, the buyer bank would show the
+amount in its priority sector lending
+requirements. the seller of pslc, if it is a
+bank, will take it off its priority sector
+lending requirements even though it will
+continue to carry the loan on its books.
+
+•
+
+to constitute a working group to examine
+the issues involved in the introduction
+of priority sector lending certificates
+and make suitable recommendations.
+
+vi. regulatory measures for commercial banks
+manner that at least one-third of such
+branches are in the underbanked districts
+of underbanked states as will be notified
+separately by the reserve bank. this
+would be one of the criteria in the reserve
+bank’s consideration of proposals by
+domestic scheduled commercial banks
+(other than rrbs) to open branches in
+tier 1 and tier 2 centres. in considering
+such proposals, the reserve bank would,
+in addition, take into account banks’
+performance in financial inclusion,
+priority sector lending and level of
+customer service, among others.
+
+relaxations in branch authorisation
+policy
+152.
+as announced in the annual policy
+statement of april 2009, a working group
+(chairman: shri p. vijaya bhaskar) was
+constituted to review the extant branch
+authorisation policy with a view to
+providing greater flexibility to banks for
+opening branches to enhance banking
+penetration and promote financial
+inclusion. the group has since submitted
+its report. taking into consideration the
+group’s recommendations, it is proposed
+to liberalise the extant branch authorisation
+policy for domestic scheduled commercial
+banks (other than rrbs) as under:
+
+•
+
+domestic scheduled commercial banks
+(other than rrbs) will now be free to
+open branches in tier 3 to tier 6 centres
+as identified in the census 2001 (with
+population up to 50,000) under general
+permission.
+
+•
+
+opening of branches by domestic
+scheduled commercial banks (other
+than rrbs) in tier 1 and tier 2 centres
+(with population over 50,000) will
+continue to require prior authorisation.
+
+•
+
+banks may plan their branch expansion
+in tier 3 to tier 6 centres in such a
+
+enhancements to the basel ii
+framework
+153.
+in july 2009, the basel committee
+on banking supervision (bcbs) had finalised
+enhancements and revisions in certain areas
+of the basel ii framework. the enhanced/
+revised guidance of bcbs is contained in
+their three documents, viz., enhancements to
+the basel ii framework; revisions to the
+basel ii market risk framework; and
+guidelines for computing capital charge for
+incremental risk in the trading book. these
+enhancements and revisions are intended to
+strengthen the framework and respond to
+lessons learnt from the financial crisis.
+43
+
+154.
+the enhancements and revisions
+now stipulated by bcbs are, however,
+mostly applicable to advanced approaches
+of the basel ii framework. banks in india
+have implemented standardised/basic
+approaches contained in the framework.
+however, wherever those enhancements and
+revisions are applicable to standardised/basic
+approaches, it is proposed:
+
+•
+
+of their interest rate risk. with this move,
+banks would migrate to the application of
+the ‘economic value perspective’ to interest
+rate risk management. accordingly, it is
+proposed:
+
+•
+
+to issue detailed guidelines as appropriate
+for implementation by banks operating
+in india by end-november 2009.
+
+to issue detailed guidelines on the use
+of dga for management of interest rate
+risk by end-november 2009 .
+
+review of capital adequacy norms
+for take-out financing
+156. at present, the credit conversion
+factor (ccf) for off-balance sheet exposure
+of the take-out financing institution, which
+captures that institution’s unconditional
+commitment during the period up to the
+take-out event, is 100 per cent. the ccf
+for conditional take-out has been fixed at a
+lower level of 50 per cent reflecting the
+uncertainty regarding the take-out event due
+to the conditional nature of the agreement.
+the existing capital adequacy treatment of
+take-out financing is in conformity with the
+capital adequacy treatment of forward asset
+purchases under both basel i and basel ii.
+the issue has been reconsidered and it is
+proposed:
+
+introduction of duration gap analysis
+for asset liability management
+155.
+the reserve bank had issued
+guidelines on asset liability management in
+february 1999, which, inter alia, covered
+aspects relating to interest rate risk
+measurement. these guidelines to banks
+approached interest rate risk measurement
+from the ‘earnings perspective’ using the
+traditional gap analysis (tga). to begin
+with, the tga was considered as a suitable
+method to measure interest rate risk. the
+reserve bank had, however, indicated its
+intention to shift to modern techniques of
+interest rate risk measurement such as
+duration gap analysis (dga), simulation
+and value-at-risk over a period of time,
+when banks acquire sufficient expertise and
+sophistication in this regard. since banks
+have gained considerable experience in
+implementation of the tga and have
+become familiar with the application of the
+concept of duration/modified duration
+while applying standardised duration
+method for measurement of interest rate risk
+in the trading book, this is an opportune time
+for banks to adopt the dga for management
+
+•
+
+to allow banks to build up capital for
+take-out exposures in a phased manner.
+
+157.
+detailed guidelines in this regard
+are being issued separately.
+commercial real estate exposures
+158. in view of large increase in credit
+to the commercial real estate sector over
+the last one year and the extent of
+restructured advances in this sector, it
+would be prudent to build cushion against
+44
+
+likely non-performing assets (npas).
+accordingly, it is proposed:
+
+•
+
+non-deposit taking nbfcs (nbfcs-nd-si)
+is 100 per cent. however, asset finance
+companies (afcs) within the nbfcs-nd-si
+category carry a risk weight based on credit
+ratings. as indicated in para 178 in section
+vii of this part, nbfcs engaged in financing
+of infrastructure would henceforth be
+classified in a new category called
+infrastructure nbfcs. since financing by
+such nbfcs would essentially result in the
+creation of physical infrastructure, it is
+proposed:
+
+to increase the provisioning requirement
+for advances to the commercial real
+estate sector classified as ‘standard
+assets’ from the present level of 0.40 per
+cent to 1 per cent.
+
+review of adequacy of loan loss
+provisions
+159.
+at present, the provisioning
+requirements for npas range between 10 per
+cent and 100 per cent of the outstanding
+amount, depending on the age of the npas,
+the security available and the internal policy
+of the bank. since the rates of provisioning
+stipulated by the reserve bank for npas are
+the minimum and banks can make additional
+provisions subject to a consistent policy
+based on riskiness of their credit portfolios,
+it has been observed that there is a wide
+heterogeneity and variance in the level of
+provisioning coverage ratio across different
+banks. with a view to improving the
+provisioning cover and enhancing the
+soundness of individual banks, it is
+proposed:
+
+•
+
+•
+
+to link the risk weights of banks’
+exposure to such nbfcs to the credit
+rating assigned to the nbfc by external
+credit assessment institutions (ecais).
+
+lock-in period and minimum retention
+for securitisation exposures
+161.
+to ensure that the originators do not
+compromise on due diligence of assets
+generated for the purpose of securitisation,
+it was proposed in the annual policy
+statement of april 2009 to stipulate a
+minimum lock-in period for bank loans
+before these were securitised. it was also
+proposed to lay down minimum retention
+criteria for the originators as another
+measure to achieve the same objective.
+accordingly, it is proposed:
+
+to advise banks to augment their
+provisioning cushions consisting of
+specific provisions against npas as well
+as floating provisions, and ensure that
+their total provisioning coverage ratio,
+including floating provisions, is not less
+than 70 per cent. banks should achieve
+this norm not later than end-september
+2010.
+
+banks’ exposure to nbfcs engaged
+in infrastructure financing: review
+of risk weights
+
+•
+
+that the minimum lock-in period for all
+types of loans would be one year before
+these can be securitised; and
+
+•
+
+that the minimum retention by the
+originators will be 10 per cent of the pool
+of assets being securitised.
+
+162.
+the international work, especially
+in the european union and the us
+regarding the minimum retention criteria,
+is still underway. the reserve bank will
+
+160.
+at present, the risk weight for
+banks’ exposure to systemically important
+45
+
+adopting the integrating risk management
+system, it is now proposed:
+
+issue detailed guidelines on the manner of
+computation of the one year lock-in period
+and other operational details keeping in
+view the international norms being
+developed.
+
+•
+
+to issue a draft circular reflecting these
+changes by end-december 2009.
+
+stress testing
+compensation practices
+
+165.
+the annual policy statement of
+april 2009 proposed upgradation of the
+stress testing guidelines once bcbs
+finalises the paper on ‘principles for sound
+stress testing practices and supervision’.
+in this context, the guidelines issued to
+banks in june 2007 are required to be
+enhanced in the light of the final paper
+issued by bcbs and taking into account
+international work/initiatives in the area of
+stress testing, particularly that being done
+by the imf and the fsb. it is proposed:
+
+163.
+compensation practices, especially
+of large financial institutions, were one of
+the factors which contributed to the recent
+global financial crisis. the fsb has
+brought out certain principles for sound
+compensation practices. the principles call
+for effective governance of compensation,
+and for compensation to be adjusted for all
+types of risk, to be symmetric with risk
+outcomes, and to be sensitive to the time
+horizon of risks. these principles, which
+have been endorsed by the g-20, should be
+the guiding tenets for devising compensation
+schemes for all employees in a financial
+institution. the reserve bank is working
+on the fsb principles for sound
+compensation and it is proposed:
+
+•
+
+•
+
+to issue guidelines to banks on stress
+testing by end-january 2010.
+
+credit rating agencies: status
+166.
+it was indicated in the annual
+policy statement of april 2009 that the
+reserve bank will liaise with the sebi on
+the issue of rating agencies’ adherence to
+code of conduct fundamentals of the
+international organisation of securities
+commissions (iosco). accordingly, in
+order to review rating agencies’ continued
+accreditation under basel ii, the reserve
+bank conducted meetings with credit
+rating information services of india ltd.
+(crisil), icra ltd., credit analysis and
+research ltd. (care) and fitch. the
+reserve bank has also initiated
+discussions with the sebi to assess the
+rating agencies’ compliance with the
+enhanced code of conduct fundamentals
+of the iosco.
+
+to issue suitable guidelines to private
+sector and foreign banks with regard to
+sound compensation policies.
+
+liquidity risk
+164.
+the annual policy statement of
+april 2009 proposed to place the draft
+circular on liquidity risk management, as
+also the guidance note on “liquidity risk
+management” on the reserve bank’s
+website by mid-june 2009. this was
+deferred. keeping in view active discussions
+underway at the global level on liquidity
+risk management as the bcbs is also in
+the process of enhancing the modalities for
+46
+
+vii. institutional developments
+regarding debit of their accounts even though
+atms had not disbursed cash for various
+reasons. in order to improve customer
+service, the reserve bank advised all banks
+to reimburse to the customers the amount
+wrongfully debited on account of failed atm
+transactions within a maximum period of 12
+days from the date of receipt of customer
+complaint. in case a bank fails to re-credit
+the customer’s account, it is required to pay
+compensation of rs.100 per day to the
+aggrieved customer. the amount of
+compensation is credited to the customer’s
+account on the same day the bank credits
+the amount of the failed atm transaction.
+
+payment and settlement systems
+guidelines for pre-paid payment
+instruments in india
+167.
+as indicated in the annual policy
+statement of april 2009, scbs and non-bank
+entities, which complied with the eligibility
+criteria, were permitted to issue pre-paid
+payment instruments. furthermore, in
+august 2009, other entities were also
+permitted to issue mobile phone based
+semi-closed system pre-paid instruments for
+a maximum value of rs.5,000.
+electronic payment systems
+168. between end-march 2009 and
+end-september 2009, the branch network
+of national electronic funds transfer (neft)
+enabled banks increased from 54,200 to
+60,839 and the rtgs enabled branches
+increased from 55,000 to 60,144. the
+average number of daily transactions
+handled by the rtgs network increased
+from 80,000 to 90,000.
+
+facility to use atms of other banks:
+rationalisation
+171.
+the reserve bank had advised that
+customers could use the atms of other
+banks for cash withdrawal free of charge
+with effect from april 1, 2009. this led to a
+quantum increase in atm transactions,
+especially small value cash withdrawal
+transactions, which tended to impair the
+viability of operations. the indian banks’
+association (iba), therefore, approached the
+reserve bank with suggestions to rationalise
+the facility in order to achieve a balance
+between optimising customer convenience
+and mitigating operational difficulties.
+taking into account all the relevant issues,
+the reserve bank agreed to the iba’s
+suggestions of: (i) extending the access of
+atms of other banks to only customers
+having savings bank accounts; (ii) pegging
+a cap of rs.10,000 per withdrawal at atms
+of other banks; and (iii) permitting only five
+free transactions per month at atms of other
+
+national electronic clearing service
+169.
+as indicated in the annual policy
+statement of april 2009, the volume of
+transactions through national electronic
+clearing service (necs), introduced in
+september 2008, is gradually increasing. as
+at end-september 2009, 114 banks with
+30,780 branches have been participating in
+necs.
+customer service at atms
+170.
+the reserve bank received a
+number of complaints from bank customers
+47
+
+cards, cash withdrawals up to rs.1,000 per
+day at pos terminals have been allowed for
+all debit cards issued in india.
+
+banks. these instructions came into effect
+from october 15, 2009.
+mobile payments
+
+the payment and settlement systems
+act, 2007
+
+172.
+with the issuance of the operative
+guidelines for mobile payments on october
+8, 2008, the reserve bank has so far
+granted approval to 32 banks to provide
+mobile banking facilities to their customers.
+
+175.
+as indicated in the annual policy
+statement of april 2009, all payment
+system providers/operators, including
+credit card issuing companies and entities
+engaged in money transfer activity, require
+authorisation as per the payment and
+settlement systems act, 2007. accordingly,
+30 payment system service providers
+providing service in india have been
+granted certificate of authorisation by the
+reserve bank by end-september 2009.
+
+cheque truncation system
+173.
+the annual policy statement of
+april 2009 indicated that the reserve bank
+will continue to take steps towards extending
+the cheque truncation system (cts) across
+the country. in pursuance of this, effective
+july 1, 2009, all cheque volumes at new
+delhi migrated to cts and accordingly
+magnetic ink character recognition (micr)
+clearing (both at sbi and the reserve bank)
+was discontinued. furthermore, action to
+roll-out cts at chennai has been initiated
+and it is proposed that new delhi and
+chennai would act as backup for each other.
+with effect from july 1, 2009, a fee of
+rs.0.50 per instrument each from the
+presenting bank and from the paying bank
+in the cts has been introduced. presently,
+cts is handling around 6,00,000 instruments
+every day.
+
+currency management
+176.
+the high level group on currency
+management (chairperson: smt usha
+thorat) constituted by the reserve bank
+submitted its report in august 2009. the
+group has, inter alia, emphasised the
+importance of using modern technology and
+security systems for stocking, processing
+and distribution of currency to ensure
+adequate availability of genuine and clean
+notes to the public. with a view to
+encouraging banks for giving due priority
+to the above objective, it is proposed:
+
+cash withdrawal at point-of-sale (pos)
+174.
+cash is predominantly used for
+small value payments and as such there is
+always a need for availability of currency.
+the use of debit cards at point-of-sale
+(pos) terminals at different merchant
+establishments has been steadily on the rise.
+the number of pos terminals in the country
+at the end of august 2009 was 4,87,024.
+as a further step towards enhancing
+customer convenience in using plastic
+48
+
+•
+
+to mandate banks to install note sorting
+machines in all their branches in a
+phased manner in terms of a roadmap
+to be approved by the reserve bank; and
+
+•
+
+to have the responsibility of currency
+management entrusted to a nodal official
+in each bank, who shall be a senior
+functionary at a level not less than that
+of a general manager and who will be
+accountable for the obligations cast upon
+currency chests by the reserve bank.
+
+borrower which will be legally enforceable.
+accordingly, nbfcs were advised the
+broad framework in respect of terms and
+conditions of the contract/loan agreement,
+viz., (i) notice period before taking
+possession; (ii) circumstances under which
+the notice period can be waived; (iii) the
+procedure for taking possession of the
+security; (iv) a provision regarding final
+chance to be given to the borrower for
+repayment of loan before the sale/auction of
+the property; (v) the procedure for giving
+repossession to the borrower; and (vi) the
+procedure for sale/auction of the property.
+furthermore, nbfcs were urged to make
+available a copy of such terms and conditions
+to the borrowers at the time of sanction/
+disbursement of loans, which may form a
+key component of such contracts/loan
+agreements.
+
+177.
+detailed guidelines based on the
+report of the working group are being
+issued separately.
+non-banking financial companies
+classification of nbfcs-nd-si:
+infrastructure companies
+178. nbfcs-nd-si engaged predominantly
+in the infrastructure financing have
+represented to the reserve bank that there
+should be a separate category of
+infrastructure financing nbfcs in view of
+the critical role played by them in providing
+credit to the infrastructure sector. currently,
+the reserve bank classifies nbfcs under
+three categories, viz., asset finance
+companies, loan companies and investment
+companies. it has now been decided to:
+
+•
+
+introduce a fourth category of nbfcs
+as ‘infrastructure nbfcs’, defined as
+entities which hold minimum of 75 per
+cent of their total assets for financing
+infrastructure projects.
+
+special liquidity facility for eligible
+nbfcs-nd-si
+181.
+the special liquidity facility for
+eligible nbfcs-nd-si for meeting the
+temporary liquidity mismatches through the
+industrial development bank of india
+stressed asset stabilisation fund (idbi
+sasf) trust, which was notified as a special
+purpose vehicle (spv) for undertaking the
+operation, was extended for eligible papers
+issued by nbfcs up to september 30, 2009.
+the spv will cease to make fresh purchases
+after december 31, 2009 and will recover
+all dues by march 31, 2010. the facility
+was availed of to the extent of rs.750 crore
+and was repaid fully by july 7, 2009.
+
+179.
+detailed instructions, including
+eligibility criteria, are being issued separately.
+repossession of vehicles by nbfcs
+180.
+the annual policy statement of
+april 2009 had emphasised that nbfcs
+should have a built-in repossession clause
+(in respect of repossession of vehicles) and
+also detailed provisions with regard to terms
+and conditions for ensuring transparency in
+the contract/loan agreement with the
+
+mumbai
+october 27, 2009
+49
+
+

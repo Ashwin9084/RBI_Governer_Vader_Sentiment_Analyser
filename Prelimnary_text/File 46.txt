@@ -1,0 +1,944 @@
+reserve bank of india
+
+first quarter review of
+monetary policy 2013-14
+
+dr. d. subbarao
+governor
+
+july 30, 2013
+mumbai
+i
+
+ii
+
+contents
+page no.
+
+i.
+
+the state of the economy
+
+		global economy..........................................................................2
+		domestic economy......................................................................2
+
+ii. domestic outlook and projections
+		growth.........................................................................................5
+inflation........................................................................................6
+		monetary aggregates...................................................................8
+		risk factors.................................................................................8
+
+iii. the policy stance............................................................................9
+iv. monetary measures.....................................................................10
+
+iii
+
+iv
+
+abbreviations
+aes
+
+- advanced economies
+
+bps
+
+- basis points
+
+brics
+
+- brazil, russia, india, china and south africa
+
+cad
+
+- current account deficit
+
+ci
+
+- confidence interval
+
+cpi
+
+- consumer price index
+
+crr
+
+- cash reserve ratio
+
+ecbs
+
+- external commercial borrowings
+
+edes
+
+- emerging and developing economies
+
+fdi
+
+- foreign direct investment
+
+gdp
+
+- gross domestic product
+
+ios
+
+- industrial outlook survey
+
+laf
+
+- liquidity adjustment facility
+
+m3
+
+- broad money
+
+msf
+
+-
+
+ndtl
+
+- net demand and time liabilities
+
+obicus
+
+- order books, inventories and capacity utilisation survey
+
+omos
+
+- open market operations
+
+pmi
+
+- purchasing managers’ index
+
+q
+
+- quarterly
+
+qe
+
+- quantitative easing
+
+scbs
+
+- scheduled commercial banks
+
+slr
+
+- statutory liquidity ratio
+
+uk
+
+-
+
+us
+
+- united states of america
+
+walr
+
+- weighted average lending rate
+
+wpi
+
+- wholesale price index
+
+y-o-y
+
+- year-on-year
+
+marginal standing facility
+
+united kingdom
+
+vi
+
+vi
+
+reserve bank of india
+first quarter review of monetary policy 2013-14
+by
+dr. d. subbarao
+governor
+introduction
+
+2.
+on the domestic front, the
+foreign exchange market came under
+severe stress starting late may,
+prompting the reserve bank to initiate
+liquidity tightening measures to contain
+the volatility. as regards economic
+activity, risks to growth have increased
+notwithstanding the robust onset and
+spread of the monsoon. industrial
+production has slumped, with lead
+indications of declining order books
+and input price pressures building on
+rupee depreciation. meanwhile,
+depressed global conditions are
+undermining export performance, even
+as heightened volatility in capital flows
+has raised external funding risks.
+wholesale price inflation pressures are
+on the ebb, but retail inflation remains
+high. monetary policy going forward
+will be shaped by the considerations of
+supporting growth, anchoring inflation
+expectations and maintaining external
+sector stability.
+
+since early may when the
+reserve bank issued its monetary
+policy statement for 2013-14, global
+growth has been uneven and slower than
+initially expected. the tail risks to
+global recovery had eased in the early
+part of the year, but that improvement
+was overtaken by the turmoil in financial
+markets because of the ‘announcement
+effect’ of the likely tapering of
+quantitative easing (qe) by the us fed.
+in advanced economies (aes), activity
+has weakened. emerging and developing
+economies (edes) are slowing, and are
+also experiencing sell-offs in their
+financial markets, largely due to the safe
+haven flight of capital. market
+expectations of qe taper and the
+consequent increase in real interest rates
+in the us have translated into a rapid
+appreciation of the us dollar and
+consequent depreciation of ede
+currencies. commodity prices have
+generally softened, but the price of
+crude remains elevated. although the
+inflation outlook in aes is still benign,
+upside risks remain in several edes.
+
+3.
+in the above context, this
+statement should be read and understood
+together with the detailed review in
+m a c ro e c o n o m i c a n d m o n e t a r y
+1
+
+developments released yesterday by the
+reserve bank.
+
+ii sets out the domestic outlook and
+projections for growth, inflation and
+monetary aggregates. section iii
+explains the stance of monetary policy.
+section iv specifies the monetary
+measures.
+
+4.
+this statement is organised in
+four sections: section i provides an
+overview of global and domestic
+macroeconomic developments. section
+
+i. the state of the economy
+global economy
+
+benign due to weak demand conditions.
+inflation dropped sharply in russia in
+june due to softening food prices.
+
+5.
+global economic activity remains
+subdued with still elevated downside
+risks. in the us, incoming data point to
+a slower recovery in domestic demand
+and weak export activity. in the uk,
+recovery is gradually gathering
+momentum on the back of consumer
+spending. the euro area continues to be
+in recession with high unemployment.
+japan’s economy is returning to positive
+growth with improved industrial
+production and retail sales.
+
+8.
+non-fuel commodity prices have
+been easing, reflecting subdued global
+demand and comfortable supply levels.
+on the other hand, energy prices have
+firmed up due to a decline in us crude
+oil inventories and geo-political tensions
+in the middle east.
+domestic economy
+9.
+domestic economic activity
+weakened in q1 of 2013-14. lead
+indicators point to continuing headwinds
+facing manufacturing and services sector
+activity.
+
+6.
+among the brics countries,
+although retail sales in china have
+maintained the impetus of recent months,
+the manufacturing purchasing managers’
+index (pmi) and industrial production
+declined in june. growth has clearly lost
+momentum in brazil, russia and south
+africa.
+
+10.
+industrial production remained
+muted at 0.1 per cent during april-may;
+in may, there was an absolute decline of
+1.6 per cent spread across all constituent
+sub-sectors, barring electricity
+generation. capital goods production
+continues to contract, reflecting
+deteriorating investment conditions.
+although the manufacturing pmi
+improved modestly in june, the pace of
+
+7.
+inflation remains subdued in aes,
+but in several edes upside pressures
+persist. in china, inflation quickened in
+june, although it is expected to stay
+2
+
+expansion was anaemic. with the decline
+in the services sector pmi in june, the
+composite pmi fell too, suggesting
+broad-based sluggishness in economic
+activity.
+
+inflation declined due to the reduction in
+coal prices in march 2013, supported by
+base effects in the case of electricity
+prices. non-food manufactured products
+inflation fell to 2.0 per cent in june, the
+lowest since december 2009, mainly due
+to a decline in inflation in respect of
+chemicals and continuing deflation in
+metal prices.
+
+11.
+spurred by the timely arrival of
+the monsoon and above long period
+average rainfall so far (17 per cent excess
+up to july 26, 2013), kharif sowing has
+been significantly higher than a year ago,
+with total sown area at 74.8 million
+hectares as on july 26 as against 63.5
+million hectares recorded by the same
+time last year. to date, all regions, except
+the east and the northeast, have received
+normal/excess rainfall.
+
+14.
+retail inflation, as measured by
+the consumer price index [(cpi) new
+series], had moderated somewhat during
+april-may, but it surged close to double
+digits in june, driven primarily by a sharp
+increase in food prices.
+15.
+among other indicators, urban
+households’ inflation expectations, as per
+the latest round of the reserve bank’s
+survey, remained at elevated levels in
+q2. rural wages, which had been rising
+at an annual average of 20 per cent for
+28 months, moderated since january
+2013. according to the reserve bank’s
+quarterly house price index, increase in
+house prices also moderated in q4 of
+2012-13.
+
+12.
+the deceleration in new orders
+growth reported in the reserve bank’s
+order books, inventories and capacity
+utilisation survey (obicus) indicates
+low activity levels in q1. this is
+corroborated by the reserve bank’s
+industrial outlook survey (ios) which
+indicates that the overall business
+sentiment remained subdued in q1 and
+may improve only marginally in q2.
+early results of corporate performance
+in q1 suggest that sales growth and profit
+margins remained subdued.
+
+16.
+money supply (m3), at 12.8 per
+cent y-o-y on july 12, was close to the
+indicative trajectory of 13.0 per cent. on
+the other hand, non-food credit growth
+at 14.3 per cent was lower than the
+indicative projection of 15.0 per cent,
+with the slowdown spread across all
+major sectors. the reserve bank’s credit
+conditions survey shows that overall
+credit conditions are expected to remain
+
+13.
+headline inflation, as measured
+by the wholesale price index (wpi),
+edged up slightly to 4.9 per cent in june
+2013 after declining for five months on
+a clip. the pickup was mainly driven by
+a spurt in food inflation, especially in
+respect of vegetables and cereals. fuel
+3
+
+broadly unchanged in q2, though some
+tightening is expected in sectors such as
+construction, infrastructure, commercial
+real estate and finance.
+
+declined by 5 basis points (bps) during
+q1. although the modal base rate
+remained unchanged during the quarter,
+the weighted average lending rate
+(walr) on the outstanding rupee loans
+of scbs declined by 6 bps during q1.
+the walr for fresh loans, particularly
+for housing and commercial vehicles
+sectors, declined significantly during this
+period.
+
+17.
+the flow of resources to the
+commercial sector, from both bank and
+non-bank sources, at `2.6 trillion in
+2013-14 so far (up to july 12), was higher
+than a year ago. while the contribution
+of domestic non-bank sources declined,
+there was an increase in resources raised
+from domestic banks and from abroad,
+especially through external commercial
+borrowings (ecbs) and foreign direct
+investment (fdi).
+
+20.
+during april-may, the central
+government’s key deficit indicators as a
+proportion to the budget estimates were
+higher than a year ago, mainly on
+account of higher plan and capital
+expenditures, and decline in tax revenues
+by as much as 7.9 per cent. up to july
+25, 40.8 per cent of the net market
+borrowings of the central government
+was completed.
+
+18.
+liquidity conditions have eased
+considerably since the may policy. the
+average daily net liquidity injection
+under the liquidity adjustment facility
+(laf) declined to `828 billion during
+q1 from `1,078 billion during q4 of
+2012-13. government balances have
+been in deficit since june 28 and have
+bolstered liquidity, thereby significantly
+reducing the demand for funds under
+the laf. the net drawal from the laf
+declined significantly during the first
+week of july. on july 26, it stood at
+`558 billion [including `229 billion
+from the marginal standing facility
+(msf)].
+
+21.
+the cad moderated to 3.6 per
+cent of gdp in q4 of 2012-13, down
+from 6.5 per cent in q3, due to a
+narrowing of the trade deficit. however,
+for the year 2012-13 as a whole, the cad
+was 4.8 per cent of gdp, well above the
+sustainable level of 2.5 per cent of gdp
+estimated by the reserve bank.
+22.
+in the current year, the trade
+deficit widened during q1 over its level
+a year ago, mainly on account of
+deteriorating export performance.
+financing came by way of higher fdi,
+net ecbs and accretion to non-resident
+deposits, with some use of reserves.
+
+19.
+following the reduction in the
+repo rate in may and easing of liquidity
+conditions, the modal term deposit rate
+of scheduled commercial banks (scbs)
+
+23.
+beginning late may, following
+some comments of the us fed,
+4
+
+apprehensions of likely tapering of qe
+in the us triggered outflows of portfolio
+investment, particularly from the debt
+segment. several measures were
+instituted to contain the ensuing exchange
+market volatility and to reverse
+unidirectional expectations. first, to curb
+import demand, import of gold on
+consignment basis was restricted on june
+4 and customs duty was raised on june
+5. second, this was followed up on july
+8 with further measures, including
+restricting banks to trade only on behalf
+of their clients in currency futures/
+options markets, tightening of exposure
+norms, and raising margins on currency
+derivatives to check speculative
+activities.
+
+the reserve bank opened a dedicated
+special repo window for a notified
+amount of `250 billion for liquidity
+support to mutual funds.
+25.
+on july 22, the reserve bank
+rationalised import of gold by making it
+incumbent on all nominated banks/
+entities to ensure that at least one fifth of
+imported gold is exclusively made
+available for the purpose of exports. any
+import of gold under any type of scheme
+will have to follow this 20/80 formula.
+consequent to this, the earlier instructions
+banning the import of gold on
+consignment basis were withdrawn.
+26.
+on july 23, the reserve bank
+modified the liquidity tightening
+measures by regulating access to laf
+by way of repos at each individual bank
+level and restricting it to 0.5 per cent of
+the bank’s own ndtl. this measure
+came into effect from july 24, 2013. the
+cash reserve ratio (crr), which banks
+have to maintain on a fortnightly average
+basis subject to a daily minimum
+requirement of 70 per cent, was modified
+to require banks to maintain a daily
+minimum of 99 per cent of the
+requirement.
+
+24.
+on july 15, the reserve bank put
+in place additional measures to restore
+stability to the foreign exchange market.
+they included raising the msf rate by
+200 bps to 10.25 per cent, restricting the
+overall access by way of repos under the
+laf to `750 billion and conducting open
+market sales of government securities of
+`25 billion on july 18, 2013. as a
+contingency measure and in anticipation
+of redemption pressures on mutual funds,
+
+ii. domestic outlook and projections
+growth
+
+normal monsoon returning agricultural
+
+27.
+in the may policy, the reserve
+bank projected gdp growth for 2013-14
+of 5.7 per cent, conditional upon a
+
+growth to its trend level. the outlook for
+industrial activity, however, was
+expected to remain subdued, and growth
+5
+
+in services and exports was expected to
+stay sluggish owing to global growth not
+improving significantly.
+
+upon, the current slowdown could be
+reversed, returning the economy to a
+higher growth trajectory. on the basis
+of the above considerations, the growth
+projection for 2013-14 is revised
+downwards from 5.7 per cent to 5.5 per
+cent (chart 1).
+
+28.
+activity, both domestic and
+global, has evolved in line with these
+expectations. while the onset of the
+monsoon and its spread have been
+robust, the persisting weakness in
+industrial activity has heightened the
+risks to growth. moreover, global
+growth has been tepid, with some signs
+of loss of momentum in the us and in
+edes on top of the ongoing contraction
+in the euro area. this has impacted world
+trade with consequent adverse spillovers
+on india’s exports, manufacturing and
+services. over the last one year, the
+government has taken several policy
+initiatives to improve the investment
+environment. as these initiatives work
+through the system and are further built
+
+inflation
+29.
+in the may policy, the reserve
+bank indicated that during 2013-14,
+wpi inflation will be range-bound
+around 5.5 per cent, with some edging
+down in the first half and some increase
+in the second half, mainly on base
+effects. during q1 of 2013-14, the
+inflation trajectory has moved largely
+in line with these expectations, although
+some risks to the path of inflation have
+surfaced in june. the stronger than
+expected monsoon has not yet softened
+
+6
+
+food inflation as much as it should have.
+in particular, vegetable prices have been
+impacted by weather-driven supply
+disruptions. while the outlook for
+global non-oil commodity prices
+remains benign, international crude oil
+prices are firming up. this is reflected
+in an upward adjustment of domestic
+prices of petroleum products, besides
+the programmed revisions in diesel
+prices. the sharp depreciation of the
+rupee since mid-may is expected to pass
+through in the months ahead to domestic
+fuel inflation as well as to non-food
+manufactured products inflation through
+its import content. the timing and
+magnitude of the remaining administered
+price revisions are a source of uncertainty
+for the inflation outlook.
+
+global commodity prices, and on the
+expectation that spatial and temporal
+distribution of the monsoon during the
+rest of the season will be normal, the
+reserve bank will endeavour to
+condition the evolution of inflation to a
+level of 5.0 per cent by march 2014,
+using all instruments at its command
+(chart 2).
+31.
+admittedly, inflation during
+2010-13 has been high and persistent. it
+is important to emphasise that
+notwithstanding this, during the 2000s
+as a whole, inflation averaged around
+5.4 per cent in terms of the wpi and 5.8
+per cent in terms of the cpi, down from
+its earlier trend rate of about 7.5 per cent
+for the wpi and about 9.0 per cent for
+the cpi. given this record and the
+empirical evidence on the threshold level
+of inflation that is conducive for sustained
+
+30.
+keeping in view the domestic
+demand-supply balance, the outlook for
+
+7
+
+growth, the objective is to contain
+headline wpi inflation at around 5.0 per
+cent in the short-term, and 3.0 per cent
+over the medium-term, consistent with
+india’s broader integration into the
+global economy.
+
+effect’) and july 26, consequent on
+sudden stop and reversal of capital
+flows in reaction to the prospective
+change in the us monetary policy
+stance. it is not clear if financial
+markets have factored in the full
+impact of the prospective tapering
+of qe or whether they will react to
+every future announcement of
+tapering. india, with its large cad
+and dependence on external flows
+for financing it, will remain
+vulnerable to the confidence and
+sentiment in the global financial
+markets.
+
+monetary aggregates
+32.
+with nominal growth remaining
+broadly at the same level as envisaged
+in the may policy, monetary aggregates
+are expected to move along the projected
+trajectories. accordingly, m3 growth
+projection for 2013-14 has been retained
+at 13.0 per cent and aggregate deposit
+growth at 14.0 per cent. non-food
+credit of scbs is projected to grow at
+15.0 per cent. as always, these numbers
+are indicative projections and not
+targets.
+
+ii.
+
+risk factors
+33.
+the macroeconomic outlook for
+2013-14 is subject to a number of risks
+as indicated below.
+i.
+
+by far, the biggest risk to the
+macroeconomic outlook stems from
+the external sector. financial
+markets around the world went into
+a flash turmoil on the perception of
+an earlier than expected tapering of
+qe by the us fed. the rupee
+depreciated in nominal terms by as
+much as 5.8 per cent between may
+22 (the day of the first ‘announcement
+8
+
+the large cad, well above the
+sustainable level of 2.5 per cent
+of gdp for three years in a row, is
+a formidable structural risk factor.
+it has brought the external payments
+situation under increased stress,
+reflecting rising external
+indebtedness and the attendant
+burden of servicing of external
+liabilities. most external
+vulnerability indicators have
+deteriorated, eroding the economy’s
+resilience to shocks. the recent
+measures by the reserve bank to
+restore stability to the foreign
+exchange market should be used as
+a window of opportunity to put in
+place policies to bring the cad
+down to sustainable le vels.
+furthermore, the growing
+vulnerability in the external sector
+reinforces the importance of
+
+credible fiscal consolidation with
+accent on both quantity and quality
+of adjustment.
+
+to sustain growth in the mediumterm. to engender this benign
+growth-inflation environment, it is
+critical to ease the supply constraints
+in the economy, particularly in the
+food and infrastructure sectors.
+without policy efforts to address
+the deterioration in productivity
+and competitiveness, the pressures
+from wage increases and
+upward revisions in administered
+prices could weaken growth even
+further and exacerbate inflation
+pressures.
+
+iii. the investment climate remains
+weak and risk aversion continues to
+stall investment plans. the outlook
+for investment is inhibited by cost
+and time overruns, high leverage,
+deteriorating cash flows, erosion of
+asset quality and muted credit
+confidence.
+iv. an environment of low and stable
+inflation and well-anchored
+inflation expectations is necessary
+
+iii. the policy stance
+34.
+through 2012-13, the reserve
+bank persevered with efforts to address
+growth risks with a 100 bps reduction
+in the repo rate, supported by policies
+to ease credit and liquidity conditions
+through a 75 bps reduction in the crr,
+100 bps reduction in the slr and omo
+purchases of the order of `1.5 trillion.
+
+risks on account of the cad could
+warrant a swift reversal of the policy
+stance. in its mid-quarter review of
+june, the reserve bank paused its
+policy easing. this policy stance was
+informed by the need to await a durable
+receding of inflation and to be prepared
+for the impact of growing uncertainty
+in global financial conditions.
+
+35.
+in may this year, the reserve
+bank continued with its easing stance
+with a reduction in the policy repo rate
+by a further 25 bps to support growth in
+the face of gradual moderation of
+headline inflation. with upside risks to
+inflation still significant in the near
+term, however, the reserve bank
+indicated that it saw little space for
+further policy easing and warned that
+
+36.
+keeping in view global and
+domestic macroeconomic conditions,
+outlook and risks, the policy stance in
+this review is guided by the need for
+continuous vigil and preparedness to
+pro-actively respond to risks to the
+economy from external developments,
+especially those stemming from global
+financial markets, while managing the
+9
+
+trade-off posed by increased downside
+risks to growth and continuing risks to
+inflation and inflation expectations.
+37.
+against this backdrop, the stance
+of monetary policy is intended to:
+•
+
+address the risks to macroeconomic
+stability from external shocks;
+
+•
+
+continue to address the heightened
+risks to growth;
+
+•
+
+guard against re-emergence of
+inflation pressures; and
+
+•
+
+manage liquidity conditions to
+ensure adequate credit flow to the
+productive sectors of the economy.
+
+iv. monetary measures
+cash reserve ratio
+
+38.
+on the basis of the current
+assessment and in line with the policy
+stance outlined in section iii, the
+reserve bank announces the following
+policy measures.
+
+43.
+the cash reserve ratio (crr) of
+scheduled banks has been retained at 4.0
+per cent of their net demand and time
+liabilities (ndtl).
+
+repo rate
+
+guidance
+
+39.
+it has been decided to keep the
+repo rate under the liquidity adjustment
+facility (laf) unchanged at 7.25
+per cent.
+
+44.
+the monetary policy stance over
+the last two years has predominantly
+been shaped by the growth-inflation
+dynamic even as external sector concerns
+have had a growing influence on policy
+calibration over the last one year. the
+current situation – moderating wholesale
+price inflation, prospects of softening of
+food inflation consequent on a robust
+monsoon and decelerating growth –
+would have provided a reasonable case
+for continuing on the easing stance.
+however, india is currently caught in a
+classic ‘impossible trinity’ trilemma
+whereby we are having to forfeit some
+monetary policy discretion to address
+external sector concerns. the recent
+liquidity tightening measures by the
+
+reverse repo rate
+40.
+the reverse repo rate under the
+laf, determined with a spread of 100
+basis points below the repo rate, stands
+at 6.25 per cent.
+marginal standing facility (msf)
+rate
+41.
+the msf rate remains unchanged
+at 300 basis points above the repo rate at
+10.25 per cent.
+bank rate
+42.
+the bank rate stands at
+10.25 per cent.
+10
+
+reserve bank are aimed at checking
+undue volatility in the foreign exchange
+market and will be rolled back in a
+calibrated manner as stability is restored
+to the foreign exchange market, enabling
+monetary policy to revert to supporting
+growth with continuing vigil on inflation.  
+it should be emphasised that the time
+available now should be used with
+alacrity to institute structural measures
+to bring the cad down to sustainable
+levels. the reserve bank stands ready
+to use all available instruments and
+measures at its command to respond
+
+mumbai
+july 30, 2013
+
+11
+
+proactively and swiftly to any adverse
+development.
+mid-quarter review of monetary
+policy 2013-14
+45.
+the next mid-quarter review of
+monetary policy for 2013-14 will be put
+out through a press release on wednesday,
+september 18, 2013.
+second quarter review of monetary
+policy 2013-14
+46.
+the second quarter review of
+monetary policy for 2013-14 is scheduled
+on tuesday, october 29, 2013.
+
+

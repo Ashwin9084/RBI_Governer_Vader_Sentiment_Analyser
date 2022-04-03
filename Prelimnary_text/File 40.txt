@@ -1,0 +1,1286 @@
+reserve bank of india
+
+third quarter review of
+monetary policy 2011-12
+
+dr. d. subbarao
+governor
+
+january 24, 2012
+mumbai
+i
+
+ii
+
+contents
+page no.
+i.
+
+the state of the economy
+global economy ...................................................................................2
+domestic economy ..............................................................................3
+
+ii.
+
+outlook and projections
+global outlook .....................................................................................7
+domestic outlook.................................................................................8
+monetary aggregates..........................................................................10
+risk factors ........................................................................................10
+
+iii. the policy stance..............................................................................12
+iv.
+
+monetary measures ..........................................................................14
+
+iii
+
+iv
+
+abbreviations
+bps
+
+- basis points
+
+cad
+
+- current account deficit
+
+cpi
+
+- consumer price index
+
+crr
+
+- cash reserve ratio
+
+edes
+
+- emerging and developing economies
+
+ecb
+
+- european central bank
+
+fiis
+
+- foreign institutional investors
+
+gdp
+
+- gross domestic product
+
+iip
+
+- index of industrial production
+
+imf
+
+- international monetary fund
+
+laf
+
+- liquidity adjustment facility
+
+ltros
+
+- longer-term refinancing operations
+
+m3
+
+- broad money
+
+msf
+
+- marginal standing facility
+
+mqr
+
+- mid-quarter review
+
+ndtl
+
+- net demand and time liabilities
+
+obicus
+
+- order books, inventories and capacity utilisation survey
+
+omos
+
+- open market operations
+
+pmi
+
+- purchasing managers’ index
+
+q
+
+- quarter
+
+q-o-q
+
+- quarter-on-quarter
+
+reer
+
+- real effective exchange rate
+
+saar
+
+- seasonally adjusted annualised rate
+
+sqr
+
+- second quarter review
+
+slr
+
+- statutory liquidity ratio
+
+us
+
+- united states of america
+
+wpi
+
+- wholesale price index
+
+y-o-y
+
+- year-on-year
+
+v
+
+vi
+
+reserve bank of india
+third quarter review of monetary policy 2011-12
+by
+dr. d. subbarao
+governor
+introduction
+
+even though this was caused largely by
+a seasonal decline in vegetable prices.
+consistent with the reserve bank’s
+earlier projections, inflation is likely to
+decelerate further to 7 per cent by march
+2012.
+
+since the second quarter review
+(sqr) of monetary policy in october
+2011, there have been significant changes
+in the global scenario. on the one hand,
+concerns over the sustainability of
+sovereign debt problem in the euro area
+have intensified. on the other, there are
+modest signs of improvement in the
+us. in the emerging and developing
+economies (edes), growth has been
+moderating, reflecting the sluggishness
+in the advanced economies and the
+impact of earlier monetary tightening.
+overall, notwithstanding the signs
+of recovery in the us, global growth
+prospects have weakened since the sqr.
+
+4.
+non-food manufactured products
+inflation, however, continues to remain
+high and well above the comfort zone.
+while indicators of pricing power
+suggest that the moderating trend will
+continue, upside risks remain significant.
+the momentum indicator of non-food
+manufactured products inflation is yet
+to show a discernible downward trend.
+accordingly, while the reserve bank’s
+policy stance has to become more
+sensitive to growth risks, it also needs to
+guard against persistent inflation risks.
+
+2.
+growth in india has also
+moderated. in particular, investment
+activity has decelerated sharply,
+reflecting heightened global uncertainty
+and domestic fiscal, monetary, political
+and administrative conditions.
+
+5.
+this policy review is set in the
+context of a highly uncertain global
+environment and a delicately poised
+domestic balance between growth
+and inflation. it should be read and
+understood together with the detailed
+review in macroeconomic and monetary
+developments released yesterday by the
+reserve bank.
+
+3.
+inflation is beginning to moderate
+as projected, despite the significant
+depreciation of the rupee. in particular,
+the higher than expected deceleration in
+food inflation has provided some relief,
+1
+
+projections for growth, inflation
+and monetary aggregates; section
+iii explains the stance of monetary
+policy; and section iv specifies the
+monetary measures.
+
+6.
+this statement is organised
+in four sections: section i provides
+an overview of global and domestic
+macroeconomic developments;
+section ii sets out the outlook and
+
+i. the state of the economy
+global economy
+
+9.
+the global purchasing managers’
+index (pmi) for manufacturing recovered
+to an expansionary mode in december
+after remaining below the benchmark
+50-mark (suggesting contraction) in
+both october and november 2011.
+the services index remains above the
+50-mark (suggesting expansion) and
+improved from 52.7 in november to
+53.2 in december. the composite pmi
+of the euro area has remained well below
+the benchmark of 50 since september
+2011, although the index improved
+marginally to 48.3 in december from
+47.0 in november.
+
+7.
+us gdp growth in q3 of 2011
+[quarter-on-quarter (q-o-q), seasonally
+adjusted annualised rate (saar)] was
+revised downwards from 2 per cent to
+1.8 per cent. although this is better than
+the sub-one per cent growth in the first
+half of 2011, it is still substantially below
+trend. in the euro area, gdp growth
+(q-o-q, saar) decelerated from 0.8 per
+cent in q2 to 0.4 per cent in q3. in japan,
+growth (q-o-q, saar) recovered to 5.6 per
+cent in q3 from the setbacks suffered in
+q2 (-2.0 per cent) and q1 (-6.6 per cent)
+due to earthquake/tsunami.
+8.
+amongst the major edes,
+growth [year-on-year (y-o-y)] in china
+slowed to 8.9 per cent in q4 of 2011 from
+9.1 per cent in q3 and 9.5 per cent in q2;
+it also slowed in brazil to 2.1 per cent in
+q3 from 3.3 per cent in q2 and in south
+africa to 3.1 per cent from 3.2 per cent.
+growth in russia, however, accelerated
+to 4.8 per cent in q3 from 3.4 per cent
+in q2 of 2011. various international
+agencies have scaled down their growth
+estimate for 2011 and projection for 2012
+both for the advanced economies and
+edes.
+
+10.
+beginning the fourth week of
+december 2011, increase in international
+crude oil prices has been driven largely
+by geo-political uncertainties. in contrast,
+weak global economic activity has led to
+some softening of non-oil commodity
+prices. the world bank’s index of nonenergy prices declined by 11 per cent
+(y-o-y) in december 2011.
+11.
+reflecting international
+commodity price dynamics, headline
+measures of inflation moderated in
+2
+
+(april-september) of 2011-12 slowed
+to 7.3 per cent from 8.6 per cent in h1
+of last year.
+
+november-december 2011 in a number
+of countries, but still remain at elevated
+levels. among the major advanced
+economies, headline inflation was 3.0
+per cent in the us and 2.7 per cent
+in the euro area. amongst the edes,
+headline inflation was 4.1 per cent in
+china, 6.5 per cent in brazil and 6.1
+per cent in russia and south africa.
+notably, in many edes, the softening, in
+varying degrees, of the impact of global
+commodity prices on inflation was offset
+by the sizeable depreciation of their
+currencies in the second half of 2011.
+
+14.
+on the demand side, the
+contraction in fixed capital formation
+in q2 was the main factor behind the
+slowdown in growth. the real gross
+fixed capital formation to gdp ratio
+declined from 31.2 per cent in q1 to 30.5
+per cent in q2. this pattern, should it
+persist, will hurt medium-term growth.
+private consumption grew by 5.9 per
+cent in q2, slightly slower than 6.3 per
+cent in q1, but substantially slower
+than 9.0 per cent a year ago. the global
+environment is only partly responsible
+for the weak industrial performance and
+sluggish investment activity; several
+domestic factors – the unhealthy fiscal
+situation, high interest rates and policy
+and administrative uncertainty – are also
+playing a role.
+
+12.
+given the renewed strains in
+global financial markets, six major
+central banks announced coordinated
+actions in november 2011 to enhance
+their capacity to provide liquidity
+support to the global financial system.
+the european central bank (ecb)
+also announced longer-term refinancing
+operations (ltros) with a maturity of
+36 months. these measures are intended
+to encourage bank lending in money
+markets and sovereign bond markets.
+
+15.
+the index of industrial production
+(iip) remained volatile. the y-o-y
+industrial growth recovered from
+(-) 4.7 per cent in october to 5.9 per cent
+in november. over the year, however,
+growth in industrial production slowed
+down to 3.8 per cent during aprilnovember 2011 from 8.4 per cent a
+year ago. the slowdown was mainly
+on account of the manufacturing and
+mining sectors. in terms of the usebased classification, weakness in the
+capital goods, intermediate goods and
+consumer durables sectors dragged
+
+domestic economy
+13.
+at home, gdp growth moderated
+from 7.7 per cent in q1 (april-june)
+to 6.9 per cent in q2 (july-september)
+of 2011-12. this was mainly due to
+deceleration in industrial growth from
+6.7 per cent to 2.8 per cent. however, the
+services sector held up relatively well.
+consequently, gdp growth during h1
+3
+
+years from september 2009 to october
+2011, moderated to 8.5 per cent in
+november and further to 3.1 per cent
+in december. this was essentially on
+account of vegetables and non-food
+articles, particularly, fibres. however,
+inflation in protein items – ‘eggs, fish
+and meat’, milk and pulses – remained
+in double digits. excluding vegetables,
+food articles inflation moderated only
+marginally from 8.0 per cent in november
+to 7.1 per cent in december in contrast to
+the sharp decline in food articles inflation
+(including vegetables) from 8.5 per cent
+to 0.7 per cent during the same period.
+
+down industrial production. however,
+the pmi-manufacturing rebounded
+to 54.2 in december 2011 from 51.0
+in november. the pmi-services also
+recovered markedly to 53.2 in november
+and further to 54.2 in december from
+the below 50 levels in the preceding
+two months. on the agriculture front,
+rabi sowing as of january 20, 2012 was
+marginally lower (-1.1 per cent) than that
+in last year.
+16.
+according to the reserve bank’s
+order books, inventories and capacity
+utilisation survey, capacity utilisation of
+the manufacturing sector in q2 of 201112 remained broadly the same as in the
+preceding quarter. business confidence,
+as measured by the business expectations
+indices of the reserve bank’s industrial
+outlook survey, showed a slight pickup in q3 of 2011-12, while it pointed
+towards moderation in the next quarter.
+
+19.
+fuel group inflation remained
+high at 14.9 per cent in december 2011,
+reflecting high global crude oil prices
+and rupee depreciation. in fact, there is
+sizeable suppressed inflation in the fuelgroup as administered prices do not fully
+reflect the market prices.
+
+17.
+headline wholesale price index
+(wpi) inflation, which averaged 9.7
+per cent (y-o-y) during april-october
+2011, moderated to 9.1 per cent in
+november and further to 7.5 per cent in
+december. the decline in inflation was
+driven largely by a decline in primary
+food and non-food articles inflation.
+the momentum indicator of wpi, as
+measured by the seasonally adjusted
+3-month moving average inflation rate,
+also showed a decline.
+
+20.
+notably, non-food manufactured
+products inflation remains elevated. it
+declined from 8.1 per cent in october
+to 7.9 per cent in november and further
+to 7.7 per cent in december. however,
+going by the revision in the number for
+october 2011, the inflation numbers for
+november and december too are likely
+to be revised upwards. this indicator
+is sensitive to international commodity
+prices and currency movements and the
+recent rupee depreciation has accentuated
+price pressures as reflected by this
+indicator.
+
+18.
+primary articles inflation, which
+was in double digits for over two
+4
+
+21.
+as measured by the consumer
+price index (cpi) for industrial workers,
+inflation moderated from double digits in
+september to 9.3 per cent in november.
+inflation in terms of consumer price
+indices for agricultural and rural
+labourers moderated significantly in
+december. the new combined (rural
+and urban) consumer price index (base:
+2010=100) declined marginally from
+114.4 in november to 113.9 in december,
+reflecting softening of food prices.
+
+engineering, cement and cement
+products.
+
+22.
+money supply (m 3 ) growth,
+which was 17.2 per cent at the beginning
+of the financial year, reflecting the
+strong growth in time deposits following
+increase in interest rates by banks,
+moderated to 15.6 per cent by enddecember 2011 consistent with the
+projected trajectory of 15.5 per cent for
+the year.
+
+25.
+during q3 of 2011-12, the modal
+deposit rate of banks increased by 44
+basis points for maturity up to 1 year,
+and 9 basis points for maturity between
+1 to 3 years. during q3, 23 banks raised
+their base rates by 10-100 basis points
+even as the modal base rate of banks
+remained unchanged at 10.75 per cent.
+the slowdown in total resource flow to
+the commercial sector and the peaking of
+base rates of banks reflect slowing down
+of investment activity.
+
+24.
+resource flows to the commercial
+sector from other sources partly offset
+the deceleration in bank credit. the
+estimated total flow of financial
+resources from banks, non-banks and
+external sources to the commercial
+sector during april-december of 2011 at
+around `9.2 trillion was, however, lower
+than that of `9.5 trillion during the same
+period of last year.
+
+23.
+however, non-food credit
+growth moderated from 21.3 per cent
+at end-march to 15.7 per cent by enddecember 2011, a rate below the
+indicative projection of 18 per cent
+set out in the sqr. credit deceleration
+was particularly sharp for public sector
+banks, with growth moderating from
+21 per cent to about 15 per cent during
+the same period. disaggregated data
+for november showed that there was a
+general deceleration in the credit flow
+across sectors, except for personal loans.
+the deceleration was particularly sharp
+in agriculture, real estate, infrastructure,
+
+26.
+liquidity conditions, which have
+generally remained in deficit during
+2011-12, tightened further beginning
+the second week of november 2011,
+partly reflecting the reserve bank’s
+forex market operations and advance
+tax outflows around mid-december.
+average borrowings under the reserve
+bank’s daily liquidity adjustment facility
+(laf) increased from around `480
+billion during april-september 2011 to
+around `920 billion during november
+5
+
+29.
+the central government’s key
+deficit indicators widened during 201112 (april-november) relative to the
+levels in the corresponding period of
+last year, and were higher even when
+compared with the deficit levels adjusted
+for the one-off spectrum receipts last
+year. this was reflected in the increase in
+borrowings by the government. beyond
+the budgeted estimate of `4,170 billion,
+the central government announced an
+increase in borrowings through dated
+securities of about `530 billion in
+september and further `400 billion in
+december. consequently, the revised
+gross (net) borrowings for the year now
+work out to about `5,100 billion (`4,360
+billion). about 83 per cent of revised
+gross (`4,220 billion) and 80 per cent of
+net market borrowings (`3,480 billion)
+were raised up to january 16, 2012. the
+central government has also announced
+an increase in the borrowing through net
+issuances of treasury bills by `1,025
+billion over the budgeted amount of `150
+billion for 2011-12.
+
+and further to `1,170 billion in december
+2011. average daily borrowings under
+the laf were about `1,200 billion
+during january (up to january 20, 2012).
+to ease the tightness in liquidity, and
+consistent with its monetary policy
+stance of managing liquidity to ensure
+that it remained in moderate deficit, the
+reserve bank conducted open market
+operations (omos) aggregating over
+`700 billion during november 2011-mid
+january 2012.
+27.
+under the marginal standing
+facility (msf), banks can drawdown
+up to one per cent of their net demand
+and time liabilities (ndtl) from their
+prescribed statutory liquidity ratio
+(slr) portfolio. on december 21, 2011,
+the reserve bank clarified that banks
+could access the msf even if they had
+excess slr holdings. in view of the
+tight liquidity conditions, some banks
+accessed funds from the msf window
+during december 2011-january 2012.
+28.
+with the introduction of the
+new operating procedure of monetary
+policy in may 2011, overnight money
+market rates have become more stable.
+the overnight interest rates generally
+remained close to the repo rate during
+2011-12 (up to january 20, 2012), barring
+a few days when the call rate breached
+the interest rate ceiling determined by the
+msf rate owing to tightness of liquidity
+on account of advance tax outflows.
+
+30.
+the 10-year benchmark
+government security yield, which
+remained range-bound during the first
+half of 2011-12, rose during october,
+after the commencement of second
+half borrowing programme of the
+government. the yield, however, eased
+subsequently from 8.89 per cent at
+end-october to 8.74 per cent at endnovember and further to 8.22 per cent
+as on january 20, 2012. the moderation
+6
+
+the reserve bank continues to closely
+monitor developments in the external
+sector and their impact on the exchange
+rate and, as indicated in the mid-quarter
+review (mqr) of december 2011, will
+take action, as appropriate.
+
+in yield reflected improved demand for
+government securities as credit demand
+slackened, omo purchases by the
+reserve bank, increase in debt cap for
+foreign institutional investors (fiis) for
+investment in government securities,
+and expectation of moderation in
+inflation.
+
+32.
+during h1 (april-september)
+of 2011-12, the current account deficit
+(cad), in absolute terms, widened
+relative to h1 of last year, reflecting
+widening of the trade deficit due to
+significant increase in international
+prices of imported commodities,
+especially crude oil and gold as well
+as moderation of growth in exports of
+services. however, as a proportion of
+gdp, the cad at 3.6 per cent was a
+shade lower than 3.7 per cent in h1
+of last year. during q3 of 2011-12,
+merchandise exports growth decelerated,
+on an average, to 7.7 per cent y-o-y
+from an average of 36.9 per cent during
+the first half of 2011-12. with imports
+growth moderating more slowly than
+exports growth, the trade deficit for q3
+widened further.
+
+31.
+the foreign exchange market
+remained under pressure in q3 of 201112, reflecting adverse global sentiments
+and moderation in capital inflows.
+between end-march 2011 and january
+13, 2012, the 6, 30 and 36-currency trade
+weighted real effective exchange rates
+(reer) depreciated by about 9 per cent
+each, primarily reflecting the nominal
+depreciation of rupee against the us
+dollar by about 13.2 per cent. much of the
+depreciation happened during augustdecember. the reserve bank took a
+number of steps to stimulate capital
+inflows and curb speculation, besides
+also intervening in the market consistent
+with its policy of containing volatility
+and preventing disruptive movements.
+
+ii. outlook and projections
+global outlook
+
+economies and past monetary tightening
+undertaken by edes to contain inflation,
+growth in the edes has also been
+moderating. accordingly, global growth
+during 2012 is expected to be lower
+than the international monetary fund’s
+september 2011 projection of 4.0 per
+cent.
+
+growth
+33.
+global growth prospects for 2012
+have deteriorated in an environment of
+increasing concerns over the sovereign
+debt crisis in the euro area amidst limited
+monetary and fiscal policy space. given
+the weak growth prospects in advanced
+7
+
+inflation
+
+growth
+
+indicated that some of these risks were
+indeed materialising such as increase
+in global uncertainty, weak industrial
+growth, slowdown in investment activity
+and deceleration in the resource flow to
+the commercial sector. consequently,
+while agricultural prospects look
+buoyant, industrial production has
+decelerated. the slowdown in industrial
+production will also impact service
+sector growth. further, weaker global
+growth will also have an adverse impact.
+accordingly, the baseline projection
+of gdp growth for 2011-12 is revised
+downwards from 7.6 per cent to 7.0 per
+cent (chart 1).
+
+35.
+in the sqr of october 2011, the
+reserve bank projected gdp growth of
+7.6 per cent for 2011-12, though with
+significant downside risks. in the mqr
+of december 2011, the reserve bank
+
+36.
+looking ahead to 2012-13, while
+a formal projection will be made in the
+annual policy statement in april, the
+reserve bank’s baseline scenario is
+that the economy will exhibit a modest
+
+34.
+although non-oil commodity
+prices showed some correction in 2011,
+crude oil prices have remained firm.
+supply limitations and continued ultra
+accommodative monetary policies
+in major advanced economies pose
+upside risks to commodity prices in
+2012. currency depreciation in edes
+witnessed in the second half of 2011
+and the lagged pass-through to domestic
+prices could also add to inflationary
+pressures in edes.
+domestic outlook
+
+8
+
+moderation in non-food manufactured
+products inflation. fuel inflation remains
+well above double digits. keeping in
+view the expected moderation in nonfood manufactured products inflation,
+domestic supply factors and global
+trends in commodity prices, the baseline
+projection for wpi inflation is retained
+at 7 per cent as set out in the sqr
+(chart 2).
+
+recovery, with growth being slightly
+faster than that during the current year.
+37.
+it must be emphasised that
+investment activity has slowed down
+significantly. as indicated above, while
+global factors are contributing, domestic
+conditions are also responsible and a
+change in the investment climate is
+contingent on these adverse conditions
+being addressed by policy actions.
+without this, a continuing decline in
+investment will push the economy’s trend
+rate of growth down, further aggravating
+inflationary pressures and threatening
+external and internal stability.
+
+39.
+a significant downgrade in the
+growth projection would normally have
+been accompanied by a downward
+revision in the inflation projection.
+however, in the current circumstances,
+two factors have prevented this from
+happening. first, rupee depreciation has
+been feeding into core inflation, delaying
+the adjustment of inflation to slower
+growth. second, very importantly,
+suppressed inflation in petroleum product
+
+inflation
+38.
+food inflation has moderated
+more than anticipated because of a
+sharp drop in vegetable prices. this
+benefit has, however, been offset to a
+large extent by the lower than expected
+
+9
+
+non-food credit growth at 15.7 per cent
+was below the indicative projection of 18
+per cent, reflecting the combined effect
+of a slowing economy and increasing
+risk aversion by banks. the deceleration
+in non-food bank credit is explained, to
+a large extent, by the expansion in net
+bank credit to the government which
+increased at a significantly higher rate
+of 24.4 per cent as compared with 17.3
+per cent last year. keeping in view the
+increased government borrowings and
+slowdown in private credit demand,
+m3 growth projection for 2011-12 has
+been retained at 15.5 per cent, while
+non-food credit growth has been scaled
+down to 16.0 per cent. these numbers,
+as always, are indicative projections and
+not targets.
+
+and coal prices remains quite significant.
+while a rationalisation of prices is
+welcome for a variety of well known
+reasons, it will impact observed inflation
+in the short-term. this projection is based
+on the likelihood of some adjustments
+being made in these prices.
+40.
+looking ahead to 2012-13, while
+a formal projection will be made in
+the annual policy statement in april,
+the reserve bank’s baseline scenario
+is that headline inflation may show
+some moderation, though remaining
+vulnerable to a variety of upside risks,
+indicated later in this review.
+41.
+although inflation has remained
+persistently high over the past two
+years, it is important to note that during
+the 2000s, it averaged around 5.5 per
+cent, both in terms of wpi and cpi,
+down from its earlier trend rate of
+about 7.5 per cent. given this record,
+the conduct of monetary policy will
+continue to condition and contain
+perception of inflation in the range of
+4.0-4.5 per cent. this is in line with the
+medium-term objective of 3.0 per cent
+inflation consistent with india’s broader
+integration into the global economy.
+
+risk factors
+43.
+the indicative projections of
+growth and inflation for 2011-12 are
+subject to a number of risks as indicated
+below:
+i)
+
+monetary aggregates
+42.
+money supply (m3) growth at
+15.6 per cent (y-o-y) in december 2011
+was in line with the indicative trajectory
+of 15.5 per cent for 2011-12. however,
+10
+
+sovereign debt concerns in the
+euro area pose a major downside
+risk to overall growth outlook. the
+absence of a credible solution to
+the euro area problem is weighing
+on global growth prospects even
+as recent data suggest that there
+is some improvement in the us
+recovery. continuing uncertainty
+in the euro area will adversely
+affect indian growth through trade,
+finance and confidence channels.
+
+ii)
+
+below the indicative trajectory of
+18 per cent. apart from slowdown
+of economic activity, it also reflects
+increasing risk aversion by banks
+due to increase in non-performing
+assets. although banks need to be
+prudent while sanctioning credit
+proposals, risk aversion by the
+banking sector could adversely
+affect credit flow to productive
+sectors of the economy.
+
+capital inflows to india have slowed
+down on account of portfolio rebalancing by fiis due to global
+uncertainty. this raises concerns,
+especially because the current
+account deficit of india has widened.
+the exchange rate has already come
+under significant pressure, which
+has also added to inflationary
+pressures. if the global situation
+does not improve, capital inflows
+could continue to be adversely
+affected. in this scenario, the size of
+the current account deficit poses a
+significant threat to macroeconomic
+stability.
+
+v)
+
+iii) even as global food and metal
+prices have moderated further,
+global energy prices have increased.
+should crude prices spike due to
+supply constraints on account of
+geo-political factors or decline
+significantly due to a deterioration in
+the global macroeconomic situation,
+they will have implications for
+domestic growth and inflation.
+exchange rate movements will also
+be an important factor in shaping
+the impact of global crude prices
+on domestic prices.
+iv) non-food credit growth has slowed
+down. although some slowdown
+in credit growth was expected on
+account of monetary tightening,
+credit growth has decelerated more
+than expected and is currently
+
+although food inflation has declined
+in the recent period, this was
+mainly due to a seasonal decline
+in vegetable prices. going by past
+trends, the extent of decline in
+vegetable prices seen in december
+this year is usually observed in
+the winter season (decemberfebruary). as such, the decline in
+food inflation is likely to be limited
+in coming months. beyond this,
+inflation in respect of protein-based
+items remains high. in the absence
+of appropriate supply responses of
+those commodities where there are
+structural imbalances, particularly
+protein-based items, risks to food
+inflation will continue to be on the
+upside. significantly, there has been
+reduction in rabi acreage for pulses,
+which may have an adverse impact
+on prices.
+
+vi) there is still a large element of
+suppressed inflation as domestic
+prices of some administered products
+11
+
+do not reflect the underlying market
+conditions. this is particularly
+true of coal which had seen an
+increase towards the end of last
+year but no increase this year
+so far. since coal is an input for
+electricity, coal prices, as and when
+raised, will also have implications
+for electricity tariffs. further,
+the current levels of domestic
+prices of petroleum products do
+not reflect international prices.
+petroleum product prices have
+also not been revised in response
+to crude oil prices, contributing to
+both fiscal slippages and suppressed
+inflation. revision in domestic
+administered prices will add to
+inflationary pressures, although
+such revisions are necessary to
+maintain the balance between
+
+supply and demand. particularly,
+as the food subsidy bill is expected
+to rise, it will be prudent to fully
+deregulate diesel prices to contain
+both aggregate demand and trade
+deficit.
+vii) the fiscal deficit of the government
+has remained elevated since 200809. if the increase in government
+borrowing already announced is an
+indication, the gross fiscal deficit
+for 2011-12 will overshoot the
+budget estimate substantially. at
+the current juncture when there is
+a need to boost private investment,
+the increase in fiscal deficit could
+potentially crowd out credit to the
+private sector. moreover, slippage
+in the fiscal deficit has been adding
+to inflationary pressures and it
+continues to be a risk for inflation.
+
+iii. the policy stance
+2011 was on containing inflation and
+anchoring inflation expectations even
+as it meant sacrificing some growth.
+however, in view of slowdown in
+growth, especially investment activity
+and expected moderation in inflation
+beginning december, it was decided to
+pause in the mqr of december 2011.
+
+44.
+the reserve bank began exiting
+from the crisis driven expansionary
+policy in october 2009. between january
+2010 and october 2011, the reserve
+bank cumulatively raised the cash
+reserve ratio (crr) by 100 basis points
+and the policy rate (the repo rate) 13
+times by 375 basis points. this monetary
+policy response was calibrated on the
+basis of india specific growth-inflation
+dynamics. the focus of the monetary
+policy stance during may-october
+
+45.
+since november 2011, inflation
+has broadly followed the projected
+trajectory and has shown moderation
+12
+
+manufactured products remains high.
+moreover, upside risks to inflation
+arise from global crude oil prices, the
+lingering impact of rupee depreciation
+and slippage in the fiscal deficit.
+
+as expected. even as inflation remains
+elevated, despite moderation, downside
+risks to growth have increased. the
+growth-inflation balance of the monetary
+policy stance has now shifted to growth,
+while at the same time ensuring that
+inflationary pressures remain contained.
+accordingly, the policy stance in this
+review is shaped by the following three
+major considerations.
+
+48.
+third, liquidity conditions have
+remained tight beyond the comfort
+zone of the reserve bank. although the
+reserve bank has conducted open market
+purchase of government securities to
+inject liquidity of over `700 billion,
+the structural deficit in the system has
+increased significantly, which could hurt
+the credit flow to productive sectors of
+the economy. the large structural deficit
+in the system presents a strong case for
+injecting permanent primary liquidity
+into the system.
+
+46.
+first, growth is decelerating.
+this reflects the combined impact of
+several factors: the uncertain global
+environment, the cumulative impact
+of past monetary policy tightening
+and domestic policy uncertainties.
+credit offtake has also been below the
+projected trajectory. while slowdown in
+the growth of demand was the expected
+outcome of monetary policy actions that
+were taken to contain inflation, at this
+juncture, risks to growth have increased.
+this is also reflected in the scaling down
+of the growth projection for 2011-12 by
+the reserve bank.
+
+49.
+against this backdrop, the stance
+of monetary policy is intended to:
+
+47.
+second, though headline wpi
+inflation is moderating, it largely reflects
+a sharp deceleration in prices of seasonal
+food items. inflation in respect of
+other key components, particularly
+protein-based food items and non-food
+
+13
+
+
+
+maintain an interest rate environment
+to contain inflation and anchor
+inflation expectations.
+
+
+
+manage liquidity to ensure that
+it remains in moderate deficit,
+consistent with effective monetary
+transmission.
+
+
+
+respond to increasing downside
+risks to growth.
+
+iv. monetary measures
+of 100 basis points above the repo rate,
+stands at 9.5 per cent.
+
+50.
+on the basis of current assessment
+and in line with the policy stance
+outlined in section iii, the reserve
+bank announces the following policy
+measures:
+
+bank rate
+56.
+the bank rate has been retained
+at 6.0 per cent.
+
+cash reserve ratio
+51.
+
+it has been decided to:
+
+guidance
+
+reduce the cash reserve ratio (crr)
+of scheduled banks by 50 basis
+points from 6.0 per cent to 5.5 per
+cent of their net demand and time
+liabilities (ndtl) effective the
+fortnight beginning january 28, 2012.
+
+marginal standing facility (msf)
+rate
+
+57.
+in reducing the crr, the reserve
+bank has attempted to address the
+structural pressures on liquidity in a
+way that is not inconsistent with the
+prevailing monetary stance. in the two
+previous guidances, it was indicated that
+the cycle of rate increases had peaked
+and further actions were likely to reverse
+the cycle. based on the current inflation
+trajectory, including consideration of
+suppressed inflation, it is premature
+to begin reducing the policy rate. the
+reduction in the policy rate will be
+conditioned by signs of sustainable
+moderation in inflation. however, the
+persistence of tight liquidity conditions
+could disrupt credit flow and further
+exacerbate growth risks. in this context,
+the crr is the most effective instrument
+for permanent liquidity injections over a
+sustained period of time. the reduction
+can also be viewed as a reinforcement
+of the guidance that future rate actions
+will be towards lowering them.
+
+55.
+the marginal standing facility
+(msf) rate, determined with a spread
+
+58.
+however, it must be emphasised
+that the timing and magnitude of future
+
+
+
+52.
+as a result of the reduction in the
+crr, around `320 billion of primary
+liquidity will be injected into the banking
+system.
+repo rate
+53.
+the policy repo rate under the
+liquidity adjustment facility (laf) has
+been retained at 8.5 per cent.
+reverse repo rate
+54.
+the reverse repo rate under the
+laf, determined with a spread of 100
+basis points below the repo rate, stands
+at 7.5 per cent.
+
+14
+
+budget must exploit the opportunity
+to begin this process in a credible and
+sustainable way.
+
+rate actions is contingent on a number
+of factors. policy and administrative
+actions, which induce investment that
+will help alleviate supply constraints
+in food and infrastructure, are critical.
+initiatives to narrow skill mismatches
+in labour markets will help ease the
+pressure on wages. the anticipated
+fiscal slippage, which is caused largely
+by high levels of consumption spending
+by the government, poses a significant
+threat to both inflation management
+and, more broadly, to macroeconomic
+stability.
+
+expected outcomes
+60.
+the policy actions and the
+guidance in this statement given are
+expected to:
+i)
+
+ease liquidity conditions.
+
+ii)
+
+mitigate downside risks to growth.
+
+iii) continue to anchor medium-term
+
+inflation expectations on the basis
+of a credible commitment to low
+and stable inflation.
+
+59.
+strong signs of fiscal
+consolidation, which will shift the
+balance of aggregate demand from
+public to private and from consumption
+to capital formation, are critical to create
+the space for lowering the policy rate
+without the imminent risk of resurgent
+inflation. in the absence of credible
+fiscal consolidation, the reserve bank
+will be constrained from lowering the
+policy rate in response to decelerating
+private consumption and investment
+spending. the forthcoming union
+
+mid-quarter review of monetary
+policy 2011-12
+61.
+the next mid-quarter review of
+monetary policy for 2011-12 will be
+announced through a press release on
+thursday, march 15, 2012.
+monetary policy 2012-13
+62.
+the monetary policy for 2012-13
+will be announced on tuesday, april 17,
+2012.
+
+mumbai
+january 24, 2012
+
+15
+
+

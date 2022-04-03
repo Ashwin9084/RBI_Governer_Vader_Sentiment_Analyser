@@ -1,0 +1,609 @@
+प्रेस प्रकाशनी press release
+
+भारतीय �रज़वर् ब�क
+संचार �वभाग, क�द्र�य कायार्लय, एस.बी.एस.मागर्, मुंबई-400001
+
+_____________________________________________________________________________________________________________________
+
+department of communication, central office, s.b.s.marg, mumbai-400001
+फोन/phone: 91 22 2266 0502 फैक्स/fax: 91 22 22660358
+
+reserve bank of india
+
+: www.rbi.org.in/hindi
+website : www.rbi.org.in
+इ-मेल email: helpdoc@rbi.org.in
+0
+
+वेबसाइट
+
+april 05, 2016
+first bi-monthly monetary policy statement, 2016-17
+by dr. raghuram g. rajan, governor
+part a: monetary policy
+monetary and liquidity measures
+on the basis of an assessment of the current and evolving macroeconomic
+situation, it has been decided to:
+•
+
+reduce the policy repo rate under the liquidity adjustment facility (laf) by 25
+basis points from 6.75 per cent to 6.5 per cent;
+
+•
+
+reduce the minimum daily maintenance of the cash reserve ratio (crr) from
+95 per cent of the requirement to 90 per cent with effect from the fortnight
+beginning april 16, 2016, while keeping the crr unchanged at 4.0 per cent of
+net demand and time liabilities (ndtl);
+
+•
+
+continue to provide liquidity as required but progressively lower the average ex
+ante liquidity deficit in the system from one per cent of ndtl to a position
+closer to neutrality; and
+
+•
+
+narrow the policy rate corridor from +/-100 basis points (bps) to +/- 50 bps by
+reducing the msf rate by 75 basis points and increasing the reverse repo rate
+by 25 basis points, with a view to ensuring finer alignment of the weighted
+average call rate (wacr) with the repo rate;
+
+consequently, the reverse repo rate under the laf stands adjusted to 6.0 per
+cent, and the marginal standing facility (msf) rate to 7.0 per cent. the bank rate
+which is aligned to the msf rate also stands adjusted to 7.0 per cent.
+assessment
+2.
+since the sixth bi-monthly statement of february 2016, global economic
+activity has been quiescent. perceptions of downside risks to recovery in some
+advanced economies (aes) at the beginning of 2016 have eased, while major
+emerging market economies (emes) continue to contend with weak growth and still
+elevated inflation amidst tighter financial conditions. world trade remains subdued
+due to falling import demand from emes and stress in mining and extractive
+industries. in the us, consumer spending was underpinned by a strengthening labour
+market, but flagging exports proved to be a drag on growth in q4 and cloud the nearterm outlook. in the euro area, tailwinds in the form of aggressive monetary policy
+accommodation and still low energy prices have supported activity in an environment
+beset with uncertainties from the migrant crisis, intensifying stress in the banking
+sector, and possible brexit. while japan escaped recession in q4 of 2015, a
+
+2
+combination of weak consumer spending, business investment and exports has
+slowed the economy in q1 of 2016. in china, sluggish industrial production,
+contracting exports, capital outflows and substantial excess capacity in factories and
+the property market remain formidable headwinds, notwithstanding significant
+monetary and fiscal policy stimulus. eme commodity exporters have benefited
+recently from the firming up of commodity prices and risk-on investor sentiment has
+appreciated their currencies. across emes, however, weak domestic fundamentals,
+lacklustre external demand and country-specific constraints continue to restrain
+growth.
+3.
+global financial markets have recouped the losses suffered in the turbulence
+at the beginning of the year. from mid-february, a firming up of crude prices buoyed
+market sentiment, allaying fears of global recessionary risks. with china reducing
+reserve requirements, the ecb expanding accommodation and the fed providing
+dovish guidance while staying on hold, equity markets rallied. in bond markets across
+aes and emes, yields gradually eased, with country-specific variations. the us
+dollar has retreated from january peak and has eased further in the aftermath of the
+fomc’s march meeting. on the other hand, the euro and the yen have appreciated,
+reacting perversely to exceptional accommodation. currencies across emes have
+also appreciated as portfolio flows returned cautiously to local debt and equity
+markets. gold prices have jumped 16 per cent in q1 of 2016 on safe haven demand.
+commodity prices, including oil, have picked up recently, though they still remain
+soft. however, the uneasy calm that prevails in financial markets could be dispelled
+easily by a sudden return of risk-off investor sentiment on incoming data, especially
+pertaining to china or to us inflation.
+4.
+on the domestic front, gross value added (gva) in agriculture and allied
+activities moderated in h2 of 2015-16, pulled down by the contraction in q3 due to
+the year-on-year decline in kharif production. turning to q4, second advance
+estimates of the ministry of agriculture indicate that despite acutely low reservoir
+levels and a deficient north-east monsoon, rabi foodgrains production increased over
+its level a year ago – mainly in wheat and pulses – and compensated partly for the
+shortfall in kharif output. unseasonal rains and hail in march are likely to have
+damaged some winter crops, particularly wheat, although full estimates of the crop
+loss await advance estimates. on the other hand, fertiliser production has picked up,
+and horticulture as well as allied activities have remained resilient, suggesting that
+the implicit estimate of gva for agricultural and allied activities in q4 in the cso’s
+advance estimates is likely to be achieved, if not revised upwards.
+5.
+value added in industry accelerated in h2, led by manufacturing which
+benefited from the sustained softness in input costs. by contrast, industrial production
+remained flat with manufacturing output shrinking since november. robust
+expansion in coal output has buoyed both mining activity and electricity generation
+and stemmed the weakening of industrial output. however, capital goods production
+fell into deep contraction since november, even after excluding lumpy and volatile
+items like rubber insulated cable. weak demand and competition from imports have
+muted the capex cycle. consumer non-durables production has been shrinking, with
+a pronounced decline in q4. this reflects the continuing slack in rural demand. on
+the other hand, consumer durables remained strong, even after abstracting from
+favourable base effects, which suggests that urban demand is holding up. with
+improved perceptions on overall economic conditions and income, the reserve
+bank’s consumer confidence survey of march 2016 shows marginal improvement in
+consumer sentiments. the march manufacturing purchasing managers’ index (pmi)
+continued in expansionary mode on the back of new orders, including exports. the
+
+3
+reserve bank’s industrial outlook survey suggests that business expectations for q1
+of 2016-17 continue to be positive.
+
+6.
+services sector activity expanded steadily through the year, with trade, hotels,
+transport, communication and public administration, defence and related services
+turning out to be the main drivers in h2. the construction sector continues to be
+overburdened by unsold inventory in the residential space, although commercial real
+estate is being boosted by demand from information technology (it) and it-enabled
+services. road construction has accelerated, including in terms of new awards.
+cement production appears to have gained traction during h2, while steel
+consumption has increased at a steady pace. various lead and coincident indicators
+such as air passenger traffic, air cargo volumes, foreign tourist arrivals and auto
+sales increased, while railway freight traffic marginally contracted. the services pmi
+remained in expansion mode during h2 on new business and expectations. the
+outlook for services in surveys is upbeat for q1 of 2016-17.
+7.
+retail inflation measured by the consumer price index (cpi) dropped sharply
+in february after rising for six consecutive months. this favourable development was
+due to a larger than anticipated decline in vegetable prices, helped by prices of
+pulses starting to come off the surge that began in august, and effective supply
+management that helped limit cereal price increases. accordingly, food inflation
+eased for the first time in the second half of 2015-16. notably, this occurred on a
+decline in prices rather than favourable base effects, which were at work in the first
+half of the year. inflation in the fuel group moderated across electricity, kerosene,
+cooking gas and firewood, the latter easing pressures on rural inflation. three months
+ahead household inflation expectations declined to a single digit for the second
+consecutive round of the survey in response to these dynamics.
+8.
+cpi inflation excluding food and fuel edged up in february, mainly under
+housing, education, personal care and transport and communication, suggesting
+capacity constraints in the services sector. excluding petrol and diesel from this
+category, inflation stayed elevated and persistent at or above 5 per cent, indicating a
+possible resistance level for further downward movements in the headline. the
+stubborn underlying inflation momentum is unlikely to be helped by the 7th pay
+commission award and the effects of the one-rank-one-pension (orop) award, or
+by the cost-push effect of the increase in the service tax rate. however, rural wage
+growth as well as the rate of increase in corporate staff costs was moderate. also,
+input and output prices polled in purchasing managers’ surveys rose modestly for
+manufacturing and services.
+9.
+liquidity conditions, which had tightened since mid-december, were stretched
+further by the larger-than-usual accumulation of cash balances by the government,
+unusually heightened and persistent demand for currency, a pick-up in bank credit
+and flatter deposit mobilisation at this time relative to past years. the reserve bank
+undertook liquidity operations to quell these pressures and supplemented normal
+operations with large amounts of liquidity injected through fine-tuning variable rate
+repo auctions in tenors ranging between overnight and 56 days. the average daily
+liquidity injection (including variable rate overnight and term repos) increased from
+1,345 billion in january to
+1,935 billion in march. besides, durable liquidity was
+also provided through open market operations (omos) of the order of
+514 billion
+and 375 billion through buy-back operations in february and march. the reserve
+bank also started conducting reverse repo and msf operations on holidays in
+mumbai to enable the frictionless functioning of the payment and settlement system.
+
+4
+
+10.
+effective april 2, 2016 the statutory liquidity ratio (slr) of scheduled
+commercial banks was reduced by 25 basis points from 21.5 per cent to 21.25 per
+cent of their ndtl. also, from february 2016, banks were allowed to reckon
+additional government securities held by them up to 3 per cent of their ndtl within
+the mandatory slr requirement as level 1 high quality liquid assets (hqla) for the
+purpose of computing their liquidity coverage ratio (lcr), thereby taking the total
+carve-out from slr available to banks equivalent to 10 per cent of their ndtl. these
+measures will create space for banks to increase their lending to productive sectors
+on competitive terms so as to support investment and growth.
+11.
+fcnr(b) deposits and associated swaps undertaken in september 2013 are
+expected to mature starting september this year. it is important to note that these
+swaps are fully covered by the reserve bank’s forward purchases. moreover, the
+reserve bank will monitor developments closely to contain any unanticipated market
+volatility associated with the repayment.
+12.
+while exports declined in february in us dollar terms for the fifteenth
+successive month, the rate of contraction narrowed to a single digit for the first time in
+this period and volume growth turned positive. the decline in non-pol exports was
+even smaller, with gems and jewellery, drugs and pharmaceuticals, electronics and
+chemicals driving the upturn. the prolonged contraction in imports also slowed
+significantly, and non-pol non-gold import growth turned positive for the first time
+after seven months. this reflected a sizable upsurge in imports of machinery,
+supported by a pick-up in imports of pearls and precious stones and electronic
+goods. with gold imports falling in february and march, the continuing softness in
+crude prices working favourably in terms of conserving the pol import bill and some
+gains in terms of trade, the trade deficit narrowed to its lowest monthly level since
+september 2013. in turn, this has likely lowered the current account deficit (cad) in
+q4 below 1.3 per cent of gdp recorded in q3, despite a moderation in net receipts
+from services exports and remittances. net inflows in the form of foreign direct
+investment (fdi) were robust in q4 (up to january), more than sufficient to fund the
+external financing requirement. foreign portfolio investors (fpis), who were net
+sellers in the domestic capital market up to february, became net buyers in march in
+both equity and debt segments.
+policy stance and rationale
+13.
+inflation has evolved along the projected trajectory and the target set for
+january 2016 was met with a marginal undershoot. going forward, cpi inflation is
+expected to decelerate modestly and remain around 5 per cent during 2016-17 with
+small inter-quarter variations (chart 1). there are uncertainties surrounding this
+inflation path emanating from recent unseasonal rains, the likely spatial and temporal
+distribution of monsoon, the low reservoir levels by historical averages, and the
+strength of the recent upturn in commodity prices, especially oil. the persistence of
+inflation in certain services warrants watching, while the implementation of the 7th
+central pay commission awards will impart an upside to the baseline through direct
+and indirect effects. on the other hand, there will be some offsetting downside
+pressures stemming from tepid demand in the global economy, government’s
+effective supply side measures keeping a check on food prices, and the central
+government’s commendable commitment to fiscal consolidation.
+
+5
+
+14.
+the uneven recovery in growth in 2015-16 is likely to strengthen gradually into
+2016-17, assuming a normal monsoon, the likely boost to consumption demand from
+the implementation of the 7th pay commission recommendations and orop, and
+continuing monetary policy accommodation. after two consecutive years of deficient
+monsoon, a normal monsoon would work as a favourable supply shock,
+strengthening rural demand and augmenting the supply of farm products that also
+influence inflation. on the other hand, the fading impact of lower input costs on value
+addition in manufacturing, persisting corporate sector stress and risk aversion in the
+banking system, and the weaker global growth and trade outlook could impart a
+downside to growth outcomes going forward. the gva growth projection for 2016-17
+is accordingly retained at 7.6 per cent, with risks evenly balanced around it (chart 2).
+
+15.
+in its bi-monthly monetary policy statement of february 2, 2016, the reserve
+bank indicated that it awaits further data on inflation as well as on structural reforms
+in the union budget that boost growth while controlling spending. given recent data,
+forecasts in chart 1 indicate that inflation will trend towards the 5 per cent target in
+march 2017 under reasonable assumptions. the changes to the rbi act to create a
+
+6
+monetary policy committee will further strengthen monetary policy credibility. in the
+union budget for 2016-17, the government has adhered to the path of fiscal
+consolidation and this will support the disinflation process going forward. the
+government has also set out a comprehensive strategy for reinvigorating demand in
+the rural economy, enhancing the economy’s social and physical infrastructure, and
+improving the environment for doing business and deepening institutional reform. the
+implementation of these measures should improve supply conditions and allow
+efficiency and productivity gains to accrue. given weak private investment in the face
+of low capacity utilisation, a reduction in the policy rate by 25 bps will help strengthen
+activity and aid the government’s initiatives.
+16.
+perhaps more important at this juncture is to ensure that current and past
+policy rate cuts transmit to lending rates. the reduction in small savings rates
+announced in march 2016, the substantial refinements in the liquidity management
+framework announced in this policy review and the introduction of the marginal cost
+of funds based lending rate (mclr) should improve transmission and magnify the
+effects of the current policy rate cut. the stance of monetary policy will remain
+accommodative. the reserve bank will continue to watch macroeconomic and
+financial developments in the months ahead with a view to responding with further
+policy action as space opens up.
+part b: developmental and regulatory policies
+17.
+this part of the statement reviews the progress on various developmental and
+regulatory policy measures announced by the reserve bank in recent policy
+statements and also sets out new measures to be taken for further refining the
+liquidity management framework; strengthening the banking structure; broadening
+and deepening financial markets and extending the reach of financial services to all.
+i. liquidity framework for monetary policy operations
+18.
+the reserve bank’s liquidity framework was changed significantly in
+september 2014 in order to implement key recommendations of the expert
+committee to revise and strengthen the monetary policy framework (chairman: dr.
+urjit r patel). with over six quarters of implementation history, it is appropriate to
+review the experience, with a view to making necessary adjustments as well as to
+more fully implement the report of the expert committee.
+19.
+liquidity management is driven by two objectives: first, the need to supply or
+withdraw short term liquidity from the market so as to accommodate seasonal and
+frictional liquidity needs such as the build-up of government balances and demand
+for cash; and second, the need to supply durable liquidity in the economy so as to
+facilitate growth, while ensuring that the monetary policy stance is supported.
+20.
+the reserve bank has kept the system in an ex ante deficit mode on average,
+with a liquidity shortfall equivalent to one per cent of banks’ ndtl. the rationale has
+been that the banking system would borrow from the reserve bank’s liquidity
+facilities, ensuring that the repo rate guided short term money market rates and
+thereby was effective as the policy rate.
+21.
+the first objective of meeting short term liquidity needs has been
+accomplished through the provision of liquidity by the reserve bank under its regular
+facilities - variable rate 14-day/7-day repo auctions equivalent to 0.75 per cent of
+banking system ndtl, supplemented by daily overnight fixed rate repos (at the repo
+rate) equivalent to 0.25 per cent of bank-wise ndtl. frictional and seasonal
+mismatches that move the system away from normal liquidity provision are
+
+7
+addressed through fine-tuning operations, including variable rate repo/reverse repo
+auctions of varying tenors. the weighted average call money rate has tracked the
+policy rate more closely than in the past, suggesting that short term liquidity needs
+have been adequately met.
+22.
+the reserve bank aims to meet the second objective by modulating net
+foreign assets (nfa) and net domestic assets (nda) growth over the course of the
+year, broadly consistent with the demand for liquid assets to meet transaction needs
+of the economy. this will ensure adequate availability of durable liquidity, regardless
+of short term seasonal and frictional fluctuations. the reserve bank tries to smooth
+this growth over the year. so, for example, in periods when the reserve bank
+purchases significant quantities of nfa, the growth of nda may have to be
+commensurately lower and may even have to be negative through the open market
+sale of domestic bonds.
+23.
+experience suggests that the provision of short term liquidity does not
+substitute fully for needed durable liquidity, though durable liquidity can substitute for
+short term liquidity needs. going forward, the reserve bank intends to first meet
+requirements of durable liquidity, and then use its fine-tuning operations to make
+short term liquidity conditions consistent with the intended policy stance. this may
+result in seemingly anomalous situations in which the reserve bank injects durable
+liquidity even when it is using short term instruments to withdraw excess short term
+liquidity, but such actions will be consistent with our dual objectives of liquidity
+management.
+24.
+finally, given that new instruments such as variable rate reverse repo auctions
+allow the reserve bank to suck out excess short term liquidity from the system
+without the excess liquidity being deposited with the reserve bank through overnight
+fixed rate reverse repo, it is possible for the reserve bank to keep the system closer
+to balance on average without the operational rate falling significantly. thus, the past
+rationale for keeping the system in significant average liquidity deficit no longer is as
+compelling, especially when the policy stance is intended to be accommodative.
+moreover, given that the reserve bank’s market operations rather than depositing or
+borrowing at standing facilities determine the operational interest rate, the policy rate
+corridor can be narrowed, as suggested by the expert committee.
+25.
+
+therefore, it has been decided to:
+i) smooth the supply of durable liquidity over the year using asset purchases and
+sales as needed;
+ii) progressively lower the average ex ante liquidity deficit in the system to a
+position closer to neutrality;
+iii) narrow the policy rate corridor from +/-100 bps to +/- 50 bps, with a view to
+ensuring finer alignment of the wacr with the repo rate;
+iv) ease liquidity management for banks without abandoning liquidity discipline by
+reducing the minimum daily maintenance of crr from 95 per cent of the
+requirement to 90 per cent with effect from the fortnight beginning april 16,
+2016;
+v) allow substitution of securities in market repo transactions in order to facilitate
+development of the term money market; and
+
+8
+vi) consult with the government on how to moderate the build-up of cash
+balances with the reserve bank.
+detailed guidelines are being issued separately. the reserve bank will
+monitor the consequences of these changes as it modernises the country’s liquidity
+framework.
+ii. banking structure
+26.
+large exposures: taking into account the views and suggestions received
+from stakeholders on the discussion paper on ‘large exposures framework and
+enhancing credit supply through market mechanism’, a fresh discussion paper will
+be issued by april 30, 2016 on large borrowers meeting a part of their funding
+requirements from markets. a draft circular on the large exposures framework will
+be issued for public comments in june 2016 (to be implemented by january 1, 2019).
+27.
+revision of regulatory framework: the basel committee on banking
+supervision (bcbs) has issued final standards on the standardised approach for
+measuring counterparty credit risk (sa-ccr), a revised framework for the capital
+treatment of bank exposures to central counterparties (ccps) and final rules on
+revised pillar 3 disclosure requirements. these standards will be implemented by
+january 1, 2017 by bcbs member jurisdictions. the reserve bank proposes to
+issue draft guidelines on these standards by may 31, 2016. the reserve bank will
+also undertake revision of the guidelines on the securitisation framework in the light
+of the bcbs revisions to the securitisation framework which is to be implemented by
+january 2018. it is proposed to issue draft guidelines on the revised securitisation
+framework by june 2016.
+28.
+rationalisation of branch authorisation policy: currently, banks provide
+services through a variety of business outlets – branches; extension counters;
+satellite offices; mobile branches; ultra small branches and the like. the current
+policy approach is to facilitate adequate outreach of banking outlets in unbanked
+areas while at the same time providing autonomy to banks to decide their business
+strategy. given that regulations are written in terms of branches, with a view to
+facilitating financial inclusion and providing flexibility on the choice of delivery
+channel, it is proposed to redefine branches and permissible methods of outreach
+keeping in mind the various attributes of the banks and the types of services that are
+sought to be provided.
+29.
+differentiated licensing of banks: in addition to recently licensed
+differentiated banks such as payments banks and small finance banks, the reserve
+bank will explore the possibilities of licensing other differentiated banks such as
+custodian banks and banks concentrating on whole-sale and long-term financing. a
+paper in this regard will be put out for comments by september 2016.
+30.
+margin requirements for over the counter (otc) derivatives: in march
+2015, the bcbs and the international organisation of securities commissions
+(iosco) finalised a framework on margin requirements for non-centrally cleared
+derivatives. a consultative paper outlining the reserve bank’s approach to
+implementation of these requirements will be issued by end-april 2016 with a target
+of finalising the framework by end-july 2016.
+31.
+countercyclical capital buffers (cccb): a review and empirical testing of
+cccb indicators was carried out by the reserve bank to assess whether activation
+of the cccb is warranted and it has been decided that it is not necessary to activate
+cccb at this point in time.
+
+9
+32.
+supervisory enforcement framework: changes in the domestic and
+international financial sector environment necessitate formalisation of an improved
+supervisory framework for taking enforcement action against scheduled commercial
+banks for non-compliance of instructions and guidelines issued by the reserve bank.
+the framework, which is intended to meet the principles of natural justice and global
+standards of transparency, predictability, standardisation, consistency, severity and
+timeliness of action, will be formalised by june 2016.
+33.
+cyber risks - supervisory assessment of preparedness of banks: the
+reserve bank has commenced detailed examination of it used by banks on a pilot
+basis during the current year. it examination reports are being issued separately so
+as to strengthen the information security preparedness of banks as well as to assess
+the effectiveness of it adoption by banks. moving forward, it is planned to cover
+major banks in 2016-17 and all banks from 2017-18. the reserve bank has
+constituted an expert panel (chairperson: smt. meena hemachandra) on it
+examination and cyber security to provide broad guidance on its approach.
+34.
+technology support to urban cooperative banks (ucbs): as a part of the
+memorandum of understanding with the state governments/central government on
+ucbs, the reserve bank had agreed to provide technology support to ucbs with the
+objective of financial inclusion and ensuring implementation of standardised core
+banking solutions (cbs). it has been decided to prescribe standards and
+benchmarks for cbs in ucbs and provide financial assistance and technical support
+through the institute for development and research in banking technology (idrbt).
+the initial set-up cost in this regard will be borne by the reserve bank while the
+recurring cost will be borne by the ucbs. a circular in this regard is being issued
+separately.
+iii. financial markets
+35.
+introduction of money market futures: the working group on enhancing
+liquidity in the government securities and interest rate derivatives (chairman: shri
+r. gandhi) had recommended introduction of interest rate futures based on the
+overnight call money borrowing rate. it is important to develop such market
+segments which could signal expectations of market participants, while allowing
+hedging of asset-liability mismatches. it has been decided to allow futures on an
+appropriate money market rate. the contract specifications will be decided in
+consultation with market participants and the securities and exchange board of india
+(sebi) by end-september 2016.
+36.
+easier market access to gilt account holders: with a view to easing the
+process of investment by gilt account holders, it will be made incumbent on
+custodians to provide all gilt account holders access to the nds-om web facility to
+enable them to trade directly on the platform. a similar facility is also proposed to be
+extended to foreign portfolio investors (fpis). detailed guidelines in this regard will be
+issued by end-june 2016.
+37.
+broadening market participation - electronic trading platforms: in order
+to broaden participation in otc derivatives and to provide a safe trading
+environment, it is proposed to put in place a policy framework for authorisation of
+electronic platforms with linkage to an approved central counterparty for settlement.
+the framework will also cover forex platforms to facilitate hedging by small and retail
+customers. the draft framework will be placed on the website for wider feedback by
+end-september 2016. furthermore, in order to make participation in otc derivative
+
+10
+markets through electronic platforms more broad-based, it is proposed to review the
+existing guidelines on otc derivatives. guidelines will be issued by end-may 2016.
+38.
+tripartite repo in government securities market: the working group on
+enhancing liquidity in the government securities and interest rate derivatives
+(chairman: shri r. gandhi) had recommended introduction of tripartite repo to
+develop a term repo market. in this context, it has been decided to undertake a
+comprehensive review of collateralised money market segments, including
+introduction of tripartite repo, in consultation with market participants. the review will
+be placed on the reserve bank’s website by september 2016 for wider feedback.
+39.
+review of guidelines for commercial paper (cp): with a spurt in the
+issuance of cps, market participants and the fixed income money market and
+derivatives association (fimmda) have expressed the need for greater transparency
+and better dissemination of information. accordingly, it is proposed to undertake a
+comprehensive review of guidelines with the objective of, inter alia, strengthening
+disclosure requirements by issuers of cps, reviewing the role of issuing and paying
+agents (ipas) and putting in place an information dissemination mechanism. draft
+guidelines in this regard will be issued by end-july 2016 for wider feedback.
+40.
+guidelines for accounting of repo/reverse repo transactions with the
+reserve bank: it is proposed to align the accounting norms to be followed by market
+participants for repo/reverse repo transactions under the liquidity adjustment facility
+(laf) and the marginal standing facility (msf) with the accounting guidelines
+prescribed for market repo transactions. guidelines in this regard will be issued by
+end-may 2016.
+41.
+easing of restrictions on plain vanilla forex options: currently, plain
+vanilla currency options require adherence to stringent suitability and
+appropriateness norms although they are considered a generic product, while
+forward contracts are exempt from the same. it is proposed to bring plain vanilla
+forex options bought by bank clients at par with forex forwards on regulatory
+requirements. detailed guidelines will be issued by end-september 2016.
+42.
+forex benchmark-rbi reference rate: the reserve bank calculates and
+notifies the reference rate of the rupee (inr) against the us dollar and also publishes
+inr rates against the euro, the pound sterling and the yen every day around 1:30
+p.m. these rates are based on quotes polled from a select list of contributing banks.
+as recommended by the committee on financial benchmarks (chairman: shri p.
+vijaya bhaskar), it has been decided to move over to a process of determining the
+reference rate based on actual market transactions on volume weighted basis with
+effect from may 2, 2016.
+43.
+allowing non-resident indians (nris) to participate in the exchange
+traded currency derivatives (etcd) market: it has been decided to permit nris
+to participate in the etcds, subject to limits and other conditions that are stipulated
+by the exchanges recognised by the sebi. guidelines in this regard will be issued by
+the reserve bank in consultation with the sebi by end-june 2016.
+44.
+initiatives for start-ups: in the sixth bi-monthly monetary policy statement
+for 2015-16 and the press release dated february 2, 2016 the reserve bank had
+highlighted the steps being taken with respect to the government’s initiatives to
+promote ease of doing business for start-ups. guidelines/clarifications have already
+been issued in areas such as online submission of form a2 for outward remittances
+up to certain thresholds, issue of shares without cash payments and acceptance of
+
+11
+payments by the indian start-ups on behalf of their overseas subsidiaries. in addition,
+guidelines in respect of deferred payment through escrow/ indemnity arrangement for
+transfer of shares, enabling investment by foreign venture capital investors (fvcis) in
+start-ups and overseas investment operations for start-ups will be issued soon in
+consultation with the government. furthermore, the simplification of process for
+dealing with delayed reporting of fdi transactions and provisions for an enabling
+external commercial borrowing regime for start-ups are being examined by the
+government and the reserve bank.
+iv. non-banking financial sector, financial inclusion and payment and
+settlement
+45.
+simplification of process of registration of new non-banking financial
+companies (nbfcs): in order to make the process of registration of new nbfcs
+smoother and hassle free, it has been decided to simplify and rationalise the process
+of registering new nbfcs. the new application forms will be simpler and the number
+of documents required to be submitted will be reduced to a minimum.
+46.
+peer to peer lending (p2p): p2p lending has shown accelerated growth
+over the last one year. while encouraging innovations, the reserve bank cannot be
+oblivious to the risks posed by such institutions to the system. a concept note on
+p2p lending will be put up on the reserve bank’s website for public comments by
+april 30, 2016 and based on the feedback, the contours of regulating p2p lending will
+be decided in consultation with the sebi.
+47.
+strengthening business correspondent (bc) infrastructure: the bc
+model offers significant scope for further strengthening. accordingly, the following
+initiatives are proposed:
+i) in order to ensure the competence of bcs and to promote quality delivery of
+financial services, a graded certification/training programme for bcs is
+proposed to be introduced. this would enable bcs with a good track record
+and advanced training to be entrusted with more complex tasks such as
+handling/delivery of financial products that go beyond deposit and remittance.
+the reserve bank will issue the necessary framework for establishing a
+certification programme for bcs by end-june 2016. based on the framework,
+the indian banks’ association (iba) will be requested to put in place a system
+of training and certification of bcs in coordination with external training
+institutes.
+ii) in order to have a tracking system of bcs, it is proposed to create a registry
+covering all bcs, both existing and new. the registration will be online and will
+capture basic details including location of fixed point bcs, nature of operations
+and the like. this database will be updated on a quarterly basis. the
+necessary enabling framework would be issued by the reserve bank by endjune 2016 and the iba will be requested to put in place a registry of bc
+agents in consultation with all stakeholders.
+48.
+micro, small and medium enterprises (msmes): the reserve bank will lay
+down a framework by september 2016 for accreditation of credit counsellors who can
+act as facilitators for entrepreneurs to access the formal financial system with greater
+ease and flexibility. credit counsellors will also assist msmes in preparing project
+reports in a professional manner which would, in turn, help banks make more
+informed credit decisions.
+
+12
+49.
+payment and settlement systems in india – vision 2018: the reserve
+bank will publish vision 2018 for the payment and settlement systems in the country
+by end-april 2016. vision 2018 will continue to focus on migrating to a “less-cash”
+and more digital society. the endeavour would be to make regulations more
+responsive to technological developments and innovations in the payments space.
+this would be complemented by enhanced supervision of payment system operators,
+improvement in customer grievance redressal mechanisms and for the strengthening
+of the payments infrastructure.
+50.
+the second bi-monthly monetary policy statement will be announced on june
+7, 2016; the third bi-monthly monetary policy statement on august 9, 2016; the fourth
+bi-monthly monetary policy statement on october 4, 2016; the fifth bi-monthly
+monetary policy statement on december 6, 2016; and the sixth bi-monthly monetary
+policy statement on february 7, 2017.
+
+press release : 2015-2016/2337
+
+sangeeta das
+director
+
+
