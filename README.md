@@ -20,11 +20,11 @@ The results of the sentiment analysis are presented in the following chart:
 
 ![Sentiment Analysis Results](./src/1.png)
 
-As you can see, the majority of the speeches have a neutral sentiment, while a few have a positive or negative sentiment.
+As you can see, the majority of the speeches have a positive sentiment, while a few have a neutral or negative sentiment.
 
 ## Conclusion
 
-In conclusion, this project demonstrates the use of NLP techniques for sentiment analysis on speeches delivered by the RBI Governor. The results show that the sentiment of the speeches is mostly neutral. However, further analysis can be done to identify the reasons for positive or negative sentiments in the speeches.
+In conclusion, this project demonstrates the use of NLP techniques for sentiment analysis on speeches delivered by the RBI Governor. The results show that the sentiment of the speeches is mostly positive, which is not imperative of the real situation. This shows the effect of signal jamming by the governor,as in the they represent the bad news in also a positive way. However, further analysis can be done to identify the reasons for positive or negative sentiments in the speeches.
 
 ## Getting Started
 
