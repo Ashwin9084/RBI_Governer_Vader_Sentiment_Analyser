@@ -18,7 +18,7 @@ The sentiment analysis model is trained on a labeled dataset using a machine lea
 
 The results of the sentiment analysis are presented in the following chart:
 
-![Sentiment Analysis Results](./images/sentiment_analysis_results.png)
+![Sentiment Analysis Results](./src/1.png)
 
 As you can see, the majority of the speeches have a neutral sentiment, while a few have a positive or negative sentiment.
 
