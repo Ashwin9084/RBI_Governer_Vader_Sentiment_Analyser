@@ -26,15 +26,6 @@ As you can see, the majority of the speeches have a positive sentiment, while a 
 
 In conclusion, this project demonstrates the use of NLP techniques for sentiment analysis on speeches delivered by the RBI Governor. The results show that the sentiment of the speeches is mostly positive, which is not imperative of the real situation. This shows the effect of signal jamming by the governor,as in the they represent the bad news in also a positive way. However, further analysis can be done to identify the reasons for positive or negative sentiments in the speeches.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/username/repo.git`
-2. Install the required packages: `pip install -r requirements.txt`
-3. Preprocess and clean the data: `python preprocess.py`
-4. Extract features: `python extract_features.py`
-5. Train and evaluate the model: `python train_model.py`
 
 ## Credits
 
