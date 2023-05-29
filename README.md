@@ -29,7 +29,7 @@ In conclusion, this project demonstrates the use of NLP techniques for sentiment
 
 ## Credits
 
-This project was developed by [Your Name](https://github.com/username).
+This project was developed by [Ashwin Nair](https://github.com/Ashwin9084).
 
 ## License
 
